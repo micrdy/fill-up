@@ -1,0 +1,21 @@
+<ion-view title="Abgelaufene Gutscheine">
+  <ion-nav-buttons side="right" nav-transition="none">
+    <button class="button button-icon icon ion-ios7-refresh-empty" ng-click="doRefreshAbgelaufen()"></button>
+  </ion-nav-buttons>
+
+  <ion-content>
+    <div ng-show="empty" class="card">
+      <div class="item item-text-wrap">
+        {{empty}}
+      </div>
+    </div>
+
+    <ion-list>
+      <ion-item ng-repeat="friend in friends" type="item-text-wrap">
+        <h2>{{friend.name}}</h2>
+        <p>{{friend.location}}</p>
+      </ion-item>
+    </ion-list>
+
+  </ion-content>
+</ion-view>

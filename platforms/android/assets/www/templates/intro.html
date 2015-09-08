@@ -1,0 +1,70 @@
+<ion-view title=" ">
+
+  <ion-nav-buttons side="left" nav-transition="none">
+    <button nav-transition="none" class="button button-white button-clear no-animation" ng-click="startApp()">Intro überspringen</button>
+  </ion-nav-buttons>
+
+  <ion-nav-buttons side="right" nav-transition="none">
+    <button nav-transition="none" class="button button-white button-clear no-animation" ng-click="startApp()" ng-if="slideIndex == 3"><strong>Starte Fill Up</strong></button>
+  </ion-nav-buttons>
+
+  <ion-slide-box on-slide-changed="slideChanged(index)">
+
+    <ion-slide>
+      <div class="logo" style="margin-top:50px">
+        <img width="200" height="200" src="img/icon.png">
+      </div>
+      <p>
+        Hallo!
+        <br>
+        Cool, dass du
+        <br>
+        mitmachst.
+      </p>
+    </ion-slide>
+
+    <ion-slide>
+      <div class="logo">
+        <img width="200" height="200" src="img/intro1.png">
+      </div>
+      <p>
+        Check die Getränke-
+        <br>
+        Gutscheine der
+        <br>
+        Bars & Clubs.
+      </p>
+    </ion-slide>
+
+    <ion-slide>
+      <div class="logo">
+        <img width="200" height="200" src="img/intro2.png">
+      </div>
+      <p>
+        Los geht`s zur Location,
+        <br>
+        die dein Lieblings-
+        <br>
+        Getränk anbietet.
+      </p>
+    </ion-slide>
+
+    <ion-slide>
+      <div class="logo">
+        <img width="200" height="200" src="img/intro3.png">
+      </div>
+      <p>
+        Der Barkeeper gibt
+        <br>
+        einen
+        Code ein.
+        <br>
+        Du bekommst dein
+        <br>
+        kostenloses Getränk.
+      </p>
+    </ion-slide>
+
+  </ion-slide-box>
+
+</ion-view>

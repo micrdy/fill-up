@@ -1,0 +1,1240 @@
+3.3.14 (Maptastic Maple)
+4acd22790b7b13b37a760ce3158d410d3325b19c
+o:Sass::Tree::RootNode:@template"æW// Ionicons Variables
+// --------------------------
+
+$ionicons-font-path: "../fonts" !default;
+$ionicons-font-family: "Ionicons" !default;
+$ionicons-version: "1.5.2" !default;
+$ionicons-prefix: ion- !default;
+
+$ionicon-var-alert: "\f101";
+$ionicon-var-alert-circled: "\f100";
+$ionicon-var-android-add: "\f2c7";
+$ionicon-var-android-add-contact: "\f2c6";
+$ionicon-var-android-alarm: "\f2c8";
+$ionicon-var-android-archive: "\f2c9";
+$ionicon-var-android-arrow-back: "\f2ca";
+$ionicon-var-android-arrow-down-left: "\f2cb";
+$ionicon-var-android-arrow-down-right: "\f2cc";
+$ionicon-var-android-arrow-forward: "\f30f";
+$ionicon-var-android-arrow-up-left: "\f2cd";
+$ionicon-var-android-arrow-up-right: "\f2ce";
+$ionicon-var-android-battery: "\f2cf";
+$ionicon-var-android-book: "\f2d0";
+$ionicon-var-android-calendar: "\f2d1";
+$ionicon-var-android-call: "\f2d2";
+$ionicon-var-android-camera: "\f2d3";
+$ionicon-var-android-chat: "\f2d4";
+$ionicon-var-android-checkmark: "\f2d5";
+$ionicon-var-android-clock: "\f2d6";
+$ionicon-var-android-close: "\f2d7";
+$ionicon-var-android-contact: "\f2d8";
+$ionicon-var-android-contacts: "\f2d9";
+$ionicon-var-android-data: "\f2da";
+$ionicon-var-android-developer: "\f2db";
+$ionicon-var-android-display: "\f2dc";
+$ionicon-var-android-download: "\f2dd";
+$ionicon-var-android-drawer: "\f310";
+$ionicon-var-android-dropdown: "\f2de";
+$ionicon-var-android-earth: "\f2df";
+$ionicon-var-android-folder: "\f2e0";
+$ionicon-var-android-forums: "\f2e1";
+$ionicon-var-android-friends: "\f2e2";
+$ionicon-var-android-hand: "\f2e3";
+$ionicon-var-android-image: "\f2e4";
+$ionicon-var-android-inbox: "\f2e5";
+$ionicon-var-android-information: "\f2e6";
+$ionicon-var-android-keypad: "\f2e7";
+$ionicon-var-android-lightbulb: "\f2e8";
+$ionicon-var-android-locate: "\f2e9";
+$ionicon-var-android-location: "\f2ea";
+$ionicon-var-android-mail: "\f2eb";
+$ionicon-var-android-microphone: "\f2ec";
+$ionicon-var-android-mixer: "\f2ed";
+$ionicon-var-android-more: "\f2ee";
+$ionicon-var-android-note: "\f2ef";
+$ionicon-var-android-playstore: "\f2f0";
+$ionicon-var-android-printer: "\f2f1";
+$ionicon-var-android-promotion: "\f2f2";
+$ionicon-var-android-reminder: "\f2f3";
+$ionicon-var-android-remove: "\f2f4";
+$ionicon-var-android-search: "\f2f5";
+$ionicon-var-android-send: "\f2f6";
+$ionicon-var-android-settings: "\f2f7";
+$ionicon-var-android-share: "\f2f8";
+$ionicon-var-android-social: "\f2fa";
+$ionicon-var-android-social-user: "\f2f9";
+$ionicon-var-android-sort: "\f2fb";
+$ionicon-var-android-stair-drawer: "\f311";
+$ionicon-var-android-star: "\f2fc";
+$ionicon-var-android-stopwatch: "\f2fd";
+$ionicon-var-android-storage: "\f2fe";
+$ionicon-var-android-system-back: "\f2ff";
+$ionicon-var-android-system-home: "\f300";
+$ionicon-var-android-system-windows: "\f301";
+$ionicon-var-android-timer: "\f302";
+$ionicon-var-android-trash: "\f303";
+$ionicon-var-android-user-menu: "\f312";
+$ionicon-var-android-volume: "\f304";
+$ionicon-var-android-wifi: "\f305";
+$ionicon-var-aperture: "\f313";
+$ionicon-var-archive: "\f102";
+$ionicon-var-arrow-down-a: "\f103";
+$ionicon-var-arrow-down-b: "\f104";
+$ionicon-var-arrow-down-c: "\f105";
+$ionicon-var-arrow-expand: "\f25e";
+$ionicon-var-arrow-graph-down-left: "\f25f";
+$ionicon-var-arrow-graph-down-right: "\f260";
+$ionicon-var-arrow-graph-up-left: "\f261";
+$ionicon-var-arrow-graph-up-right: "\f262";
+$ionicon-var-arrow-left-a: "\f106";
+$ionicon-var-arrow-left-b: "\f107";
+$ionicon-var-arrow-left-c: "\f108";
+$ionicon-var-arrow-move: "\f263";
+$ionicon-var-arrow-resize: "\f264";
+$ionicon-var-arrow-return-left: "\f265";
+$ionicon-var-arrow-return-right: "\f266";
+$ionicon-var-arrow-right-a: "\f109";
+$ionicon-var-arrow-right-b: "\f10a";
+$ionicon-var-arrow-right-c: "\f10b";
+$ionicon-var-arrow-shrink: "\f267";
+$ionicon-var-arrow-swap: "\f268";
+$ionicon-var-arrow-up-a: "\f10c";
+$ionicon-var-arrow-up-b: "\f10d";
+$ionicon-var-arrow-up-c: "\f10e";
+$ionicon-var-asterisk: "\f314";
+$ionicon-var-at: "\f10f";
+$ionicon-var-bag: "\f110";
+$ionicon-var-battery-charging: "\f111";
+$ionicon-var-battery-empty: "\f112";
+$ionicon-var-battery-full: "\f113";
+$ionicon-var-battery-half: "\f114";
+$ionicon-var-battery-low: "\f115";
+$ionicon-var-beaker: "\f269";
+$ionicon-var-beer: "\f26a";
+$ionicon-var-bluetooth: "\f116";
+$ionicon-var-bonfire: "\f315";
+$ionicon-var-bookmark: "\f26b";
+$ionicon-var-briefcase: "\f26c";
+$ionicon-var-bug: "\f2be";
+$ionicon-var-calculator: "\f26d";
+$ionicon-var-calendar: "\f117";
+$ionicon-var-camera: "\f118";
+$ionicon-var-card: "\f119";
+$ionicon-var-cash: "\f316";
+$ionicon-var-chatbox: "\f11b";
+$ionicon-var-chatbox-working: "\f11a";
+$ionicon-var-chatboxes: "\f11c";
+$ionicon-var-chatbubble: "\f11e";
+$ionicon-var-chatbubble-working: "\f11d";
+$ionicon-var-chatbubbles: "\f11f";
+$ionicon-var-checkmark: "\f122";
+$ionicon-var-checkmark-circled: "\f120";
+$ionicon-var-checkmark-round: "\f121";
+$ionicon-var-chevron-down: "\f123";
+$ionicon-var-chevron-left: "\f124";
+$ionicon-var-chevron-right: "\f125";
+$ionicon-var-chevron-up: "\f126";
+$ionicon-var-clipboard: "\f127";
+$ionicon-var-clock: "\f26e";
+$ionicon-var-close: "\f12a";
+$ionicon-var-close-circled: "\f128";
+$ionicon-var-close-round: "\f129";
+$ionicon-var-closed-captioning: "\f317";
+$ionicon-var-cloud: "\f12b";
+$ionicon-var-code: "\f271";
+$ionicon-var-code-download: "\f26f";
+$ionicon-var-code-working: "\f270";
+$ionicon-var-coffee: "\f272";
+$ionicon-var-compass: "\f273";
+$ionicon-var-compose: "\f12c";
+$ionicon-var-connection-bars: "\f274";
+$ionicon-var-contrast: "\f275";
+$ionicon-var-cube: "\f318";
+$ionicon-var-disc: "\f12d";
+$ionicon-var-document: "\f12f";
+$ionicon-var-document-text: "\f12e";
+$ionicon-var-drag: "\f130";
+$ionicon-var-earth: "\f276";
+$ionicon-var-edit: "\f2bf";
+$ionicon-var-egg: "\f277";
+$ionicon-var-eject: "\f131";
+$ionicon-var-email: "\f132";
+$ionicon-var-eye: "\f133";
+$ionicon-var-eye-disabled: "\f306";
+$ionicon-var-female: "\f278";
+$ionicon-var-filing: "\f134";
+$ionicon-var-film-marker: "\f135";
+$ionicon-var-fireball: "\f319";
+$ionicon-var-flag: "\f279";
+$ionicon-var-flame: "\f31a";
+$ionicon-var-flash: "\f137";
+$ionicon-var-flash-off: "\f136";
+$ionicon-var-flask: "\f138";
+$ionicon-var-folder: "\f139";
+$ionicon-var-fork: "\f27a";
+$ionicon-var-fork-repo: "\f2c0";
+$ionicon-var-forward: "\f13a";
+$ionicon-var-funnel: "\f31b";
+$ionicon-var-game-controller-a: "\f13b";
+$ionicon-var-game-controller-b: "\f13c";
+$ionicon-var-gear-a: "\f13d";
+$ionicon-var-gear-b: "\f13e";
+$ionicon-var-grid: "\f13f";
+$ionicon-var-hammer: "\f27b";
+$ionicon-var-happy: "\f31c";
+$ionicon-var-headphone: "\f140";
+$ionicon-var-heart: "\f141";
+$ionicon-var-heart-broken: "\f31d";
+$ionicon-var-help: "\f143";
+$ionicon-var-help-buoy: "\f27c";
+$ionicon-var-help-circled: "\f142";
+$ionicon-var-home: "\f144";
+$ionicon-var-icecream: "\f27d";
+$ionicon-var-icon-social-google-plus: "\f146";
+$ionicon-var-icon-social-google-plus-outline: "\f145";
+$ionicon-var-image: "\f147";
+$ionicon-var-images: "\f148";
+$ionicon-var-information: "\f14a";
+$ionicon-var-information-circled: "\f149";
+$ionicon-var-ionic: "\f14b";
+$ionicon-var-ios7-alarm: "\f14d";
+$ionicon-var-ios7-alarm-outline: "\f14c";
+$ionicon-var-ios7-albums: "\f14f";
+$ionicon-var-ios7-albums-outline: "\f14e";
+$ionicon-var-ios7-americanfootball: "\f31f";
+$ionicon-var-ios7-americanfootball-outline: "\f31e";
+$ionicon-var-ios7-analytics: "\f321";
+$ionicon-var-ios7-analytics-outline: "\f320";
+$ionicon-var-ios7-arrow-back: "\f150";
+$ionicon-var-ios7-arrow-down: "\f151";
+$ionicon-var-ios7-arrow-forward: "\f152";
+$ionicon-var-ios7-arrow-left: "\f153";
+$ionicon-var-ios7-arrow-right: "\f154";
+$ionicon-var-ios7-arrow-thin-down: "\f27e";
+$ionicon-var-ios7-arrow-thin-left: "\f27f";
+$ionicon-var-ios7-arrow-thin-right: "\f280";
+$ionicon-var-ios7-arrow-thin-up: "\f281";
+$ionicon-var-ios7-arrow-up: "\f155";
+$ionicon-var-ios7-at: "\f157";
+$ionicon-var-ios7-at-outline: "\f156";
+$ionicon-var-ios7-barcode: "\f323";
+$ionicon-var-ios7-barcode-outline: "\f322";
+$ionicon-var-ios7-baseball: "\f325";
+$ionicon-var-ios7-baseball-outline: "\f324";
+$ionicon-var-ios7-basketball: "\f327";
+$ionicon-var-ios7-basketball-outline: "\f326";
+$ionicon-var-ios7-bell: "\f159";
+$ionicon-var-ios7-bell-outline: "\f158";
+$ionicon-var-ios7-bolt: "\f15b";
+$ionicon-var-ios7-bolt-outline: "\f15a";
+$ionicon-var-ios7-bookmarks: "\f15d";
+$ionicon-var-ios7-bookmarks-outline: "\f15c";
+$ionicon-var-ios7-box: "\f15f";
+$ionicon-var-ios7-box-outline: "\f15e";
+$ionicon-var-ios7-briefcase: "\f283";
+$ionicon-var-ios7-briefcase-outline: "\f282";
+$ionicon-var-ios7-browsers: "\f161";
+$ionicon-var-ios7-browsers-outline: "\f160";
+$ionicon-var-ios7-calculator: "\f285";
+$ionicon-var-ios7-calculator-outline: "\f284";
+$ionicon-var-ios7-calendar: "\f163";
+$ionicon-var-ios7-calendar-outline: "\f162";
+$ionicon-var-ios7-camera: "\f165";
+$ionicon-var-ios7-camera-outline: "\f164";
+$ionicon-var-ios7-cart: "\f167";
+$ionicon-var-ios7-cart-outline: "\f166";
+$ionicon-var-ios7-chatboxes: "\f169";
+$ionicon-var-ios7-chatboxes-outline: "\f168";
+$ionicon-var-ios7-chatbubble: "\f16b";
+$ionicon-var-ios7-chatbubble-outline: "\f16a";
+$ionicon-var-ios7-checkmark: "\f16e";
+$ionicon-var-ios7-checkmark-empty: "\f16c";
+$ionicon-var-ios7-checkmark-outline: "\f16d";
+$ionicon-var-ios7-circle-filled: "\f16f";
+$ionicon-var-ios7-circle-outline: "\f170";
+$ionicon-var-ios7-clock: "\f172";
+$ionicon-var-ios7-clock-outline: "\f171";
+$ionicon-var-ios7-close: "\f2bc";
+$ionicon-var-ios7-close-empty: "\f2bd";
+$ionicon-var-ios7-close-outline: "\f2bb";
+$ionicon-var-ios7-cloud: "\f178";
+$ionicon-var-ios7-cloud-download: "\f174";
+$ionicon-var-ios7-cloud-download-outline: "\f173";
+$ionicon-var-ios7-cloud-outline: "\f175";
+$ionicon-var-ios7-cloud-upload: "\f177";
+$ionicon-var-ios7-cloud-upload-outline: "\f176";
+$ionicon-var-ios7-cloudy: "\f17a";
+$ionicon-var-ios7-cloudy-night: "\f308";
+$ionicon-var-ios7-cloudy-night-outline: "\f307";
+$ionicon-var-ios7-cloudy-outline: "\f179";
+$ionicon-var-ios7-cog: "\f17c";
+$ionicon-var-ios7-cog-outline: "\f17b";
+$ionicon-var-ios7-compose: "\f17e";
+$ionicon-var-ios7-compose-outline: "\f17d";
+$ionicon-var-ios7-contact: "\f180";
+$ionicon-var-ios7-contact-outline: "\f17f";
+$ionicon-var-ios7-copy: "\f182";
+$ionicon-var-ios7-copy-outline: "\f181";
+$ionicon-var-ios7-download: "\f184";
+$ionicon-var-ios7-download-outline: "\f183";
+$ionicon-var-ios7-drag: "\f185";
+$ionicon-var-ios7-email: "\f187";
+$ionicon-var-ios7-email-outline: "\f186";
+$ionicon-var-ios7-expand: "\f30d";
+$ionicon-var-ios7-eye: "\f189";
+$ionicon-var-ios7-eye-outline: "\f188";
+$ionicon-var-ios7-fastforward: "\f18b";
+$ionicon-var-ios7-fastforward-outline: "\f18a";
+$ionicon-var-ios7-filing: "\f18d";
+$ionicon-var-ios7-filing-outline: "\f18c";
+$ionicon-var-ios7-film: "\f18f";
+$ionicon-var-ios7-film-outline: "\f18e";
+$ionicon-var-ios7-flag: "\f191";
+$ionicon-var-ios7-flag-outline: "\f190";
+$ionicon-var-ios7-folder: "\f193";
+$ionicon-var-ios7-folder-outline: "\f192";
+$ionicon-var-ios7-football: "\f329";
+$ionicon-var-ios7-football-outline: "\f328";
+$ionicon-var-ios7-gear: "\f195";
+$ionicon-var-ios7-gear-outline: "\f194";
+$ionicon-var-ios7-glasses: "\f197";
+$ionicon-var-ios7-glasses-outline: "\f196";
+$ionicon-var-ios7-heart: "\f199";
+$ionicon-var-ios7-heart-outline: "\f198";
+$ionicon-var-ios7-help: "\f19c";
+$ionicon-var-ios7-help-empty: "\f19a";
+$ionicon-var-ios7-help-outline: "\f19b";
+$ionicon-var-ios7-home: "\f32b";
+$ionicon-var-ios7-home-outline: "\f32a";
+$ionicon-var-ios7-infinite: "\f19e";
+$ionicon-var-ios7-infinite-outline: "\f19d";
+$ionicon-var-ios7-information: "\f1a1";
+$ionicon-var-ios7-information-empty: "\f19f";
+$ionicon-var-ios7-information-outline: "\f1a0";
+$ionicon-var-ios7-ionic-outline: "\f1a2";
+$ionicon-var-ios7-keypad: "\f1a4";
+$ionicon-var-ios7-keypad-outline: "\f1a3";
+$ionicon-var-ios7-lightbulb: "\f287";
+$ionicon-var-ios7-lightbulb-outline: "\f286";
+$ionicon-var-ios7-location: "\f1a6";
+$ionicon-var-ios7-location-outline: "\f1a5";
+$ionicon-var-ios7-locked: "\f1a8";
+$ionicon-var-ios7-locked-outline: "\f1a7";
+$ionicon-var-ios7-loop: "\f32d";
+$ionicon-var-ios7-loop-strong: "\f32c";
+$ionicon-var-ios7-medkit: "\f289";
+$ionicon-var-ios7-medkit-outline: "\f288";
+$ionicon-var-ios7-mic: "\f1ab";
+$ionicon-var-ios7-mic-off: "\f1a9";
+$ionicon-var-ios7-mic-outline: "\f1aa";
+$ionicon-var-ios7-minus: "\f1ae";
+$ionicon-var-ios7-minus-empty: "\f1ac";
+$ionicon-var-ios7-minus-outline: "\f1ad";
+$ionicon-var-ios7-monitor: "\f1b0";
+$ionicon-var-ios7-monitor-outline: "\f1af";
+$ionicon-var-ios7-moon: "\f1b2";
+$ionicon-var-ios7-moon-outline: "\f1b1";
+$ionicon-var-ios7-more: "\f1b4";
+$ionicon-var-ios7-more-outline: "\f1b3";
+$ionicon-var-ios7-musical-note: "\f1b5";
+$ionicon-var-ios7-musical-notes: "\f1b6";
+$ionicon-var-ios7-navigate: "\f1b8";
+$ionicon-var-ios7-navigate-outline: "\f1b7";
+$ionicon-var-ios7-paper: "\f32f";
+$ionicon-var-ios7-paper-outline: "\f32e";
+$ionicon-var-ios7-paperplane: "\f1ba";
+$ionicon-var-ios7-paperplane-outline: "\f1b9";
+$ionicon-var-ios7-partlysunny: "\f1bc";
+$ionicon-var-ios7-partlysunny-outline: "\f1bb";
+$ionicon-var-ios7-pause: "\f1be";
+$ionicon-var-ios7-pause-outline: "\f1bd";
+$ionicon-var-ios7-paw: "\f331";
+$ionicon-var-ios7-paw-outline: "\f330";
+$ionicon-var-ios7-people: "\f1c0";
+$ionicon-var-ios7-people-outline: "\f1bf";
+$ionicon-var-ios7-person: "\f1c2";
+$ionicon-var-ios7-person-outline: "\f1c1";
+$ionicon-var-ios7-personadd: "\f1c4";
+$ionicon-var-ios7-personadd-outline: "\f1c3";
+$ionicon-var-ios7-photos: "\f1c6";
+$ionicon-var-ios7-photos-outline: "\f1c5";
+$ionicon-var-ios7-pie: "\f28b";
+$ionicon-var-ios7-pie-outline: "\f28a";
+$ionicon-var-ios7-play: "\f1c8";
+$ionicon-var-ios7-play-outline: "\f1c7";
+$ionicon-var-ios7-plus: "\f1cb";
+$ionicon-var-ios7-plus-empty: "\f1c9";
+$ionicon-var-ios7-plus-outline: "\f1ca";
+$ionicon-var-ios7-pricetag: "\f28d";
+$ionicon-var-ios7-pricetag-outline: "\f28c";
+$ionicon-var-ios7-pricetags: "\f333";
+$ionicon-var-ios7-pricetags-outline: "\f332";
+$ionicon-var-ios7-printer: "\f1cd";
+$ionicon-var-ios7-printer-outline: "\f1cc";
+$ionicon-var-ios7-pulse: "\f335";
+$ionicon-var-ios7-pulse-strong: "\f334";
+$ionicon-var-ios7-rainy: "\f1cf";
+$ionicon-var-ios7-rainy-outline: "\f1ce";
+$ionicon-var-ios7-recording: "\f1d1";
+$ionicon-var-ios7-recording-outline: "\f1d0";
+$ionicon-var-ios7-redo: "\f1d3";
+$ionicon-var-ios7-redo-outline: "\f1d2";
+$ionicon-var-ios7-refresh: "\f1d6";
+$ionicon-var-ios7-refresh-empty: "\f1d4";
+$ionicon-var-ios7-refresh-outline: "\f1d5";
+$ionicon-var-ios7-reload: "\f28e";
+$ionicon-var-ios7-reverse-camera: "\f337";
+$ionicon-var-ios7-reverse-camera-outline: "\f336";
+$ionicon-var-ios7-rewind: "\f1d8";
+$ionicon-var-ios7-rewind-outline: "\f1d7";
+$ionicon-var-ios7-search: "\f1da";
+$ionicon-var-ios7-search-strong: "\f1d9";
+$ionicon-var-ios7-settings: "\f339";
+$ionicon-var-ios7-settings-strong: "\f338";
+$ionicon-var-ios7-shrink: "\f30e";
+$ionicon-var-ios7-skipbackward: "\f1dc";
+$ionicon-var-ios7-skipbackward-outline: "\f1db";
+$ionicon-var-ios7-skipforward: "\f1de";
+$ionicon-var-ios7-skipforward-outline: "\f1dd";
+$ionicon-var-ios7-snowy: "\f309";
+$ionicon-var-ios7-speedometer: "\f290";
+$ionicon-var-ios7-speedometer-outline: "\f28f";
+$ionicon-var-ios7-star: "\f1e0";
+$ionicon-var-ios7-star-half: "\f33a";
+$ionicon-var-ios7-star-outline: "\f1df";
+$ionicon-var-ios7-stopwatch: "\f1e2";
+$ionicon-var-ios7-stopwatch-outline: "\f1e1";
+$ionicon-var-ios7-sunny: "\f1e4";
+$ionicon-var-ios7-sunny-outline: "\f1e3";
+$ionicon-var-ios7-telephone: "\f1e6";
+$ionicon-var-ios7-telephone-outline: "\f1e5";
+$ionicon-var-ios7-tennisball: "\f33c";
+$ionicon-var-ios7-tennisball-outline: "\f33b";
+$ionicon-var-ios7-thunderstorm: "\f1e8";
+$ionicon-var-ios7-thunderstorm-outline: "\f1e7";
+$ionicon-var-ios7-time: "\f292";
+$ionicon-var-ios7-time-outline: "\f291";
+$ionicon-var-ios7-timer: "\f1ea";
+$ionicon-var-ios7-timer-outline: "\f1e9";
+$ionicon-var-ios7-toggle: "\f33e";
+$ionicon-var-ios7-toggle-outline: "\f33d";
+$ionicon-var-ios7-trash: "\f1ec";
+$ionicon-var-ios7-trash-outline: "\f1eb";
+$ionicon-var-ios7-undo: "\f1ee";
+$ionicon-var-ios7-undo-outline: "\f1ed";
+$ionicon-var-ios7-unlocked: "\f1f0";
+$ionicon-var-ios7-unlocked-outline: "\f1ef";
+$ionicon-var-ios7-upload: "\f1f2";
+$ionicon-var-ios7-upload-outline: "\f1f1";
+$ionicon-var-ios7-videocam: "\f1f4";
+$ionicon-var-ios7-videocam-outline: "\f1f3";
+$ionicon-var-ios7-volume-high: "\f1f5";
+$ionicon-var-ios7-volume-low: "\f1f6";
+$ionicon-var-ios7-wineglass: "\f294";
+$ionicon-var-ios7-wineglass-outline: "\f293";
+$ionicon-var-ios7-world: "\f1f8";
+$ionicon-var-ios7-world-outline: "\f1f7";
+$ionicon-var-ipad: "\f1f9";
+$ionicon-var-iphone: "\f1fa";
+$ionicon-var-ipod: "\f1fb";
+$ionicon-var-jet: "\f295";
+$ionicon-var-key: "\f296";
+$ionicon-var-knife: "\f297";
+$ionicon-var-laptop: "\f1fc";
+$ionicon-var-leaf: "\f1fd";
+$ionicon-var-levels: "\f298";
+$ionicon-var-lightbulb: "\f299";
+$ionicon-var-link: "\f1fe";
+$ionicon-var-load-a: "\f29a";
+$ionicon-var-load-b: "\f29b";
+$ionicon-var-load-c: "\f29c";
+$ionicon-var-load-d: "\f29d";
+$ionicon-var-location: "\f1ff";
+$ionicon-var-locked: "\f200";
+$ionicon-var-log-in: "\f29e";
+$ionicon-var-log-out: "\f29f";
+$ionicon-var-loop: "\f201";
+$ionicon-var-magnet: "\f2a0";
+$ionicon-var-male: "\f2a1";
+$ionicon-var-man: "\f202";
+$ionicon-var-map: "\f203";
+$ionicon-var-medkit: "\f2a2";
+$ionicon-var-merge: "\f33f";
+$ionicon-var-mic-a: "\f204";
+$ionicon-var-mic-b: "\f205";
+$ionicon-var-mic-c: "\f206";
+$ionicon-var-minus: "\f209";
+$ionicon-var-minus-circled: "\f207";
+$ionicon-var-minus-round: "\f208";
+$ionicon-var-model-s: "\f2c1";
+$ionicon-var-monitor: "\f20a";
+$ionicon-var-more: "\f20b";
+$ionicon-var-mouse: "\f340";
+$ionicon-var-music-note: "\f20c";
+$ionicon-var-navicon: "\f20e";
+$ionicon-var-navicon-round: "\f20d";
+$ionicon-var-navigate: "\f2a3";
+$ionicon-var-network: "\f341";
+$ionicon-var-no-smoking: "\f2c2";
+$ionicon-var-nuclear: "\f2a4";
+$ionicon-var-outlet: "\f342";
+$ionicon-var-paper-airplane: "\f2c3";
+$ionicon-var-paperclip: "\f20f";
+$ionicon-var-pause: "\f210";
+$ionicon-var-person: "\f213";
+$ionicon-var-person-add: "\f211";
+$ionicon-var-person-stalker: "\f212";
+$ionicon-var-pie-graph: "\f2a5";
+$ionicon-var-pin: "\f2a6";
+$ionicon-var-pinpoint: "\f2a7";
+$ionicon-var-pizza: "\f2a8";
+$ionicon-var-plane: "\f214";
+$ionicon-var-planet: "\f343";
+$ionicon-var-play: "\f215";
+$ionicon-var-playstation: "\f30a";
+$ionicon-var-plus: "\f218";
+$ionicon-var-plus-circled: "\f216";
+$ionicon-var-plus-round: "\f217";
+$ionicon-var-podium: "\f344";
+$ionicon-var-pound: "\f219";
+$ionicon-var-power: "\f2a9";
+$ionicon-var-pricetag: "\f2aa";
+$ionicon-var-pricetags: "\f2ab";
+$ionicon-var-printer: "\f21a";
+$ionicon-var-pull-request: "\f345";
+$ionicon-var-qr-scanner: "\f346";
+$ionicon-var-quote: "\f347";
+$ionicon-var-radio-waves: "\f2ac";
+$ionicon-var-record: "\f21b";
+$ionicon-var-refresh: "\f21c";
+$ionicon-var-reply: "\f21e";
+$ionicon-var-reply-all: "\f21d";
+$ionicon-var-ribbon-a: "\f348";
+$ionicon-var-ribbon-b: "\f349";
+$ionicon-var-sad: "\f34a";
+$ionicon-var-scissors: "\f34b";
+$ionicon-var-search: "\f21f";
+$ionicon-var-settings: "\f2ad";
+$ionicon-var-share: "\f220";
+$ionicon-var-shuffle: "\f221";
+$ionicon-var-skip-backward: "\f222";
+$ionicon-var-skip-forward: "\f223";
+$ionicon-var-social-android: "\f225";
+$ionicon-var-social-android-outline: "\f224";
+$ionicon-var-social-apple: "\f227";
+$ionicon-var-social-apple-outline: "\f226";
+$ionicon-var-social-bitcoin: "\f2af";
+$ionicon-var-social-bitcoin-outline: "\f2ae";
+$ionicon-var-social-buffer: "\f229";
+$ionicon-var-social-buffer-outline: "\f228";
+$ionicon-var-social-designernews: "\f22b";
+$ionicon-var-social-designernews-outline: "\f22a";
+$ionicon-var-social-dribbble: "\f22d";
+$ionicon-var-social-dribbble-outline: "\f22c";
+$ionicon-var-social-dropbox: "\f22f";
+$ionicon-var-social-dropbox-outline: "\f22e";
+$ionicon-var-social-facebook: "\f231";
+$ionicon-var-social-facebook-outline: "\f230";
+$ionicon-var-social-foursquare: "\f34d";
+$ionicon-var-social-foursquare-outline: "\f34c";
+$ionicon-var-social-freebsd-devil: "\f2c4";
+$ionicon-var-social-github: "\f233";
+$ionicon-var-social-github-outline: "\f232";
+$ionicon-var-social-google: "\f34f";
+$ionicon-var-social-google-outline: "\f34e";
+$ionicon-var-social-googleplus: "\f235";
+$ionicon-var-social-googleplus-outline: "\f234";
+$ionicon-var-social-hackernews: "\f237";
+$ionicon-var-social-hackernews-outline: "\f236";
+$ionicon-var-social-instagram: "\f351";
+$ionicon-var-social-instagram-outline: "\f350";
+$ionicon-var-social-linkedin: "\f239";
+$ionicon-var-social-linkedin-outline: "\f238";
+$ionicon-var-social-pinterest: "\f2b1";
+$ionicon-var-social-pinterest-outline: "\f2b0";
+$ionicon-var-social-reddit: "\f23b";
+$ionicon-var-social-reddit-outline: "\f23a";
+$ionicon-var-social-rss: "\f23d";
+$ionicon-var-social-rss-outline: "\f23c";
+$ionicon-var-social-skype: "\f23f";
+$ionicon-var-social-skype-outline: "\f23e";
+$ionicon-var-social-tumblr: "\f241";
+$ionicon-var-social-tumblr-outline: "\f240";
+$ionicon-var-social-tux: "\f2c5";
+$ionicon-var-social-twitter: "\f243";
+$ionicon-var-social-twitter-outline: "\f242";
+$ionicon-var-social-usd: "\f353";
+$ionicon-var-social-usd-outline: "\f352";
+$ionicon-var-social-vimeo: "\f245";
+$ionicon-var-social-vimeo-outline: "\f244";
+$ionicon-var-social-windows: "\f247";
+$ionicon-var-social-windows-outline: "\f246";
+$ionicon-var-social-wordpress: "\f249";
+$ionicon-var-social-wordpress-outline: "\f248";
+$ionicon-var-social-yahoo: "\f24b";
+$ionicon-var-social-yahoo-outline: "\f24a";
+$ionicon-var-social-youtube: "\f24d";
+$ionicon-var-social-youtube-outline: "\f24c";
+$ionicon-var-speakerphone: "\f2b2";
+$ionicon-var-speedometer: "\f2b3";
+$ionicon-var-spoon: "\f2b4";
+$ionicon-var-star: "\f24e";
+$ionicon-var-stats-bars: "\f2b5";
+$ionicon-var-steam: "\f30b";
+$ionicon-var-stop: "\f24f";
+$ionicon-var-thermometer: "\f2b6";
+$ionicon-var-thumbsdown: "\f250";
+$ionicon-var-thumbsup: "\f251";
+$ionicon-var-toggle: "\f355";
+$ionicon-var-toggle-filled: "\f354";
+$ionicon-var-trash-a: "\f252";
+$ionicon-var-trash-b: "\f253";
+$ionicon-var-trophy: "\f356";
+$ionicon-var-umbrella: "\f2b7";
+$ionicon-var-university: "\f357";
+$ionicon-var-unlocked: "\f254";
+$ionicon-var-upload: "\f255";
+$ionicon-var-usb: "\f2b8";
+$ionicon-var-videocamera: "\f256";
+$ionicon-var-volume-high: "\f257";
+$ionicon-var-volume-low: "\f258";
+$ionicon-var-volume-medium: "\f259";
+$ionicon-var-volume-mute: "\f25a";
+$ionicon-var-wand: "\f358";
+$ionicon-var-waterdrop: "\f25b";
+$ionicon-var-wifi: "\f25c";
+$ionicon-var-wineglass: "\f2b9";
+$ionicon-var-woman: "\f25d";
+$ionicon-var-wrench: "\f2ba";
+$ionicon-var-xbox: "\f30c";:@children[^o:Sass::Tree::CommentNode
+:
+@type:silent;[ :@value[";/* Ionicons Variables
+ * -------------------------- */:@options{ :
+@lineio:Sass::Tree::VariableNode:
+@name"ionicons-font-path;[ :@global0;@:@source_rangeo:Sass::Source::Range	:
+@file"i/Users/lukasmenges/Documents/WEMAKO/Apps/gastro/www/lib/ionic/scss/ionicons/_ionicons-variables.scss:@end_poso:Sass::Source::Position;i	:@offseti.:@start_poso;;i	;i:@importero:$Sass::Importers::DeprecatedPath	:@same_name_warningso:Set:
+@hash{ :
+@root"4/Users/lukasmenges/Documents/WEMAKO/Apps/gastro:@warning_givenT:@specified_root".;i	:@guardedT:
+@expro: Sass::Script::Tree::Literal	;o: Sass::Script::Value::String;	:string;"../fonts;@:@filename@;o;	;@;o;;i	;i%;o;;i	;i;@;i	o;;"ionicons-font-family;[ ;0;@;o;	;@;o;;i
+;i0;o;;i
+;i;@;i
+; T;!o;"	;o;#;	;$;"Ionicons;@;%@;o;	;@;o;;i
+;i';o;;i
+;i;@;i
+o;;"ionicons-version;[ ;0;@;o;	;@;o;;i;i);o;;i;i;@;i; T;!o;"	;o;#;	;$;"
+1.5.2;@;%@;o;	;@;o;;i;i ;o;;i;i;@;io;;"ionicons-prefix;[ ;0;@;o;	;@;o;;i;i%;o;;i;i;@;i; T;!o;"	;o;#;	:identifier;"	ion-;@;%@;o;	;@;o;;i;i;o;;i;i;@;io;;"ionicon-var-alert;[ ;0;@;o;	;@;o;;i;i!;o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f101;@;%@;o;	;@;o;;i;i!;o;;i;i;@;io;;"ionicon-var-alert-circled;[ ;0;@;o;	;@;o;;i;i);o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f100;@;%@;o;	;@;o;;i;i);o;;i;i";@;io;;"ionicon-var-android-add;[ ;0;@;o;	;@;o;;i;i';o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f2c7;@;%@;o;	;@;o;;i;i';o;;i;i ;@;io;;"$ionicon-var-android-add-contact;[ ;0;@;o;	;@;o;;i;i/;o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f2c6;@;%@;o;	;@;o;;i;i/;o;;i;i(;@;io;;"ionicon-var-android-alarm;[ ;0;@;o;	;@;o;;i;i);o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f2c8;@;%@;o;	;@;o;;i;i);o;;i;i";@;io;;" ionicon-var-android-archive;[ ;0;@;o;	;@;o;;i;i+;o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f2c9;@;%@;o;	;@;o;;i;i+;o;;i;i$;@;io;;"#ionicon-var-android-arrow-back;[ ;0;@;o;	;@;o;;i;i.;o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f2ca;@;%@;o;	;@;o;;i;i.;o;;i;i';@;io;;"(ionicon-var-android-arrow-down-left;[ ;0;@;o;	;@;o;;i;i3;o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f2cb;@;%@;o;	;@;o;;i;i3;o;;i;i,;@;io;;")ionicon-var-android-arrow-down-right;[ ;0;@;o;	;@;o;;i;i4;o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f2cc;@;%@;o;	;@;o;;i;i4;o;;i;i-;@;io;;"&ionicon-var-android-arrow-forward;[ ;0;@;o;	;@;o;;i;i1;o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f30f;@;%@;o;	;@;o;;i;i1;o;;i;i*;@;io;;"&ionicon-var-android-arrow-up-left;[ ;0;@;o;	;@;o;;i;i1;o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f2cd;@;%@;o;	;@;o;;i;i1;o;;i;i*;@;io;;"'ionicon-var-android-arrow-up-right;[ ;0;@;o;	;@;o;;i;i2;o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f2ce;@;%@;o;	;@;o;;i;i2;o;;i;i+;@;io;;" ionicon-var-android-battery;[ ;0;@;o;	;@;o;;i;i+;o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f2cf;@;%@;o;	;@;o;;i;i+;o;;i;i$;@;io;;"ionicon-var-android-book;[ ;0;@;o;	;@;o;;i;i(;o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f2d0;@;%@;o;	;@;o;;i;i(;o;;i;i!;@;io;;"!ionicon-var-android-calendar;[ ;0;@;o;	;@;o;;i;i,;o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f2d1;@;%@;o;	;@;o;;i;i,;o;;i;i%;@;io;;"ionicon-var-android-call;[ ;0;@;o;	;@;o;;i;i(;o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f2d2;@;%@;o;	;@;o;;i;i(;o;;i;i!;@;io;;"ionicon-var-android-camera;[ ;0;@;o;	;@;o;;i;i*;o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f2d3;@;%@;o;	;@;o;;i;i*;o;;i;i#;@;io;;"ionicon-var-android-chat;[ ;0;@;o;	;@;o;;i;i(;o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f2d4;@;%@;o;	;@;o;;i;i(;o;;i;i!;@;io;;""ionicon-var-android-checkmark;[ ;0;@;o;	;@;o;;i ;i-;o;;i ;i;@;i ; 0;!o;"	;o;#;	;$;"
+\f2d5;@;%@;o;	;@;o;;i ;i-;o;;i ;i&;@;i o;;"ionicon-var-android-clock;[ ;0;@;o;	;@;o;;i!;i);o;;i!;i;@;i!; 0;!o;"	;o;#;	;$;"
+\f2d6;@;%@;o;	;@;o;;i!;i);o;;i!;i";@;i!o;;"ionicon-var-android-close;[ ;0;@;o;	;@;o;;i";i);o;;i";i;@;i"; 0;!o;"	;o;#;	;$;"
+\f2d7;@;%@;o;	;@;o;;i";i);o;;i";i";@;i"o;;" ionicon-var-android-contact;[ ;0;@;o;	;@;o;;i#;i+;o;;i#;i;@;i#; 0;!o;"	;o;#;	;$;"
+\f2d8;@;%@;o;	;@;o;;i#;i+;o;;i#;i$;@;i#o;;"!ionicon-var-android-contacts;[ ;0;@;o;	;@;o;;i$;i,;o;;i$;i;@;i$; 0;!o;"	;o;#;	;$;"
+\f2d9;@;%@;o;	;@;o;;i$;i,;o;;i$;i%;@;i$o;;"ionicon-var-android-data;[ ;0;@;o;	;@;o;;i%;i(;o;;i%;i;@;i%; 0;!o;"	;o;#;	;$;"
+\f2da;@;%@;o;	;@;o;;i%;i(;o;;i%;i!;@;i%o;;""ionicon-var-android-developer;[ ;0;@;o;	;@;o;;i&;i-;o;;i&;i;@;i&; 0;!o;"	;o;#;	;$;"
+\f2db;@;%@;o;	;@;o;;i&;i-;o;;i&;i&;@;i&o;;" ionicon-var-android-display;[ ;0;@;o;	;@;o;;i';i+;o;;i';i;@;i'; 0;!o;"	;o;#;	;$;"
+\f2dc;@;%@;o;	;@;o;;i';i+;o;;i';i$;@;i'o;;"!ionicon-var-android-download;[ ;0;@;o;	;@;o;;i(;i,;o;;i(;i;@;i(; 0;!o;"	;o;#;	;$;"
+\f2dd;@;%@;o;	;@;o;;i(;i,;o;;i(;i%;@;i(o;;"ionicon-var-android-drawer;[ ;0;@;o;	;@;o;;i);i*;o;;i);i;@;i); 0;!o;"	;o;#;	;$;"
+\f310;@;%@;o;	;@;o;;i);i*;o;;i);i#;@;i)o;;"!ionicon-var-android-dropdown;[ ;0;@;o;	;@;o;;i*;i,;o;;i*;i;@;i*; 0;!o;"	;o;#;	;$;"
+\f2de;@;%@;o;	;@;o;;i*;i,;o;;i*;i%;@;i*o;;"ionicon-var-android-earth;[ ;0;@;o;	;@;o;;i+;i);o;;i+;i;@;i+; 0;!o;"	;o;#;	;$;"
+\f2df;@;%@;o;	;@;o;;i+;i);o;;i+;i";@;i+o;;"ionicon-var-android-folder;[ ;0;@;o;	;@;o;;i,;i*;o;;i,;i;@;i,; 0;!o;"	;o;#;	;$;"
+\f2e0;@;%@;o;	;@;o;;i,;i*;o;;i,;i#;@;i,o;;"ionicon-var-android-forums;[ ;0;@;o;	;@;o;;i-;i*;o;;i-;i;@;i-; 0;!o;"	;o;#;	;$;"
+\f2e1;@;%@;o;	;@;o;;i-;i*;o;;i-;i#;@;i-o;;" ionicon-var-android-friends;[ ;0;@;o;	;@;o;;i.;i+;o;;i.;i;@;i.; 0;!o;"	;o;#;	;$;"
+\f2e2;@;%@;o;	;@;o;;i.;i+;o;;i.;i$;@;i.o;;"ionicon-var-android-hand;[ ;0;@;o;	;@;o;;i/;i(;o;;i/;i;@;i/; 0;!o;"	;o;#;	;$;"
+\f2e3;@;%@;o;	;@;o;;i/;i(;o;;i/;i!;@;i/o;;"ionicon-var-android-image;[ ;0;@;o;	;@;o;;i0;i);o;;i0;i;@;i0; 0;!o;"	;o;#;	;$;"
+\f2e4;@;%@;o;	;@;o;;i0;i);o;;i0;i";@;i0o;;"ionicon-var-android-inbox;[ ;0;@;o;	;@;o;;i1;i);o;;i1;i;@;i1; 0;!o;"	;o;#;	;$;"
+\f2e5;@;%@;o;	;@;o;;i1;i);o;;i1;i";@;i1o;;"$ionicon-var-android-information;[ ;0;@;o;	;@;o;;i2;i/;o;;i2;i;@;i2; 0;!o;"	;o;#;	;$;"
+\f2e6;@;%@;o;	;@;o;;i2;i/;o;;i2;i(;@;i2o;;"ionicon-var-android-keypad;[ ;0;@;o;	;@;o;;i3;i*;o;;i3;i;@;i3; 0;!o;"	;o;#;	;$;"
+\f2e7;@;%@;o;	;@;o;;i3;i*;o;;i3;i#;@;i3o;;""ionicon-var-android-lightbulb;[ ;0;@;o;	;@;o;;i4;i-;o;;i4;i;@;i4; 0;!o;"	;o;#;	;$;"
+\f2e8;@;%@;o;	;@;o;;i4;i-;o;;i4;i&;@;i4o;;"ionicon-var-android-locate;[ ;0;@;o;	;@;o;;i5;i*;o;;i5;i;@;i5; 0;!o;"	;o;#;	;$;"
+\f2e9;@;%@;o;	;@;o;;i5;i*;o;;i5;i#;@;i5o;;"!ionicon-var-android-location;[ ;0;@;o;	;@;o;;i6;i,;o;;i6;i;@;i6; 0;!o;"	;o;#;	;$;"
+\f2ea;@;%@;o;	;@;o;;i6;i,;o;;i6;i%;@;i6o;;"ionicon-var-android-mail;[ ;0;@;o;	;@;o;;i7;i(;o;;i7;i;@;i7; 0;!o;"	;o;#;	;$;"
+\f2eb;@;%@;o;	;@;o;;i7;i(;o;;i7;i!;@;i7o;;"#ionicon-var-android-microphone;[ ;0;@;o;	;@;o;;i8;i.;o;;i8;i;@;i8; 0;!o;"	;o;#;	;$;"
+\f2ec;@;%@;o;	;@;o;;i8;i.;o;;i8;i';@;i8o;;"ionicon-var-android-mixer;[ ;0;@;o;	;@;o;;i9;i);o;;i9;i;@;i9; 0;!o;"	;o;#;	;$;"
+\f2ed;@;%@;o;	;@;o;;i9;i);o;;i9;i";@;i9o;;"ionicon-var-android-more;[ ;0;@;o;	;@;o;;i:;i(;o;;i:;i;@;i:; 0;!o;"	;o;#;	;$;"
+\f2ee;@;%@;o;	;@;o;;i:;i(;o;;i:;i!;@;i:o;;"ionicon-var-android-note;[ ;0;@;o;	;@;o;;i;;i(;o;;i;;i;@;i;; 0;!o;"	;o;#;	;$;"
+\f2ef;@;%@;o;	;@;o;;i;;i(;o;;i;;i!;@;i;o;;""ionicon-var-android-playstore;[ ;0;@;o;	;@;o;;i<;i-;o;;i<;i;@;i<; 0;!o;"	;o;#;	;$;"
+\f2f0;@;%@;o;	;@;o;;i<;i-;o;;i<;i&;@;i<o;;" ionicon-var-android-printer;[ ;0;@;o;	;@;o;;i=;i+;o;;i=;i;@;i=; 0;!o;"	;o;#;	;$;"
+\f2f1;@;%@;o;	;@;o;;i=;i+;o;;i=;i$;@;i=o;;""ionicon-var-android-promotion;[ ;0;@;o;	;@;o;;i>;i-;o;;i>;i;@;i>; 0;!o;"	;o;#;	;$;"
+\f2f2;@;%@;o;	;@;o;;i>;i-;o;;i>;i&;@;i>o;;"!ionicon-var-android-reminder;[ ;0;@;o;	;@;o;;i?;i,;o;;i?;i;@;i?; 0;!o;"	;o;#;	;$;"
+\f2f3;@;%@;o;	;@;o;;i?;i,;o;;i?;i%;@;i?o;;"ionicon-var-android-remove;[ ;0;@;o;	;@;o;;i@;i*;o;;i@;i;@;i@; 0;!o;"	;o;#;	;$;"
+\f2f4;@;%@;o;	;@;o;;i@;i*;o;;i@;i#;@;i@o;;"ionicon-var-android-search;[ ;0;@;o;	;@;o;;iA;i*;o;;iA;i;@;iA; 0;!o;"	;o;#;	;$;"
+\f2f5;@;%@;o;	;@;o;;iA;i*;o;;iA;i#;@;iAo;;"ionicon-var-android-send;[ ;0;@;o;	;@;o;;iB;i(;o;;iB;i;@;iB; 0;!o;"	;o;#;	;$;"
+\f2f6;@;%@;o;	;@;o;;iB;i(;o;;iB;i!;@;iBo;;"!ionicon-var-android-settings;[ ;0;@;o;	;@;o;;iC;i,;o;;iC;i;@;iC; 0;!o;"	;o;#;	;$;"
+\f2f7;@;%@;o;	;@;o;;iC;i,;o;;iC;i%;@;iCo;;"ionicon-var-android-share;[ ;0;@;o;	;@;o;;iD;i);o;;iD;i;@;iD; 0;!o;"	;o;#;	;$;"
+\f2f8;@;%@;o;	;@;o;;iD;i);o;;iD;i";@;iDo;;"ionicon-var-android-social;[ ;0;@;o;	;@;o;;iE;i*;o;;iE;i;@;iE; 0;!o;"	;o;#;	;$;"
+\f2fa;@;%@;o;	;@;o;;iE;i*;o;;iE;i#;@;iEo;;"$ionicon-var-android-social-user;[ ;0;@;o;	;@;o;;iF;i/;o;;iF;i;@;iF; 0;!o;"	;o;#;	;$;"
+\f2f9;@;%@;o;	;@;o;;iF;i/;o;;iF;i(;@;iFo;;"ionicon-var-android-sort;[ ;0;@;o;	;@;o;;iG;i(;o;;iG;i;@;iG; 0;!o;"	;o;#;	;$;"
+\f2fb;@;%@;o;	;@;o;;iG;i(;o;;iG;i!;@;iGo;;"%ionicon-var-android-stair-drawer;[ ;0;@;o;	;@;o;;iH;i0;o;;iH;i;@;iH; 0;!o;"	;o;#;	;$;"
+\f311;@;%@;o;	;@;o;;iH;i0;o;;iH;i);@;iHo;;"ionicon-var-android-star;[ ;0;@;o;	;@;o;;iI;i(;o;;iI;i;@;iI; 0;!o;"	;o;#;	;$;"
+\f2fc;@;%@;o;	;@;o;;iI;i(;o;;iI;i!;@;iIo;;""ionicon-var-android-stopwatch;[ ;0;@;o;	;@;o;;iJ;i-;o;;iJ;i;@;iJ; 0;!o;"	;o;#;	;$;"
+\f2fd;@;%@;o;	;@;o;;iJ;i-;o;;iJ;i&;@;iJo;;" ionicon-var-android-storage;[ ;0;@;o;	;@;o;;iK;i+;o;;iK;i;@;iK; 0;!o;"	;o;#;	;$;"
+\f2fe;@;%@;o;	;@;o;;iK;i+;o;;iK;i$;@;iKo;;"$ionicon-var-android-system-back;[ ;0;@;o;	;@;o;;iL;i/;o;;iL;i;@;iL; 0;!o;"	;o;#;	;$;"
+\f2ff;@;%@;o;	;@;o;;iL;i/;o;;iL;i(;@;iLo;;"$ionicon-var-android-system-home;[ ;0;@;o;	;@;o;;iM;i/;o;;iM;i;@;iM; 0;!o;"	;o;#;	;$;"
+\f300;@;%@;o;	;@;o;;iM;i/;o;;iM;i(;@;iMo;;"'ionicon-var-android-system-windows;[ ;0;@;o;	;@;o;;iN;i2;o;;iN;i;@;iN; 0;!o;"	;o;#;	;$;"
+\f301;@;%@;o;	;@;o;;iN;i2;o;;iN;i+;@;iNo;;"ionicon-var-android-timer;[ ;0;@;o;	;@;o;;iO;i);o;;iO;i;@;iO; 0;!o;"	;o;#;	;$;"
+\f302;@;%@;o;	;@;o;;iO;i);o;;iO;i";@;iOo;;"ionicon-var-android-trash;[ ;0;@;o;	;@;o;;iP;i);o;;iP;i;@;iP; 0;!o;"	;o;#;	;$;"
+\f303;@;%@;o;	;@;o;;iP;i);o;;iP;i";@;iPo;;""ionicon-var-android-user-menu;[ ;0;@;o;	;@;o;;iQ;i-;o;;iQ;i;@;iQ; 0;!o;"	;o;#;	;$;"
+\f312;@;%@;o;	;@;o;;iQ;i-;o;;iQ;i&;@;iQo;;"ionicon-var-android-volume;[ ;0;@;o;	;@;o;;iR;i*;o;;iR;i;@;iR; 0;!o;"	;o;#;	;$;"
+\f304;@;%@;o;	;@;o;;iR;i*;o;;iR;i#;@;iRo;;"ionicon-var-android-wifi;[ ;0;@;o;	;@;o;;iS;i(;o;;iS;i;@;iS; 0;!o;"	;o;#;	;$;"
+\f305;@;%@;o;	;@;o;;iS;i(;o;;iS;i!;@;iSo;;"ionicon-var-aperture;[ ;0;@;o;	;@;o;;iT;i$;o;;iT;i;@;iT; 0;!o;"	;o;#;	;$;"
+\f313;@;%@;o;	;@;o;;iT;i$;o;;iT;i;@;iTo;;"ionicon-var-archive;[ ;0;@;o;	;@;o;;iU;i#;o;;iU;i;@;iU; 0;!o;"	;o;#;	;$;"
+\f102;@;%@;o;	;@;o;;iU;i#;o;;iU;i;@;iUo;;"ionicon-var-arrow-down-a;[ ;0;@;o;	;@;o;;iV;i(;o;;iV;i;@;iV; 0;!o;"	;o;#;	;$;"
+\f103;@;%@;o;	;@;o;;iV;i(;o;;iV;i!;@;iVo;;"ionicon-var-arrow-down-b;[ ;0;@;o;	;@;o;;iW;i(;o;;iW;i;@;iW; 0;!o;"	;o;#;	;$;"
+\f104;@;%@;o;	;@;o;;iW;i(;o;;iW;i!;@;iWo;;"ionicon-var-arrow-down-c;[ ;0;@;o;	;@;o;;iX;i(;o;;iX;i;@;iX; 0;!o;"	;o;#;	;$;"
+\f105;@;%@;o;	;@;o;;iX;i(;o;;iX;i!;@;iXo;;"ionicon-var-arrow-expand;[ ;0;@;o;	;@;o;;iY;i(;o;;iY;i;@;iY; 0;!o;"	;o;#;	;$;"
+\f25e;@;%@;o;	;@;o;;iY;i(;o;;iY;i!;@;iYo;;"&ionicon-var-arrow-graph-down-left;[ ;0;@;o;	;@;o;;iZ;i1;o;;iZ;i;@;iZ; 0;!o;"	;o;#;	;$;"
+\f25f;@;%@;o;	;@;o;;iZ;i1;o;;iZ;i*;@;iZo;;"'ionicon-var-arrow-graph-down-right;[ ;0;@;o;	;@;o;;i[;i2;o;;i[;i;@;i[; 0;!o;"	;o;#;	;$;"
+\f260;@;%@;o;	;@;o;;i[;i2;o;;i[;i+;@;i[o;;"$ionicon-var-arrow-graph-up-left;[ ;0;@;o;	;@;o;;i\;i/;o;;i\;i;@;i\; 0;!o;"	;o;#;	;$;"
+\f261;@;%@;o;	;@;o;;i\;i/;o;;i\;i(;@;i\o;;"%ionicon-var-arrow-graph-up-right;[ ;0;@;o;	;@;o;;i];i0;o;;i];i;@;i]; 0;!o;"	;o;#;	;$;"
+\f262;@;%@;o;	;@;o;;i];i0;o;;i];i);@;i]o;;"ionicon-var-arrow-left-a;[ ;0;@;o;	;@;o;;i^;i(;o;;i^;i;@;i^; 0;!o;"	;o;#;	;$;"
+\f106;@;%@;o;	;@;o;;i^;i(;o;;i^;i!;@;i^o;;"ionicon-var-arrow-left-b;[ ;0;@;o;	;@;o;;i_;i(;o;;i_;i;@;i_; 0;!o;"	;o;#;	;$;"
+\f107;@;%@;o;	;@;o;;i_;i(;o;;i_;i!;@;i_o;;"ionicon-var-arrow-left-c;[ ;0;@;o;	;@;o;;i`;i(;o;;i`;i;@;i`; 0;!o;"	;o;#;	;$;"
+\f108;@;%@;o;	;@;o;;i`;i(;o;;i`;i!;@;i`o;;"ionicon-var-arrow-move;[ ;0;@;o;	;@;o;;ia;i&;o;;ia;i;@;ia; 0;!o;"	;o;#;	;$;"
+\f263;@;%@;o;	;@;o;;ia;i&;o;;ia;i;@;iao;;"ionicon-var-arrow-resize;[ ;0;@;o;	;@;o;;ib;i(;o;;ib;i;@;ib; 0;!o;"	;o;#;	;$;"
+\f264;@;%@;o;	;@;o;;ib;i(;o;;ib;i!;@;ibo;;""ionicon-var-arrow-return-left;[ ;0;@;o;	;@;o;;ic;i-;o;;ic;i;@;ic; 0;!o;"	;o;#;	;$;"
+\f265;@;%@;o;	;@;o;;ic;i-;o;;ic;i&;@;ico;;"#ionicon-var-arrow-return-right;[ ;0;@;o;	;@;o;;id;i.;o;;id;i;@;id; 0;!o;"	;o;#;	;$;"
+\f266;@;%@;o;	;@;o;;id;i.;o;;id;i';@;ido;;"ionicon-var-arrow-right-a;[ ;0;@;o;	;@;o;;ie;i);o;;ie;i;@;ie; 0;!o;"	;o;#;	;$;"
+\f109;@;%@;o;	;@;o;;ie;i);o;;ie;i";@;ieo;;"ionicon-var-arrow-right-b;[ ;0;@;o;	;@;o;;if;i);o;;if;i;@;if; 0;!o;"	;o;#;	;$;"
+\f10a;@;%@;o;	;@;o;;if;i);o;;if;i";@;ifo;;"ionicon-var-arrow-right-c;[ ;0;@;o;	;@;o;;ig;i);o;;ig;i;@;ig; 0;!o;"	;o;#;	;$;"
+\f10b;@;%@;o;	;@;o;;ig;i);o;;ig;i";@;igo;;"ionicon-var-arrow-shrink;[ ;0;@;o;	;@;o;;ih;i(;o;;ih;i;@;ih; 0;!o;"	;o;#;	;$;"
+\f267;@;%@;o;	;@;o;;ih;i(;o;;ih;i!;@;iho;;"ionicon-var-arrow-swap;[ ;0;@;o;	;@;o;;ii;i&;o;;ii;i;@;ii; 0;!o;"	;o;#;	;$;"
+\f268;@;%@;o;	;@;o;;ii;i&;o;;ii;i;@;iio;;"ionicon-var-arrow-up-a;[ ;0;@;o;	;@;o;;ij;i&;o;;ij;i;@;ij; 0;!o;"	;o;#;	;$;"
+\f10c;@;%@;o;	;@;o;;ij;i&;o;;ij;i;@;ijo;;"ionicon-var-arrow-up-b;[ ;0;@;o;	;@;o;;ik;i&;o;;ik;i;@;ik; 0;!o;"	;o;#;	;$;"
+\f10d;@;%@;o;	;@;o;;ik;i&;o;;ik;i;@;iko;;"ionicon-var-arrow-up-c;[ ;0;@;o;	;@;o;;il;i&;o;;il;i;@;il; 0;!o;"	;o;#;	;$;"
+\f10e;@;%@;o;	;@;o;;il;i&;o;;il;i;@;ilo;;"ionicon-var-asterisk;[ ;0;@;o;	;@;o;;im;i$;o;;im;i;@;im; 0;!o;"	;o;#;	;$;"
+\f314;@;%@;o;	;@;o;;im;i$;o;;im;i;@;imo;;"ionicon-var-at;[ ;0;@;o;	;@;o;;in;i;o;;in;i;@;in; 0;!o;"	;o;#;	;$;"
+\f10f;@;%@;o;	;@;o;;in;i;o;;in;i;@;ino;;"ionicon-var-bag;[ ;0;@;o;	;@;o;;io;i;o;;io;i;@;io; 0;!o;"	;o;#;	;$;"
+\f110;@;%@;o;	;@;o;;io;i;o;;io;i;@;ioo;;"!ionicon-var-battery-charging;[ ;0;@;o;	;@;o;;ip;i,;o;;ip;i;@;ip; 0;!o;"	;o;#;	;$;"
+\f111;@;%@;o;	;@;o;;ip;i,;o;;ip;i%;@;ipo;;"ionicon-var-battery-empty;[ ;0;@;o;	;@;o;;iq;i);o;;iq;i;@;iq; 0;!o;"	;o;#;	;$;"
+\f112;@;%@;o;	;@;o;;iq;i);o;;iq;i";@;iqo;;"ionicon-var-battery-full;[ ;0;@;o;	;@;o;;ir;i(;o;;ir;i;@;ir; 0;!o;"	;o;#;	;$;"
+\f113;@;%@;o;	;@;o;;ir;i(;o;;ir;i!;@;iro;;"ionicon-var-battery-half;[ ;0;@;o;	;@;o;;is;i(;o;;is;i;@;is; 0;!o;"	;o;#;	;$;"
+\f114;@;%@;o;	;@;o;;is;i(;o;;is;i!;@;iso;;"ionicon-var-battery-low;[ ;0;@;o;	;@;o;;it;i';o;;it;i;@;it; 0;!o;"	;o;#;	;$;"
+\f115;@;%@;o;	;@;o;;it;i';o;;it;i ;@;ito;;"ionicon-var-beaker;[ ;0;@;o;	;@;o;;iu;i";o;;iu;i;@;iu; 0;!o;"	;o;#;	;$;"
+\f269;@;%@;o;	;@;o;;iu;i";o;;iu;i;@;iuo;;"ionicon-var-beer;[ ;0;@;o;	;@;o;;iv;i ;o;;iv;i;@;iv; 0;!o;"	;o;#;	;$;"
+\f26a;@;%@;o;	;@;o;;iv;i ;o;;iv;i;@;ivo;;"ionicon-var-bluetooth;[ ;0;@;o;	;@;o;;iw;i%;o;;iw;i;@;iw; 0;!o;"	;o;#;	;$;"
+\f116;@;%@;o;	;@;o;;iw;i%;o;;iw;i;@;iwo;;"ionicon-var-bonfire;[ ;0;@;o;	;@;o;;ix;i#;o;;ix;i;@;ix; 0;!o;"	;o;#;	;$;"
+\f315;@;%@;o;	;@;o;;ix;i#;o;;ix;i;@;ixo;;"ionicon-var-bookmark;[ ;0;@;o;	;@;o;;iy;i$;o;;iy;i;@;iy; 0;!o;"	;o;#;	;$;"
+\f26b;@;%@;o;	;@;o;;iy;i$;o;;iy;i;@;iyo;;"ionicon-var-briefcase;[ ;0;@;o;	;@;o;;iz;i%;o;;iz;i;@;iz; 0;!o;"	;o;#;	;$;"
+\f26c;@;%@;o;	;@;o;;iz;i%;o;;iz;i;@;izo;;"ionicon-var-bug;[ ;0;@;o;	;@;o;;i{;i;o;;i{;i;@;i{; 0;!o;"	;o;#;	;$;"
+\f2be;@;%@;o;	;@;o;;i{;i;o;;i{;i;@;i{o;;"ionicon-var-calculator;[ ;0;@;o;	;@;o;;i|;i&;o;;i|;i;@;i|; 0;!o;"	;o;#;	;$;"
+\f26d;@;%@;o;	;@;o;;i|;i&;o;;i|;i;@;i|o;;"ionicon-var-calendar;[ ;0;@;o;	;@;o;;i};i$;o;;i};i;@;i}; 0;!o;"	;o;#;	;$;"
+\f117;@;%@;o;	;@;o;;i};i$;o;;i};i;@;i}o;;"ionicon-var-camera;[ ;0;@;o;	;@;o;;i~;i";o;;i~;i;@;i~; 0;!o;"	;o;#;	;$;"
+\f118;@;%@;o;	;@;o;;i~;i";o;;i~;i;@;i~o;;"ionicon-var-card;[ ;0;@;o;	;@;o;;i;i ;o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f119;@;%@;o;	;@;o;;i;i ;o;;i;i;@;io;;"ionicon-var-cash;[ ;0;@;o;	;@;o;;i{;i ;o;;i{;i;@;i{; 0;!o;"	;o;#;	;$;"
+\f316;@;%@;o;	;@;o;;i{;i ;o;;i{;i;@;i{o;;"ionicon-var-chatbox;[ ;0;@;o;	;@;o;;i|;i#;o;;i|;i;@;i|; 0;!o;"	;o;#;	;$;"
+\f11b;@;%@;o;	;@;o;;i|;i#;o;;i|;i;@;i|o;;" ionicon-var-chatbox-working;[ ;0;@;o;	;@;o;;i};i+;o;;i};i;@;i}; 0;!o;"	;o;#;	;$;"
+\f11a;@;%@;o;	;@;o;;i};i+;o;;i};i$;@;i}o;;"ionicon-var-chatboxes;[ ;0;@;o;	;@;o;;i~;i%;o;;i~;i;@;i~; 0;!o;"	;o;#;	;$;"
+\f11c;@;%@;o;	;@;o;;i~;i%;o;;i~;i;@;i~o;;"ionicon-var-chatbubble;[ ;0;@;o;	;@;o;;i;i&;o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f11e;@;%@;o;	;@;o;;i;i&;o;;i;i;@;io;;"#ionicon-var-chatbubble-working;[ ;0;@;o;	;@;o;;iÄ;i.;o;;iÄ;i;@;iÄ; 0;!o;"	;o;#;	;$;"
+\f11d;@;%@;o;	;@;o;;iÄ;i.;o;;iÄ;i';@;iÄo;;"ionicon-var-chatbubbles;[ ;0;@;o;	;@;o;;iÅ;i';o;;iÅ;i;@;iÅ; 0;!o;"	;o;#;	;$;"
+\f11f;@;%@;o;	;@;o;;iÅ;i';o;;iÅ;i ;@;iÅo;;"ionicon-var-checkmark;[ ;0;@;o;	;@;o;;iÇ;i%;o;;iÇ;i;@;iÇ; 0;!o;"	;o;#;	;$;"
+\f122;@;%@;o;	;@;o;;iÇ;i%;o;;iÇ;i;@;iÇo;;""ionicon-var-checkmark-circled;[ ;0;@;o;	;@;o;;iÉ;i-;o;;iÉ;i;@;iÉ; 0;!o;"	;o;#;	;$;"
+\f120;@;%@;o;	;@;o;;iÉ;i-;o;;iÉ;i&;@;iÉo;;" ionicon-var-checkmark-round;[ ;0;@;o;	;@;o;;iÑ;i+;o;;iÑ;i;@;iÑ; 0;!o;"	;o;#;	;$;"
+\f121;@;%@;o;	;@;o;;iÑ;i+;o;;iÑ;i$;@;iÑo;;"ionicon-var-chevron-down;[ ;0;@;o;	;@;o;;iÖ;i(;o;;iÖ;i;@;iÖ; 0;!o;"	;o;#;	;$;"
+\f123;@;%@;o;	;@;o;;iÖ;i(;o;;iÖ;i!;@;iÖo;;"ionicon-var-chevron-left;[ ;0;@;o;	;@;o;;iÜ;i(;o;;iÜ;i;@;iÜ; 0;!o;"	;o;#;	;$;"
+\f124;@;%@;o;	;@;o;;iÜ;i(;o;;iÜ;i!;@;iÜo;;"ionicon-var-chevron-right;[ ;0;@;o;	;@;o;;iá;i);o;;iá;i;@;iá; 0;!o;"	;o;#;	;$;"
+\f125;@;%@;o;	;@;o;;iá;i);o;;iá;i";@;iáo;;"ionicon-var-chevron-up;[ ;0;@;o;	;@;o;;ià;i&;o;;ià;i;@;ià; 0;!o;"	;o;#;	;$;"
+\f126;@;%@;o;	;@;o;;ià;i&;o;;ià;i;@;iào;;"ionicon-var-clipboard;[ ;0;@;o;	;@;o;;iâ;i%;o;;iâ;i;@;iâ; 0;!o;"	;o;#;	;$;"
+\f127;@;%@;o;	;@;o;;iâ;i%;o;;iâ;i;@;iâo;;"ionicon-var-clock;[ ;0;@;o;	;@;o;;iä;i!;o;;iä;i;@;iä; 0;!o;"	;o;#;	;$;"
+\f26e;@;%@;o;	;@;o;;iä;i!;o;;iä;i;@;iäo;;"ionicon-var-close;[ ;0;@;o;	;@;o;;iã;i!;o;;iã;i;@;iã; 0;!o;"	;o;#;	;$;"
+\f12a;@;%@;o;	;@;o;;iã;i!;o;;iã;i;@;ião;;"ionicon-var-close-circled;[ ;0;@;o;	;@;o;;iå;i);o;;iå;i;@;iå; 0;!o;"	;o;#;	;$;"
+\f128;@;%@;o;	;@;o;;iå;i);o;;iå;i";@;iåo;;"ionicon-var-close-round;[ ;0;@;o;	;@;o;;iç;i';o;;iç;i;@;iç; 0;!o;"	;o;#;	;$;"
+\f129;@;%@;o;	;@;o;;iç;i';o;;iç;i ;@;iço;;""ionicon-var-closed-captioning;[ ;0;@;o;	;@;o;;ié;i-;o;;ié;i;@;ié; 0;!o;"	;o;#;	;$;"
+\f317;@;%@;o;	;@;o;;ié;i-;o;;ié;i&;@;iéo;;"ionicon-var-cloud;[ ;0;@;o;	;@;o;;iè;i!;o;;iè;i;@;iè; 0;!o;"	;o;#;	;$;"
+\f12b;@;%@;o;	;@;o;;iè;i!;o;;iè;i;@;ièo;;"ionicon-var-code;[ ;0;@;o;	;@;o;;iê;i ;o;;iê;i;@;iê; 0;!o;"	;o;#;	;$;"
+\f271;@;%@;o;	;@;o;;iê;i ;o;;iê;i;@;iêo;;"ionicon-var-code-download;[ ;0;@;o;	;@;o;;ië;i);o;;ië;i;@;ië; 0;!o;"	;o;#;	;$;"
+\f26f;@;%@;o;	;@;o;;ië;i);o;;ië;i";@;iëo;;"ionicon-var-code-working;[ ;0;@;o;	;@;o;;ií;i(;o;;ií;i;@;ií; 0;!o;"	;o;#;	;$;"
+\f270;@;%@;o;	;@;o;;ií;i(;o;;ií;i!;@;iío;;"ionicon-var-coffee;[ ;0;@;o;	;@;o;;iì;i";o;;iì;i;@;iì; 0;!o;"	;o;#;	;$;"
+\f272;@;%@;o;	;@;o;;iì;i";o;;iì;i;@;iìo;;"ionicon-var-compass;[ ;0;@;o;	;@;o;;iî;i#;o;;iî;i;@;iî; 0;!o;"	;o;#;	;$;"
+\f273;@;%@;o;	;@;o;;iî;i#;o;;iî;i;@;iîo;;"ionicon-var-compose;[ ;0;@;o;	;@;o;;iï;i#;o;;iï;i;@;iï; 0;!o;"	;o;#;	;$;"
+\f12c;@;%@;o;	;@;o;;iï;i#;o;;iï;i;@;iïo;;" ionicon-var-connection-bars;[ ;0;@;o;	;@;o;;iñ;i+;o;;iñ;i;@;iñ; 0;!o;"	;o;#;	;$;"
+\f274;@;%@;o;	;@;o;;iñ;i+;o;;iñ;i$;@;iño;;"ionicon-var-contrast;[ ;0;@;o;	;@;o;;ió;i$;o;;ió;i;@;ió; 0;!o;"	;o;#;	;$;"
+\f275;@;%@;o;	;@;o;;ió;i$;o;;ió;i;@;ióo;;"ionicon-var-cube;[ ;0;@;o;	;@;o;;iò;i ;o;;iò;i;@;iò; 0;!o;"	;o;#;	;$;"
+\f318;@;%@;o;	;@;o;;iò;i ;o;;iò;i;@;iòo;;"ionicon-var-disc;[ ;0;@;o;	;@;o;;iô;i ;o;;iô;i;@;iô; 0;!o;"	;o;#;	;$;"
+\f12d;@;%@;o;	;@;o;;iô;i ;o;;iô;i;@;iôo;;"ionicon-var-document;[ ;0;@;o;	;@;o;;iö;i$;o;;iö;i;@;iö; 0;!o;"	;o;#;	;$;"
+\f12f;@;%@;o;	;@;o;;iö;i$;o;;iö;i;@;iöo;;"ionicon-var-document-text;[ ;0;@;o;	;@;o;;iõ;i);o;;iõ;i;@;iõ; 0;!o;"	;o;#;	;$;"
+\f12e;@;%@;o;	;@;o;;iõ;i);o;;iõ;i";@;iõo;;"ionicon-var-drag;[ ;0;@;o;	;@;o;;iú;i ;o;;iú;i;@;iú; 0;!o;"	;o;#;	;$;"
+\f130;@;%@;o;	;@;o;;iú;i ;o;;iú;i;@;iúo;;"ionicon-var-earth;[ ;0;@;o;	;@;o;;iù;i!;o;;iù;i;@;iù; 0;!o;"	;o;#;	;$;"
+\f276;@;%@;o;	;@;o;;iù;i!;o;;iù;i;@;iùo;;"ionicon-var-edit;[ ;0;@;o;	;@;o;;iû;i ;o;;iû;i;@;iû; 0;!o;"	;o;#;	;$;"
+\f2bf;@;%@;o;	;@;o;;iû;i ;o;;iû;i;@;iûo;;"ionicon-var-egg;[ ;0;@;o;	;@;o;;iü;i;o;;iü;i;@;iü; 0;!o;"	;o;#;	;$;"
+\f277;@;%@;o;	;@;o;;iü;i;o;;iü;i;@;iüo;;"ionicon-var-eject;[ ;0;@;o;	;@;o;;i†;i!;o;;i†;i;@;i†; 0;!o;"	;o;#;	;$;"
+\f131;@;%@;o;	;@;o;;i†;i!;o;;i†;i;@;i†o;;"ionicon-var-email;[ ;0;@;o;	;@;o;;i°;i!;o;;i°;i;@;i°; 0;!o;"	;o;#;	;$;"
+\f132;@;%@;o;	;@;o;;i°;i!;o;;i°;i;@;i°o;;"ionicon-var-eye;[ ;0;@;o;	;@;o;;i¢;i;o;;i¢;i;@;i¢; 0;!o;"	;o;#;	;$;"
+\f133;@;%@;o;	;@;o;;i¢;i;o;;i¢;i;@;i¢o;;"ionicon-var-eye-disabled;[ ;0;@;o;	;@;o;;i£;i(;o;;i£;i;@;i£; 0;!o;"	;o;#;	;$;"
+\f306;@;%@;o;	;@;o;;i£;i(;o;;i£;i!;@;i£o;;"ionicon-var-female;[ ;0;@;o;	;@;o;;i§;i";o;;i§;i;@;i§; 0;!o;"	;o;#;	;$;"
+\f278;@;%@;o;	;@;o;;i§;i";o;;i§;i;@;i§o;;"ionicon-var-filing;[ ;0;@;o;	;@;o;;i•;i";o;;i•;i;@;i•; 0;!o;"	;o;#;	;$;"
+\f134;@;%@;o;	;@;o;;i•;i";o;;i•;i;@;i•o;;"ionicon-var-film-marker;[ ;0;@;o;	;@;o;;i¶;i';o;;i¶;i;@;i¶; 0;!o;"	;o;#;	;$;"
+\f135;@;%@;o;	;@;o;;i¶;i';o;;i¶;i ;@;i¶o;;"ionicon-var-fireball;[ ;0;@;o;	;@;o;;iß;i$;o;;iß;i;@;iß; 0;!o;"	;o;#;	;$;"
+\f319;@;%@;o;	;@;o;;iß;i$;o;;iß;i;@;ißo;;"ionicon-var-flag;[ ;0;@;o;	;@;o;;i®;i ;o;;i®;i;@;i®; 0;!o;"	;o;#;	;$;"
+\f279;@;%@;o;	;@;o;;i®;i ;o;;i®;i;@;i®o;;"ionicon-var-flame;[ ;0;@;o;	;@;o;;i©;i!;o;;i©;i;@;i©; 0;!o;"	;o;#;	;$;"
+\f31a;@;%@;o;	;@;o;;i©;i!;o;;i©;i;@;i©o;;"ionicon-var-flash;[ ;0;@;o;	;@;o;;i™;i!;o;;i™;i;@;i™; 0;!o;"	;o;#;	;$;"
+\f137;@;%@;o;	;@;o;;i™;i!;o;;i™;i;@;i™o;;"ionicon-var-flash-off;[ ;0;@;o;	;@;o;;i´;i%;o;;i´;i;@;i´; 0;!o;"	;o;#;	;$;"
+\f136;@;%@;o;	;@;o;;i´;i%;o;;i´;i;@;i´o;;"ionicon-var-flask;[ ;0;@;o;	;@;o;;i¨;i!;o;;i¨;i;@;i¨; 0;!o;"	;o;#;	;$;"
+\f138;@;%@;o;	;@;o;;i¨;i!;o;;i¨;i;@;i¨o;;"ionicon-var-folder;[ ;0;@;o;	;@;o;;i≠;i";o;;i≠;i;@;i≠; 0;!o;"	;o;#;	;$;"
+\f139;@;%@;o;	;@;o;;i≠;i";o;;i≠;i;@;i≠o;;"ionicon-var-fork;[ ;0;@;o;	;@;o;;iÆ;i ;o;;iÆ;i;@;iÆ; 0;!o;"	;o;#;	;$;"
+\f27a;@;%@;o;	;@;o;;iÆ;i ;o;;iÆ;i;@;iÆo;;"ionicon-var-fork-repo;[ ;0;@;o;	;@;o;;iØ;i%;o;;iØ;i;@;iØ; 0;!o;"	;o;#;	;$;"
+\f2c0;@;%@;o;	;@;o;;iØ;i%;o;;iØ;i;@;iØo;;"ionicon-var-forward;[ ;0;@;o;	;@;o;;i∞;i#;o;;i∞;i;@;i∞; 0;!o;"	;o;#;	;$;"
+\f13a;@;%@;o;	;@;o;;i∞;i#;o;;i∞;i;@;i∞o;;"ionicon-var-funnel;[ ;0;@;o;	;@;o;;i±;i";o;;i±;i;@;i±; 0;!o;"	;o;#;	;$;"
+\f31b;@;%@;o;	;@;o;;i±;i";o;;i±;i;@;i±o;;""ionicon-var-game-controller-a;[ ;0;@;o;	;@;o;;i≤;i-;o;;i≤;i;@;i≤; 0;!o;"	;o;#;	;$;"
+\f13b;@;%@;o;	;@;o;;i≤;i-;o;;i≤;i&;@;i≤o;;""ionicon-var-game-controller-b;[ ;0;@;o;	;@;o;;i≥;i-;o;;i≥;i;@;i≥; 0;!o;"	;o;#;	;$;"
+\f13c;@;%@;o;	;@;o;;i≥;i-;o;;i≥;i&;@;i≥o;;"ionicon-var-gear-a;[ ;0;@;o;	;@;o;;i¥;i";o;;i¥;i;@;i¥; 0;!o;"	;o;#;	;$;"
+\f13d;@;%@;o;	;@;o;;i¥;i";o;;i¥;i;@;i¥o;;"ionicon-var-gear-b;[ ;0;@;o;	;@;o;;iµ;i";o;;iµ;i;@;iµ; 0;!o;"	;o;#;	;$;"
+\f13e;@;%@;o;	;@;o;;iµ;i";o;;iµ;i;@;iµo;;"ionicon-var-grid;[ ;0;@;o;	;@;o;;i∂;i ;o;;i∂;i;@;i∂; 0;!o;"	;o;#;	;$;"
+\f13f;@;%@;o;	;@;o;;i∂;i ;o;;i∂;i;@;i∂o;;"ionicon-var-hammer;[ ;0;@;o;	;@;o;;i∑;i";o;;i∑;i;@;i∑; 0;!o;"	;o;#;	;$;"
+\f27b;@;%@;o;	;@;o;;i∑;i";o;;i∑;i;@;i∑o;;"ionicon-var-happy;[ ;0;@;o;	;@;o;;i∏;i!;o;;i∏;i;@;i∏; 0;!o;"	;o;#;	;$;"
+\f31c;@;%@;o;	;@;o;;i∏;i!;o;;i∏;i;@;i∏o;;"ionicon-var-headphone;[ ;0;@;o;	;@;o;;iπ;i%;o;;iπ;i;@;iπ; 0;!o;"	;o;#;	;$;"
+\f140;@;%@;o;	;@;o;;iπ;i%;o;;iπ;i;@;iπo;;"ionicon-var-heart;[ ;0;@;o;	;@;o;;i∫;i!;o;;i∫;i;@;i∫; 0;!o;"	;o;#;	;$;"
+\f141;@;%@;o;	;@;o;;i∫;i!;o;;i∫;i;@;i∫o;;"ionicon-var-heart-broken;[ ;0;@;o;	;@;o;;iª;i(;o;;iª;i;@;iª; 0;!o;"	;o;#;	;$;"
+\f31d;@;%@;o;	;@;o;;iª;i(;o;;iª;i!;@;iªo;;"ionicon-var-help;[ ;0;@;o;	;@;o;;iº;i ;o;;iº;i;@;iº; 0;!o;"	;o;#;	;$;"
+\f143;@;%@;o;	;@;o;;iº;i ;o;;iº;i;@;iºo;;"ionicon-var-help-buoy;[ ;0;@;o;	;@;o;;iΩ;i%;o;;iΩ;i;@;iΩ; 0;!o;"	;o;#;	;$;"
+\f27c;@;%@;o;	;@;o;;iΩ;i%;o;;iΩ;i;@;iΩo;;"ionicon-var-help-circled;[ ;0;@;o;	;@;o;;iæ;i(;o;;iæ;i;@;iæ; 0;!o;"	;o;#;	;$;"
+\f142;@;%@;o;	;@;o;;iæ;i(;o;;iæ;i!;@;iæo;;"ionicon-var-home;[ ;0;@;o;	;@;o;;iø;i ;o;;iø;i;@;iø; 0;!o;"	;o;#;	;$;"
+\f144;@;%@;o;	;@;o;;iø;i ;o;;iø;i;@;iøo;;"ionicon-var-icecream;[ ;0;@;o;	;@;o;;i¿;i$;o;;i¿;i;@;i¿; 0;!o;"	;o;#;	;$;"
+\f27d;@;%@;o;	;@;o;;i¿;i$;o;;i¿;i;@;i¿o;;"(ionicon-var-icon-social-google-plus;[ ;0;@;o;	;@;o;;i¡;i3;o;;i¡;i;@;i¡; 0;!o;"	;o;#;	;$;"
+\f146;@;%@;o;	;@;o;;i¡;i3;o;;i¡;i,;@;i¡o;;"0ionicon-var-icon-social-google-plus-outline;[ ;0;@;o;	;@;o;;i¬;i;;o;;i¬;i;@;i¬; 0;!o;"	;o;#;	;$;"
+\f145;@;%@;o;	;@;o;;i¬;i;;o;;i¬;i4;@;i¬o;;"ionicon-var-image;[ ;0;@;o;	;@;o;;i√;i!;o;;i√;i;@;i√; 0;!o;"	;o;#;	;$;"
+\f147;@;%@;o;	;@;o;;i√;i!;o;;i√;i;@;i√o;;"ionicon-var-images;[ ;0;@;o;	;@;o;;iƒ;i";o;;iƒ;i;@;iƒ; 0;!o;"	;o;#;	;$;"
+\f148;@;%@;o;	;@;o;;iƒ;i";o;;iƒ;i;@;iƒo;;"ionicon-var-information;[ ;0;@;o;	;@;o;;i≈;i';o;;i≈;i;@;i≈; 0;!o;"	;o;#;	;$;"
+\f14a;@;%@;o;	;@;o;;i≈;i';o;;i≈;i ;@;i≈o;;"$ionicon-var-information-circled;[ ;0;@;o;	;@;o;;i∆;i/;o;;i∆;i;@;i∆; 0;!o;"	;o;#;	;$;"
+\f149;@;%@;o;	;@;o;;i∆;i/;o;;i∆;i(;@;i∆o;;"ionicon-var-ionic;[ ;0;@;o;	;@;o;;i«;i!;o;;i«;i;@;i«; 0;!o;"	;o;#;	;$;"
+\f14b;@;%@;o;	;@;o;;i«;i!;o;;i«;i;@;i«o;;"ionicon-var-ios7-alarm;[ ;0;@;o;	;@;o;;i»;i&;o;;i»;i;@;i»; 0;!o;"	;o;#;	;$;"
+\f14d;@;%@;o;	;@;o;;i»;i&;o;;i»;i;@;i»o;;"#ionicon-var-ios7-alarm-outline;[ ;0;@;o;	;@;o;;i…;i.;o;;i…;i;@;i…; 0;!o;"	;o;#;	;$;"
+\f14c;@;%@;o;	;@;o;;i…;i.;o;;i…;i';@;i…o;;"ionicon-var-ios7-albums;[ ;0;@;o;	;@;o;;i ;i';o;;i ;i;@;i ; 0;!o;"	;o;#;	;$;"
+\f14f;@;%@;o;	;@;o;;i ;i';o;;i ;i ;@;i o;;"$ionicon-var-ios7-albums-outline;[ ;0;@;o;	;@;o;;iÀ;i/;o;;iÀ;i;@;iÀ; 0;!o;"	;o;#;	;$;"
+\f14e;@;%@;o;	;@;o;;iÀ;i/;o;;iÀ;i(;@;iÀo;;"&ionicon-var-ios7-americanfootball;[ ;0;@;o;	;@;o;;iÃ;i1;o;;iÃ;i;@;iÃ; 0;!o;"	;o;#;	;$;"
+\f31f;@;%@;o;	;@;o;;iÃ;i1;o;;iÃ;i*;@;iÃo;;".ionicon-var-ios7-americanfootball-outline;[ ;0;@;o;	;@;o;;iÕ;i9;o;;iÕ;i;@;iÕ; 0;!o;"	;o;#;	;$;"
+\f31e;@;%@;o;	;@;o;;iÕ;i9;o;;iÕ;i2;@;iÕo;;"ionicon-var-ios7-analytics;[ ;0;@;o;	;@;o;;iŒ;i*;o;;iŒ;i;@;iŒ; 0;!o;"	;o;#;	;$;"
+\f321;@;%@;o;	;@;o;;iŒ;i*;o;;iŒ;i#;@;iŒo;;"'ionicon-var-ios7-analytics-outline;[ ;0;@;o;	;@;o;;iœ;i2;o;;iœ;i;@;iœ; 0;!o;"	;o;#;	;$;"
+\f320;@;%@;o;	;@;o;;iœ;i2;o;;iœ;i+;@;iœo;;" ionicon-var-ios7-arrow-back;[ ;0;@;o;	;@;o;;i–;i+;o;;i–;i;@;i–; 0;!o;"	;o;#;	;$;"
+\f150;@;%@;o;	;@;o;;i–;i+;o;;i–;i$;@;i–o;;" ionicon-var-ios7-arrow-down;[ ;0;@;o;	;@;o;;i—;i+;o;;i—;i;@;i—; 0;!o;"	;o;#;	;$;"
+\f151;@;%@;o;	;@;o;;i—;i+;o;;i—;i$;@;i—o;;"#ionicon-var-ios7-arrow-forward;[ ;0;@;o;	;@;o;;i“;i.;o;;i“;i;@;i“; 0;!o;"	;o;#;	;$;"
+\f152;@;%@;o;	;@;o;;i“;i.;o;;i“;i';@;i“o;;" ionicon-var-ios7-arrow-left;[ ;0;@;o;	;@;o;;i”;i+;o;;i”;i;@;i”; 0;!o;"	;o;#;	;$;"
+\f153;@;%@;o;	;@;o;;i”;i+;o;;i”;i$;@;i”o;;"!ionicon-var-ios7-arrow-right;[ ;0;@;o;	;@;o;;i‘;i,;o;;i‘;i;@;i‘; 0;!o;"	;o;#;	;$;"
+\f154;@;%@;o;	;@;o;;i‘;i,;o;;i‘;i%;@;i‘o;;"%ionicon-var-ios7-arrow-thin-down;[ ;0;@;o;	;@;o;;i’;i0;o;;i’;i;@;i’; 0;!o;"	;o;#;	;$;"
+\f27e;@;%@;o;	;@;o;;i’;i0;o;;i’;i);@;i’o;;"%ionicon-var-ios7-arrow-thin-left;[ ;0;@;o;	;@;o;;i÷;i0;o;;i÷;i;@;i÷; 0;!o;"	;o;#;	;$;"
+\f27f;@;%@;o;	;@;o;;i÷;i0;o;;i÷;i);@;i÷o;;"&ionicon-var-ios7-arrow-thin-right;[ ;0;@;o;	;@;o;;i◊;i1;o;;i◊;i;@;i◊; 0;!o;"	;o;#;	;$;"
+\f280;@;%@;o;	;@;o;;i◊;i1;o;;i◊;i*;@;i◊o;;"#ionicon-var-ios7-arrow-thin-up;[ ;0;@;o;	;@;o;;iÿ;i.;o;;iÿ;i;@;iÿ; 0;!o;"	;o;#;	;$;"
+\f281;@;%@;o;	;@;o;;iÿ;i.;o;;iÿ;i';@;iÿo;;"ionicon-var-ios7-arrow-up;[ ;0;@;o;	;@;o;;iŸ;i);o;;iŸ;i;@;iŸ; 0;!o;"	;o;#;	;$;"
+\f155;@;%@;o;	;@;o;;iŸ;i);o;;iŸ;i";@;iŸo;;"ionicon-var-ios7-at;[ ;0;@;o;	;@;o;;i⁄;i#;o;;i⁄;i;@;i⁄; 0;!o;"	;o;#;	;$;"
+\f157;@;%@;o;	;@;o;;i⁄;i#;o;;i⁄;i;@;i⁄o;;" ionicon-var-ios7-at-outline;[ ;0;@;o;	;@;o;;i€;i+;o;;i€;i;@;i€; 0;!o;"	;o;#;	;$;"
+\f156;@;%@;o;	;@;o;;i€;i+;o;;i€;i$;@;i€o;;"ionicon-var-ios7-barcode;[ ;0;@;o;	;@;o;;i‹;i(;o;;i‹;i;@;i‹; 0;!o;"	;o;#;	;$;"
+\f323;@;%@;o;	;@;o;;i‹;i(;o;;i‹;i!;@;i‹o;;"%ionicon-var-ios7-barcode-outline;[ ;0;@;o;	;@;o;;i›;i0;o;;i›;i;@;i›; 0;!o;"	;o;#;	;$;"
+\f322;@;%@;o;	;@;o;;i›;i0;o;;i›;i);@;i›o;;"ionicon-var-ios7-baseball;[ ;0;@;o;	;@;o;;iﬁ;i);o;;iﬁ;i;@;iﬁ; 0;!o;"	;o;#;	;$;"
+\f325;@;%@;o;	;@;o;;iﬁ;i);o;;iﬁ;i";@;iﬁo;;"&ionicon-var-ios7-baseball-outline;[ ;0;@;o;	;@;o;;iﬂ;i1;o;;iﬂ;i;@;iﬂ; 0;!o;"	;o;#;	;$;"
+\f324;@;%@;o;	;@;o;;iﬂ;i1;o;;iﬂ;i*;@;iﬂo;;" ionicon-var-ios7-basketball;[ ;0;@;o;	;@;o;;i‡;i+;o;;i‡;i;@;i‡; 0;!o;"	;o;#;	;$;"
+\f327;@;%@;o;	;@;o;;i‡;i+;o;;i‡;i$;@;i‡o;;"(ionicon-var-ios7-basketball-outline;[ ;0;@;o;	;@;o;;i·;i3;o;;i·;i;@;i·; 0;!o;"	;o;#;	;$;"
+\f326;@;%@;o;	;@;o;;i·;i3;o;;i·;i,;@;i·o;;"ionicon-var-ios7-bell;[ ;0;@;o;	;@;o;;i‚;i%;o;;i‚;i;@;i‚; 0;!o;"	;o;#;	;$;"
+\f159;@;%@;o;	;@;o;;i‚;i%;o;;i‚;i;@;i‚o;;""ionicon-var-ios7-bell-outline;[ ;0;@;o;	;@;o;;i„;i-;o;;i„;i;@;i„; 0;!o;"	;o;#;	;$;"
+\f158;@;%@;o;	;@;o;;i„;i-;o;;i„;i&;@;i„o;;"ionicon-var-ios7-bolt;[ ;0;@;o;	;@;o;;i‰;i%;o;;i‰;i;@;i‰; 0;!o;"	;o;#;	;$;"
+\f15b;@;%@;o;	;@;o;;i‰;i%;o;;i‰;i;@;i‰o;;""ionicon-var-ios7-bolt-outline;[ ;0;@;o;	;@;o;;iÂ;i-;o;;iÂ;i;@;iÂ; 0;!o;"	;o;#;	;$;"
+\f15a;@;%@;o;	;@;o;;iÂ;i-;o;;iÂ;i&;@;iÂo;;"ionicon-var-ios7-bookmarks;[ ;0;@;o;	;@;o;;iÊ;i*;o;;iÊ;i;@;iÊ; 0;!o;"	;o;#;	;$;"
+\f15d;@;%@;o;	;@;o;;iÊ;i*;o;;iÊ;i#;@;iÊo;;"'ionicon-var-ios7-bookmarks-outline;[ ;0;@;o;	;@;o;;iÁ;i2;o;;iÁ;i;@;iÁ; 0;!o;"	;o;#;	;$;"
+\f15c;@;%@;o;	;@;o;;iÁ;i2;o;;iÁ;i+;@;iÁo;;"ionicon-var-ios7-box;[ ;0;@;o;	;@;o;;iË;i$;o;;iË;i;@;iË; 0;!o;"	;o;#;	;$;"
+\f15f;@;%@;o;	;@;o;;iË;i$;o;;iË;i;@;iËo;;"!ionicon-var-ios7-box-outline;[ ;0;@;o;	;@;o;;iÈ;i,;o;;iÈ;i;@;iÈ; 0;!o;"	;o;#;	;$;"
+\f15e;@;%@;o;	;@;o;;iÈ;i,;o;;iÈ;i%;@;iÈo;;"ionicon-var-ios7-briefcase;[ ;0;@;o;	;@;o;;iÍ;i*;o;;iÍ;i;@;iÍ; 0;!o;"	;o;#;	;$;"
+\f283;@;%@;o;	;@;o;;iÍ;i*;o;;iÍ;i#;@;iÍo;;"'ionicon-var-ios7-briefcase-outline;[ ;0;@;o;	;@;o;;iÎ;i2;o;;iÎ;i;@;iÎ; 0;!o;"	;o;#;	;$;"
+\f282;@;%@;o;	;@;o;;iÎ;i2;o;;iÎ;i+;@;iÎo;;"ionicon-var-ios7-browsers;[ ;0;@;o;	;@;o;;iÏ;i);o;;iÏ;i;@;iÏ; 0;!o;"	;o;#;	;$;"
+\f161;@;%@;o;	;@;o;;iÏ;i);o;;iÏ;i";@;iÏo;;"&ionicon-var-ios7-browsers-outline;[ ;0;@;o;	;@;o;;iÌ;i1;o;;iÌ;i;@;iÌ; 0;!o;"	;o;#;	;$;"
+\f160;@;%@;o;	;@;o;;iÌ;i1;o;;iÌ;i*;@;iÌo;;" ionicon-var-ios7-calculator;[ ;0;@;o;	;@;o;;iÓ;i+;o;;iÓ;i;@;iÓ; 0;!o;"	;o;#;	;$;"
+\f285;@;%@;o;	;@;o;;iÓ;i+;o;;iÓ;i$;@;iÓo;;"(ionicon-var-ios7-calculator-outline;[ ;0;@;o;	;@;o;;iÔ;i3;o;;iÔ;i;@;iÔ; 0;!o;"	;o;#;	;$;"
+\f284;@;%@;o;	;@;o;;iÔ;i3;o;;iÔ;i,;@;iÔo;;"ionicon-var-ios7-calendar;[ ;0;@;o;	;@;o;;i;i);o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f163;@;%@;o;	;@;o;;i;i);o;;i;i";@;io;;"&ionicon-var-ios7-calendar-outline;[ ;0;@;o;	;@;o;;iÒ;i1;o;;iÒ;i;@;iÒ; 0;!o;"	;o;#;	;$;"
+\f162;@;%@;o;	;@;o;;iÒ;i1;o;;iÒ;i*;@;iÒo;;"ionicon-var-ios7-camera;[ ;0;@;o;	;@;o;;iÚ;i';o;;iÚ;i;@;iÚ; 0;!o;"	;o;#;	;$;"
+\f165;@;%@;o;	;@;o;;iÚ;i';o;;iÚ;i ;@;iÚo;;"$ionicon-var-ios7-camera-outline;[ ;0;@;o;	;@;o;;iÛ;i/;o;;iÛ;i;@;iÛ; 0;!o;"	;o;#;	;$;"
+\f164;@;%@;o;	;@;o;;iÛ;i/;o;;iÛ;i(;@;iÛo;;"ionicon-var-ios7-cart;[ ;0;@;o;	;@;o;;iÙ;i%;o;;iÙ;i;@;iÙ; 0;!o;"	;o;#;	;$;"
+\f167;@;%@;o;	;@;o;;iÙ;i%;o;;iÙ;i;@;iÙo;;""ionicon-var-ios7-cart-outline;[ ;0;@;o;	;@;o;;iı;i-;o;;iı;i;@;iı; 0;!o;"	;o;#;	;$;"
+\f166;@;%@;o;	;@;o;;iı;i-;o;;iı;i&;@;iıo;;"ionicon-var-ios7-chatboxes;[ ;0;@;o;	;@;o;;iˆ;i*;o;;iˆ;i;@;iˆ; 0;!o;"	;o;#;	;$;"
+\f169;@;%@;o;	;@;o;;iˆ;i*;o;;iˆ;i#;@;iˆo;;"'ionicon-var-ios7-chatboxes-outline;[ ;0;@;o;	;@;o;;i˜;i2;o;;i˜;i;@;i˜; 0;!o;"	;o;#;	;$;"
+\f168;@;%@;o;	;@;o;;i˜;i2;o;;i˜;i+;@;i˜o;;" ionicon-var-ios7-chatbubble;[ ;0;@;o;	;@;o;;i¯;i+;o;;i¯;i;@;i¯; 0;!o;"	;o;#;	;$;"
+\f16b;@;%@;o;	;@;o;;i¯;i+;o;;i¯;i$;@;i¯o;;"(ionicon-var-ios7-chatbubble-outline;[ ;0;@;o;	;@;o;;i˘;i3;o;;i˘;i;@;i˘; 0;!o;"	;o;#;	;$;"
+\f16a;@;%@;o;	;@;o;;i˘;i3;o;;i˘;i,;@;i˘o;;"ionicon-var-ios7-checkmark;[ ;0;@;o;	;@;o;;i˙;i*;o;;i˙;i;@;i˙; 0;!o;"	;o;#;	;$;"
+\f16e;@;%@;o;	;@;o;;i˙;i*;o;;i˙;i#;@;i˙o;;"%ionicon-var-ios7-checkmark-empty;[ ;0;@;o;	;@;o;;i˚;i0;o;;i˚;i;@;i˚; 0;!o;"	;o;#;	;$;"
+\f16c;@;%@;o;	;@;o;;i˚;i0;o;;i˚;i);@;i˚o;;"'ionicon-var-ios7-checkmark-outline;[ ;0;@;o;	;@;o;;i¸;i2;o;;i¸;i;@;i¸; 0;!o;"	;o;#;	;$;"
+\f16d;@;%@;o;	;@;o;;i¸;i2;o;;i¸;i+;@;i¸o;;"#ionicon-var-ios7-circle-filled;[ ;0;@;o;	;@;o;;i˝;i.;o;;i˝;i;@;i˝; 0;!o;"	;o;#;	;$;"
+\f16f;@;%@;o;	;@;o;;i˝;i.;o;;i˝;i';@;i˝o;;"$ionicon-var-ios7-circle-outline;[ ;0;@;o;	;@;o;;i˛;i/;o;;i˛;i;@;i˛; 0;!o;"	;o;#;	;$;"
+\f170;@;%@;o;	;@;o;;i˛;i/;o;;i˛;i(;@;i˛o;;"ionicon-var-ios7-clock;[ ;0;@;o;	;@;o;;iˇ;i&;o;;iˇ;i;@;iˇ; 0;!o;"	;o;#;	;$;"
+\f172;@;%@;o;	;@;o;;iˇ;i&;o;;iˇ;i;@;iˇo;;"#ionicon-var-ios7-clock-outline;[ ;0;@;o;	;@;o;;i ;i.;o;;i ;i;@;i ; 0;!o;"	;o;#;	;$;"
+\f171;@;%@;o;	;@;o;;i ;i.;o;;i ;i';@;i o;;"ionicon-var-ios7-close;[ ;0;@;o;	;@;o;;i;i&;o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f2bc;@;%@;o;	;@;o;;i;i&;o;;i;i;@;io;;"!ionicon-var-ios7-close-empty;[ ;0;@;o;	;@;o;;i;i,;o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f2bd;@;%@;o;	;@;o;;i;i,;o;;i;i%;@;io;;"#ionicon-var-ios7-close-outline;[ ;0;@;o;	;@;o;;i;i.;o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f2bb;@;%@;o;	;@;o;;i;i.;o;;i;i';@;io;;"ionicon-var-ios7-cloud;[ ;0;@;o;	;@;o;;i;i&;o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f178;@;%@;o;	;@;o;;i;i&;o;;i;i;@;io;;"$ionicon-var-ios7-cloud-download;[ ;0;@;o;	;@;o;;i;i/;o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f174;@;%@;o;	;@;o;;i;i/;o;;i;i(;@;io;;",ionicon-var-ios7-cloud-download-outline;[ ;0;@;o;	;@;o;;i;i7;o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f173;@;%@;o;	;@;o;;i;i7;o;;i;i0;@;io;;"#ionicon-var-ios7-cloud-outline;[ ;0;@;o;	;@;o;;i;i.;o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f175;@;%@;o;	;@;o;;i;i.;o;;i;i';@;io;;""ionicon-var-ios7-cloud-upload;[ ;0;@;o;	;@;o;;i;i-;o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f177;@;%@;o;	;@;o;;i;i-;o;;i;i&;@;io;;"*ionicon-var-ios7-cloud-upload-outline;[ ;0;@;o;	;@;o;;i	;i5;o;;i	;i;@;i	; 0;!o;"	;o;#;	;$;"
+\f176;@;%@;o;	;@;o;;i	;i5;o;;i	;i.;@;i	o;;"ionicon-var-ios7-cloudy;[ ;0;@;o;	;@;o;;i
+;i';o;;i
+;i;@;i
+; 0;!o;"	;o;#;	;$;"
+\f17a;@;%@;o;	;@;o;;i
+;i';o;;i
+;i ;@;i
+o;;""ionicon-var-ios7-cloudy-night;[ ;0;@;o;	;@;o;;i;i-;o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f308;@;%@;o;	;@;o;;i;i-;o;;i;i&;@;io;;"*ionicon-var-ios7-cloudy-night-outline;[ ;0;@;o;	;@;o;;i;i5;o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f307;@;%@;o;	;@;o;;i;i5;o;;i;i.;@;io;;"$ionicon-var-ios7-cloudy-outline;[ ;0;@;o;	;@;o;;i;i/;o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f179;@;%@;o;	;@;o;;i;i/;o;;i;i(;@;io;;"ionicon-var-ios7-cog;[ ;0;@;o;	;@;o;;i;i$;o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f17c;@;%@;o;	;@;o;;i;i$;o;;i;i;@;io;;"!ionicon-var-ios7-cog-outline;[ ;0;@;o;	;@;o;;i;i,;o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f17b;@;%@;o;	;@;o;;i;i,;o;;i;i%;@;io;;"ionicon-var-ios7-compose;[ ;0;@;o;	;@;o;;i;i(;o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f17e;@;%@;o;	;@;o;;i;i(;o;;i;i!;@;io;;"%ionicon-var-ios7-compose-outline;[ ;0;@;o;	;@;o;;i;i0;o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f17d;@;%@;o;	;@;o;;i;i0;o;;i;i);@;io;;"ionicon-var-ios7-contact;[ ;0;@;o;	;@;o;;i;i(;o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f180;@;%@;o;	;@;o;;i;i(;o;;i;i!;@;io;;"%ionicon-var-ios7-contact-outline;[ ;0;@;o;	;@;o;;i;i0;o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f17f;@;%@;o;	;@;o;;i;i0;o;;i;i);@;io;;"ionicon-var-ios7-copy;[ ;0;@;o;	;@;o;;i;i%;o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f182;@;%@;o;	;@;o;;i;i%;o;;i;i;@;io;;""ionicon-var-ios7-copy-outline;[ ;0;@;o;	;@;o;;i;i-;o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f181;@;%@;o;	;@;o;;i;i-;o;;i;i&;@;io;;"ionicon-var-ios7-download;[ ;0;@;o;	;@;o;;i;i);o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f184;@;%@;o;	;@;o;;i;i);o;;i;i";@;io;;"&ionicon-var-ios7-download-outline;[ ;0;@;o;	;@;o;;i;i1;o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f183;@;%@;o;	;@;o;;i;i1;o;;i;i*;@;io;;"ionicon-var-ios7-drag;[ ;0;@;o;	;@;o;;i;i%;o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f185;@;%@;o;	;@;o;;i;i%;o;;i;i;@;io;;"ionicon-var-ios7-email;[ ;0;@;o;	;@;o;;i;i&;o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f187;@;%@;o;	;@;o;;i;i&;o;;i;i;@;io;;"#ionicon-var-ios7-email-outline;[ ;0;@;o;	;@;o;;i;i.;o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f186;@;%@;o;	;@;o;;i;i.;o;;i;i';@;io;;"ionicon-var-ios7-expand;[ ;0;@;o;	;@;o;;i;i';o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f30d;@;%@;o;	;@;o;;i;i';o;;i;i ;@;io;;"ionicon-var-ios7-eye;[ ;0;@;o;	;@;o;;i;i$;o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f189;@;%@;o;	;@;o;;i;i$;o;;i;i;@;io;;"!ionicon-var-ios7-eye-outline;[ ;0;@;o;	;@;o;;i;i,;o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f188;@;%@;o;	;@;o;;i;i,;o;;i;i%;@;io;;"!ionicon-var-ios7-fastforward;[ ;0;@;o;	;@;o;;i;i,;o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f18b;@;%@;o;	;@;o;;i;i,;o;;i;i%;@;io;;")ionicon-var-ios7-fastforward-outline;[ ;0;@;o;	;@;o;;i;i4;o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f18a;@;%@;o;	;@;o;;i;i4;o;;i;i-;@;io;;"ionicon-var-ios7-filing;[ ;0;@;o;	;@;o;;i ;i';o;;i ;i;@;i ; 0;!o;"	;o;#;	;$;"
+\f18d;@;%@;o;	;@;o;;i ;i';o;;i ;i ;@;i o;;"$ionicon-var-ios7-filing-outline;[ ;0;@;o;	;@;o;;i!;i/;o;;i!;i;@;i!; 0;!o;"	;o;#;	;$;"
+\f18c;@;%@;o;	;@;o;;i!;i/;o;;i!;i(;@;i!o;;"ionicon-var-ios7-film;[ ;0;@;o;	;@;o;;i";i%;o;;i";i;@;i"; 0;!o;"	;o;#;	;$;"
+\f18f;@;%@;o;	;@;o;;i";i%;o;;i";i;@;i"o;;""ionicon-var-ios7-film-outline;[ ;0;@;o;	;@;o;;i#;i-;o;;i#;i;@;i#; 0;!o;"	;o;#;	;$;"
+\f18e;@;%@;o;	;@;o;;i#;i-;o;;i#;i&;@;i#o;;"ionicon-var-ios7-flag;[ ;0;@;o;	;@;o;;i$;i%;o;;i$;i;@;i$; 0;!o;"	;o;#;	;$;"
+\f191;@;%@;o;	;@;o;;i$;i%;o;;i$;i;@;i$o;;""ionicon-var-ios7-flag-outline;[ ;0;@;o;	;@;o;;i%;i-;o;;i%;i;@;i%; 0;!o;"	;o;#;	;$;"
+\f190;@;%@;o;	;@;o;;i%;i-;o;;i%;i&;@;i%o;;"ionicon-var-ios7-folder;[ ;0;@;o;	;@;o;;i&;i';o;;i&;i;@;i&; 0;!o;"	;o;#;	;$;"
+\f193;@;%@;o;	;@;o;;i&;i';o;;i&;i ;@;i&o;;"$ionicon-var-ios7-folder-outline;[ ;0;@;o;	;@;o;;i';i/;o;;i';i;@;i'; 0;!o;"	;o;#;	;$;"
+\f192;@;%@;o;	;@;o;;i';i/;o;;i';i(;@;i'o;;"ionicon-var-ios7-football;[ ;0;@;o;	;@;o;;i(;i);o;;i(;i;@;i(; 0;!o;"	;o;#;	;$;"
+\f329;@;%@;o;	;@;o;;i(;i);o;;i(;i";@;i(o;;"&ionicon-var-ios7-football-outline;[ ;0;@;o;	;@;o;;i);i1;o;;i);i;@;i); 0;!o;"	;o;#;	;$;"
+\f328;@;%@;o;	;@;o;;i);i1;o;;i);i*;@;i)o;;"ionicon-var-ios7-gear;[ ;0;@;o;	;@;o;;i*;i%;o;;i*;i;@;i*; 0;!o;"	;o;#;	;$;"
+\f195;@;%@;o;	;@;o;;i*;i%;o;;i*;i;@;i*o;;""ionicon-var-ios7-gear-outline;[ ;0;@;o;	;@;o;;i+;i-;o;;i+;i;@;i+; 0;!o;"	;o;#;	;$;"
+\f194;@;%@;o;	;@;o;;i+;i-;o;;i+;i&;@;i+o;;"ionicon-var-ios7-glasses;[ ;0;@;o;	;@;o;;i,;i(;o;;i,;i;@;i,; 0;!o;"	;o;#;	;$;"
+\f197;@;%@;o;	;@;o;;i,;i(;o;;i,;i!;@;i,o;;"%ionicon-var-ios7-glasses-outline;[ ;0;@;o;	;@;o;;i-;i0;o;;i-;i;@;i-; 0;!o;"	;o;#;	;$;"
+\f196;@;%@;o;	;@;o;;i-;i0;o;;i-;i);@;i-o;;"ionicon-var-ios7-heart;[ ;0;@;o;	;@;o;;i.;i&;o;;i.;i;@;i.; 0;!o;"	;o;#;	;$;"
+\f199;@;%@;o;	;@;o;;i.;i&;o;;i.;i;@;i.o;;"#ionicon-var-ios7-heart-outline;[ ;0;@;o;	;@;o;;i/;i.;o;;i/;i;@;i/; 0;!o;"	;o;#;	;$;"
+\f198;@;%@;o;	;@;o;;i/;i.;o;;i/;i';@;i/o;;"ionicon-var-ios7-help;[ ;0;@;o;	;@;o;;i0;i%;o;;i0;i;@;i0; 0;!o;"	;o;#;	;$;"
+\f19c;@;%@;o;	;@;o;;i0;i%;o;;i0;i;@;i0o;;" ionicon-var-ios7-help-empty;[ ;0;@;o;	;@;o;;i1;i+;o;;i1;i;@;i1; 0;!o;"	;o;#;	;$;"
+\f19a;@;%@;o;	;@;o;;i1;i+;o;;i1;i$;@;i1o;;""ionicon-var-ios7-help-outline;[ ;0;@;o;	;@;o;;i2;i-;o;;i2;i;@;i2; 0;!o;"	;o;#;	;$;"
+\f19b;@;%@;o;	;@;o;;i2;i-;o;;i2;i&;@;i2o;;"ionicon-var-ios7-home;[ ;0;@;o;	;@;o;;i3;i%;o;;i3;i;@;i3; 0;!o;"	;o;#;	;$;"
+\f32b;@;%@;o;	;@;o;;i3;i%;o;;i3;i;@;i3o;;""ionicon-var-ios7-home-outline;[ ;0;@;o;	;@;o;;i4;i-;o;;i4;i;@;i4; 0;!o;"	;o;#;	;$;"
+\f32a;@;%@;o;	;@;o;;i4;i-;o;;i4;i&;@;i4o;;"ionicon-var-ios7-infinite;[ ;0;@;o;	;@;o;;i5;i);o;;i5;i;@;i5; 0;!o;"	;o;#;	;$;"
+\f19e;@;%@;o;	;@;o;;i5;i);o;;i5;i";@;i5o;;"&ionicon-var-ios7-infinite-outline;[ ;0;@;o;	;@;o;;i6;i1;o;;i6;i;@;i6; 0;!o;"	;o;#;	;$;"
+\f19d;@;%@;o;	;@;o;;i6;i1;o;;i6;i*;@;i6o;;"!ionicon-var-ios7-information;[ ;0;@;o;	;@;o;;i7;i,;o;;i7;i;@;i7; 0;!o;"	;o;#;	;$;"
+\f1a1;@;%@;o;	;@;o;;i7;i,;o;;i7;i%;@;i7o;;"'ionicon-var-ios7-information-empty;[ ;0;@;o;	;@;o;;i8;i2;o;;i8;i;@;i8; 0;!o;"	;o;#;	;$;"
+\f19f;@;%@;o;	;@;o;;i8;i2;o;;i8;i+;@;i8o;;")ionicon-var-ios7-information-outline;[ ;0;@;o;	;@;o;;i9;i4;o;;i9;i;@;i9; 0;!o;"	;o;#;	;$;"
+\f1a0;@;%@;o;	;@;o;;i9;i4;o;;i9;i-;@;i9o;;"#ionicon-var-ios7-ionic-outline;[ ;0;@;o;	;@;o;;i:;i.;o;;i:;i;@;i:; 0;!o;"	;o;#;	;$;"
+\f1a2;@;%@;o;	;@;o;;i:;i.;o;;i:;i';@;i:o;;"ionicon-var-ios7-keypad;[ ;0;@;o;	;@;o;;i;;i';o;;i;;i;@;i;; 0;!o;"	;o;#;	;$;"
+\f1a4;@;%@;o;	;@;o;;i;;i';o;;i;;i ;@;i;o;;"$ionicon-var-ios7-keypad-outline;[ ;0;@;o;	;@;o;;i<;i/;o;;i<;i;@;i<; 0;!o;"	;o;#;	;$;"
+\f1a3;@;%@;o;	;@;o;;i<;i/;o;;i<;i(;@;i<o;;"ionicon-var-ios7-lightbulb;[ ;0;@;o;	;@;o;;i=;i*;o;;i=;i;@;i=; 0;!o;"	;o;#;	;$;"
+\f287;@;%@;o;	;@;o;;i=;i*;o;;i=;i#;@;i=o;;"'ionicon-var-ios7-lightbulb-outline;[ ;0;@;o;	;@;o;;i>;i2;o;;i>;i;@;i>; 0;!o;"	;o;#;	;$;"
+\f286;@;%@;o;	;@;o;;i>;i2;o;;i>;i+;@;i>o;;"ionicon-var-ios7-location;[ ;0;@;o;	;@;o;;i?;i);o;;i?;i;@;i?; 0;!o;"	;o;#;	;$;"
+\f1a6;@;%@;o;	;@;o;;i?;i);o;;i?;i";@;i?o;;"&ionicon-var-ios7-location-outline;[ ;0;@;o;	;@;o;;i@;i1;o;;i@;i;@;i@; 0;!o;"	;o;#;	;$;"
+\f1a5;@;%@;o;	;@;o;;i@;i1;o;;i@;i*;@;i@o;;"ionicon-var-ios7-locked;[ ;0;@;o;	;@;o;;iA;i';o;;iA;i;@;iA; 0;!o;"	;o;#;	;$;"
+\f1a8;@;%@;o;	;@;o;;iA;i';o;;iA;i ;@;iAo;;"$ionicon-var-ios7-locked-outline;[ ;0;@;o;	;@;o;;iB;i/;o;;iB;i;@;iB; 0;!o;"	;o;#;	;$;"
+\f1a7;@;%@;o;	;@;o;;iB;i/;o;;iB;i(;@;iBo;;"ionicon-var-ios7-loop;[ ;0;@;o;	;@;o;;iC;i%;o;;iC;i;@;iC; 0;!o;"	;o;#;	;$;"
+\f32d;@;%@;o;	;@;o;;iC;i%;o;;iC;i;@;iCo;;"!ionicon-var-ios7-loop-strong;[ ;0;@;o;	;@;o;;iD;i,;o;;iD;i;@;iD; 0;!o;"	;o;#;	;$;"
+\f32c;@;%@;o;	;@;o;;iD;i,;o;;iD;i%;@;iDo;;"ionicon-var-ios7-medkit;[ ;0;@;o;	;@;o;;iE;i';o;;iE;i;@;iE; 0;!o;"	;o;#;	;$;"
+\f289;@;%@;o;	;@;o;;iE;i';o;;iE;i ;@;iEo;;"$ionicon-var-ios7-medkit-outline;[ ;0;@;o;	;@;o;;iF;i/;o;;iF;i;@;iF; 0;!o;"	;o;#;	;$;"
+\f288;@;%@;o;	;@;o;;iF;i/;o;;iF;i(;@;iFo;;"ionicon-var-ios7-mic;[ ;0;@;o;	;@;o;;iG;i$;o;;iG;i;@;iG; 0;!o;"	;o;#;	;$;"
+\f1ab;@;%@;o;	;@;o;;iG;i$;o;;iG;i;@;iGo;;"ionicon-var-ios7-mic-off;[ ;0;@;o;	;@;o;;iH;i(;o;;iH;i;@;iH; 0;!o;"	;o;#;	;$;"
+\f1a9;@;%@;o;	;@;o;;iH;i(;o;;iH;i!;@;iHo;;"!ionicon-var-ios7-mic-outline;[ ;0;@;o;	;@;o;;iI;i,;o;;iI;i;@;iI; 0;!o;"	;o;#;	;$;"
+\f1aa;@;%@;o;	;@;o;;iI;i,;o;;iI;i%;@;iIo;;"ionicon-var-ios7-minus;[ ;0;@;o;	;@;o;;iJ;i&;o;;iJ;i;@;iJ; 0;!o;"	;o;#;	;$;"
+\f1ae;@;%@;o;	;@;o;;iJ;i&;o;;iJ;i;@;iJo;;"!ionicon-var-ios7-minus-empty;[ ;0;@;o;	;@;o;;iK;i,;o;;iK;i;@;iK; 0;!o;"	;o;#;	;$;"
+\f1ac;@;%@;o;	;@;o;;iK;i,;o;;iK;i%;@;iKo;;"#ionicon-var-ios7-minus-outline;[ ;0;@;o;	;@;o;;iL;i.;o;;iL;i;@;iL; 0;!o;"	;o;#;	;$;"
+\f1ad;@;%@;o;	;@;o;;iL;i.;o;;iL;i';@;iLo;;"ionicon-var-ios7-monitor;[ ;0;@;o;	;@;o;;iM;i(;o;;iM;i;@;iM; 0;!o;"	;o;#;	;$;"
+\f1b0;@;%@;o;	;@;o;;iM;i(;o;;iM;i!;@;iMo;;"%ionicon-var-ios7-monitor-outline;[ ;0;@;o;	;@;o;;iN;i0;o;;iN;i;@;iN; 0;!o;"	;o;#;	;$;"
+\f1af;@;%@;o;	;@;o;;iN;i0;o;;iN;i);@;iNo;;"ionicon-var-ios7-moon;[ ;0;@;o;	;@;o;;iO;i%;o;;iO;i;@;iO; 0;!o;"	;o;#;	;$;"
+\f1b2;@;%@;o;	;@;o;;iO;i%;o;;iO;i;@;iOo;;""ionicon-var-ios7-moon-outline;[ ;0;@;o;	;@;o;;iP;i-;o;;iP;i;@;iP; 0;!o;"	;o;#;	;$;"
+\f1b1;@;%@;o;	;@;o;;iP;i-;o;;iP;i&;@;iPo;;"ionicon-var-ios7-more;[ ;0;@;o;	;@;o;;iQ;i%;o;;iQ;i;@;iQ; 0;!o;"	;o;#;	;$;"
+\f1b4;@;%@;o;	;@;o;;iQ;i%;o;;iQ;i;@;iQo;;""ionicon-var-ios7-more-outline;[ ;0;@;o;	;@;o;;iR;i-;o;;iR;i;@;iR; 0;!o;"	;o;#;	;$;"
+\f1b3;@;%@;o;	;@;o;;iR;i-;o;;iR;i&;@;iRo;;""ionicon-var-ios7-musical-note;[ ;0;@;o;	;@;o;;iS;i-;o;;iS;i;@;iS; 0;!o;"	;o;#;	;$;"
+\f1b5;@;%@;o;	;@;o;;iS;i-;o;;iS;i&;@;iSo;;"#ionicon-var-ios7-musical-notes;[ ;0;@;o;	;@;o;;iT;i.;o;;iT;i;@;iT; 0;!o;"	;o;#;	;$;"
+\f1b6;@;%@;o;	;@;o;;iT;i.;o;;iT;i';@;iTo;;"ionicon-var-ios7-navigate;[ ;0;@;o;	;@;o;;iU;i);o;;iU;i;@;iU; 0;!o;"	;o;#;	;$;"
+\f1b8;@;%@;o;	;@;o;;iU;i);o;;iU;i";@;iUo;;"&ionicon-var-ios7-navigate-outline;[ ;0;@;o;	;@;o;;iV;i1;o;;iV;i;@;iV; 0;!o;"	;o;#;	;$;"
+\f1b7;@;%@;o;	;@;o;;iV;i1;o;;iV;i*;@;iVo;;"ionicon-var-ios7-paper;[ ;0;@;o;	;@;o;;iW;i&;o;;iW;i;@;iW; 0;!o;"	;o;#;	;$;"
+\f32f;@;%@;o;	;@;o;;iW;i&;o;;iW;i;@;iWo;;"#ionicon-var-ios7-paper-outline;[ ;0;@;o;	;@;o;;iX;i.;o;;iX;i;@;iX; 0;!o;"	;o;#;	;$;"
+\f32e;@;%@;o;	;@;o;;iX;i.;o;;iX;i';@;iXo;;" ionicon-var-ios7-paperplane;[ ;0;@;o;	;@;o;;iY;i+;o;;iY;i;@;iY; 0;!o;"	;o;#;	;$;"
+\f1ba;@;%@;o;	;@;o;;iY;i+;o;;iY;i$;@;iYo;;"(ionicon-var-ios7-paperplane-outline;[ ;0;@;o;	;@;o;;iZ;i3;o;;iZ;i;@;iZ; 0;!o;"	;o;#;	;$;"
+\f1b9;@;%@;o;	;@;o;;iZ;i3;o;;iZ;i,;@;iZo;;"!ionicon-var-ios7-partlysunny;[ ;0;@;o;	;@;o;;i[;i,;o;;i[;i;@;i[; 0;!o;"	;o;#;	;$;"
+\f1bc;@;%@;o;	;@;o;;i[;i,;o;;i[;i%;@;i[o;;")ionicon-var-ios7-partlysunny-outline;[ ;0;@;o;	;@;o;;i\;i4;o;;i\;i;@;i\; 0;!o;"	;o;#;	;$;"
+\f1bb;@;%@;o;	;@;o;;i\;i4;o;;i\;i-;@;i\o;;"ionicon-var-ios7-pause;[ ;0;@;o;	;@;o;;i];i&;o;;i];i;@;i]; 0;!o;"	;o;#;	;$;"
+\f1be;@;%@;o;	;@;o;;i];i&;o;;i];i;@;i]o;;"#ionicon-var-ios7-pause-outline;[ ;0;@;o;	;@;o;;i^;i.;o;;i^;i;@;i^; 0;!o;"	;o;#;	;$;"
+\f1bd;@;%@;o;	;@;o;;i^;i.;o;;i^;i';@;i^o;;"ionicon-var-ios7-paw;[ ;0;@;o;	;@;o;;i_;i$;o;;i_;i;@;i_; 0;!o;"	;o;#;	;$;"
+\f331;@;%@;o;	;@;o;;i_;i$;o;;i_;i;@;i_o;;"!ionicon-var-ios7-paw-outline;[ ;0;@;o;	;@;o;;i`;i,;o;;i`;i;@;i`; 0;!o;"	;o;#;	;$;"
+\f330;@;%@;o;	;@;o;;i`;i,;o;;i`;i%;@;i`o;;"ionicon-var-ios7-people;[ ;0;@;o;	;@;o;;ia;i';o;;ia;i;@;ia; 0;!o;"	;o;#;	;$;"
+\f1c0;@;%@;o;	;@;o;;ia;i';o;;ia;i ;@;iao;;"$ionicon-var-ios7-people-outline;[ ;0;@;o;	;@;o;;ib;i/;o;;ib;i;@;ib; 0;!o;"	;o;#;	;$;"
+\f1bf;@;%@;o;	;@;o;;ib;i/;o;;ib;i(;@;ibo;;"ionicon-var-ios7-person;[ ;0;@;o;	;@;o;;ic;i';o;;ic;i;@;ic; 0;!o;"	;o;#;	;$;"
+\f1c2;@;%@;o;	;@;o;;ic;i';o;;ic;i ;@;ico;;"$ionicon-var-ios7-person-outline;[ ;0;@;o;	;@;o;;id;i/;o;;id;i;@;id; 0;!o;"	;o;#;	;$;"
+\f1c1;@;%@;o;	;@;o;;id;i/;o;;id;i(;@;ido;;"ionicon-var-ios7-personadd;[ ;0;@;o;	;@;o;;ie;i*;o;;ie;i;@;ie; 0;!o;"	;o;#;	;$;"
+\f1c4;@;%@;o;	;@;o;;ie;i*;o;;ie;i#;@;ieo;;"'ionicon-var-ios7-personadd-outline;[ ;0;@;o;	;@;o;;if;i2;o;;if;i;@;if; 0;!o;"	;o;#;	;$;"
+\f1c3;@;%@;o;	;@;o;;if;i2;o;;if;i+;@;ifo;;"ionicon-var-ios7-photos;[ ;0;@;o;	;@;o;;ig;i';o;;ig;i;@;ig; 0;!o;"	;o;#;	;$;"
+\f1c6;@;%@;o;	;@;o;;ig;i';o;;ig;i ;@;igo;;"$ionicon-var-ios7-photos-outline;[ ;0;@;o;	;@;o;;ih;i/;o;;ih;i;@;ih; 0;!o;"	;o;#;	;$;"
+\f1c5;@;%@;o;	;@;o;;ih;i/;o;;ih;i(;@;iho;;"ionicon-var-ios7-pie;[ ;0;@;o;	;@;o;;ii;i$;o;;ii;i;@;ii; 0;!o;"	;o;#;	;$;"
+\f28b;@;%@;o;	;@;o;;ii;i$;o;;ii;i;@;iio;;"!ionicon-var-ios7-pie-outline;[ ;0;@;o;	;@;o;;ij;i,;o;;ij;i;@;ij; 0;!o;"	;o;#;	;$;"
+\f28a;@;%@;o;	;@;o;;ij;i,;o;;ij;i%;@;ijo;;"ionicon-var-ios7-play;[ ;0;@;o;	;@;o;;ik;i%;o;;ik;i;@;ik; 0;!o;"	;o;#;	;$;"
+\f1c8;@;%@;o;	;@;o;;ik;i%;o;;ik;i;@;iko;;""ionicon-var-ios7-play-outline;[ ;0;@;o;	;@;o;;il;i-;o;;il;i;@;il; 0;!o;"	;o;#;	;$;"
+\f1c7;@;%@;o;	;@;o;;il;i-;o;;il;i&;@;ilo;;"ionicon-var-ios7-plus;[ ;0;@;o;	;@;o;;im;i%;o;;im;i;@;im; 0;!o;"	;o;#;	;$;"
+\f1cb;@;%@;o;	;@;o;;im;i%;o;;im;i;@;imo;;" ionicon-var-ios7-plus-empty;[ ;0;@;o;	;@;o;;in;i+;o;;in;i;@;in; 0;!o;"	;o;#;	;$;"
+\f1c9;@;%@;o;	;@;o;;in;i+;o;;in;i$;@;ino;;""ionicon-var-ios7-plus-outline;[ ;0;@;o;	;@;o;;io;i-;o;;io;i;@;io; 0;!o;"	;o;#;	;$;"
+\f1ca;@;%@;o;	;@;o;;io;i-;o;;io;i&;@;ioo;;"ionicon-var-ios7-pricetag;[ ;0;@;o;	;@;o;;ip;i);o;;ip;i;@;ip; 0;!o;"	;o;#;	;$;"
+\f28d;@;%@;o;	;@;o;;ip;i);o;;ip;i";@;ipo;;"&ionicon-var-ios7-pricetag-outline;[ ;0;@;o;	;@;o;;iq;i1;o;;iq;i;@;iq; 0;!o;"	;o;#;	;$;"
+\f28c;@;%@;o;	;@;o;;iq;i1;o;;iq;i*;@;iqo;;"ionicon-var-ios7-pricetags;[ ;0;@;o;	;@;o;;ir;i*;o;;ir;i;@;ir; 0;!o;"	;o;#;	;$;"
+\f333;@;%@;o;	;@;o;;ir;i*;o;;ir;i#;@;iro;;"'ionicon-var-ios7-pricetags-outline;[ ;0;@;o;	;@;o;;is;i2;o;;is;i;@;is; 0;!o;"	;o;#;	;$;"
+\f332;@;%@;o;	;@;o;;is;i2;o;;is;i+;@;iso;;"ionicon-var-ios7-printer;[ ;0;@;o;	;@;o;;it;i(;o;;it;i;@;it; 0;!o;"	;o;#;	;$;"
+\f1cd;@;%@;o;	;@;o;;it;i(;o;;it;i!;@;ito;;"%ionicon-var-ios7-printer-outline;[ ;0;@;o;	;@;o;;iu;i0;o;;iu;i;@;iu; 0;!o;"	;o;#;	;$;"
+\f1cc;@;%@;o;	;@;o;;iu;i0;o;;iu;i);@;iuo;;"ionicon-var-ios7-pulse;[ ;0;@;o;	;@;o;;iv;i&;o;;iv;i;@;iv; 0;!o;"	;o;#;	;$;"
+\f335;@;%@;o;	;@;o;;iv;i&;o;;iv;i;@;ivo;;""ionicon-var-ios7-pulse-strong;[ ;0;@;o;	;@;o;;iw;i-;o;;iw;i;@;iw; 0;!o;"	;o;#;	;$;"
+\f334;@;%@;o;	;@;o;;iw;i-;o;;iw;i&;@;iwo;;"ionicon-var-ios7-rainy;[ ;0;@;o;	;@;o;;ix;i&;o;;ix;i;@;ix; 0;!o;"	;o;#;	;$;"
+\f1cf;@;%@;o;	;@;o;;ix;i&;o;;ix;i;@;ixo;;"#ionicon-var-ios7-rainy-outline;[ ;0;@;o;	;@;o;;iy;i.;o;;iy;i;@;iy; 0;!o;"	;o;#;	;$;"
+\f1ce;@;%@;o;	;@;o;;iy;i.;o;;iy;i';@;iyo;;"ionicon-var-ios7-recording;[ ;0;@;o;	;@;o;;iz;i*;o;;iz;i;@;iz; 0;!o;"	;o;#;	;$;"
+\f1d1;@;%@;o;	;@;o;;iz;i*;o;;iz;i#;@;izo;;"'ionicon-var-ios7-recording-outline;[ ;0;@;o;	;@;o;;i{;i2;o;;i{;i;@;i{; 0;!o;"	;o;#;	;$;"
+\f1d0;@;%@;o;	;@;o;;i{;i2;o;;i{;i+;@;i{o;;"ionicon-var-ios7-redo;[ ;0;@;o;	;@;o;;i|;i%;o;;i|;i;@;i|; 0;!o;"	;o;#;	;$;"
+\f1d3;@;%@;o;	;@;o;;i|;i%;o;;i|;i;@;i|o;;""ionicon-var-ios7-redo-outline;[ ;0;@;o;	;@;o;;i};i-;o;;i};i;@;i}; 0;!o;"	;o;#;	;$;"
+\f1d2;@;%@;o;	;@;o;;i};i-;o;;i};i&;@;i}o;;"ionicon-var-ios7-refresh;[ ;0;@;o;	;@;o;;i~;i(;o;;i~;i;@;i~; 0;!o;"	;o;#;	;$;"
+\f1d6;@;%@;o;	;@;o;;i~;i(;o;;i~;i!;@;i~o;;"#ionicon-var-ios7-refresh-empty;[ ;0;@;o;	;@;o;;i;i.;o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f1d4;@;%@;o;	;@;o;;i;i.;o;;i;i';@;io;;"%ionicon-var-ios7-refresh-outline;[ ;0;@;o;	;@;o;;iÄ;i0;o;;iÄ;i;@;iÄ; 0;!o;"	;o;#;	;$;"
+\f1d5;@;%@;o;	;@;o;;iÄ;i0;o;;iÄ;i);@;iÄo;;"ionicon-var-ios7-reload;[ ;0;@;o;	;@;o;;iÅ;i';o;;iÅ;i;@;iÅ; 0;!o;"	;o;#;	;$;"
+\f28e;@;%@;o;	;@;o;;iÅ;i';o;;iÅ;i ;@;iÅo;;"$ionicon-var-ios7-reverse-camera;[ ;0;@;o;	;@;o;;iÇ;i/;o;;iÇ;i;@;iÇ; 0;!o;"	;o;#;	;$;"
+\f337;@;%@;o;	;@;o;;iÇ;i/;o;;iÇ;i(;@;iÇo;;",ionicon-var-ios7-reverse-camera-outline;[ ;0;@;o;	;@;o;;iÉ;i7;o;;iÉ;i;@;iÉ; 0;!o;"	;o;#;	;$;"
+\f336;@;%@;o;	;@;o;;iÉ;i7;o;;iÉ;i0;@;iÉo;;"ionicon-var-ios7-rewind;[ ;0;@;o;	;@;o;;iÑ;i';o;;iÑ;i;@;iÑ; 0;!o;"	;o;#;	;$;"
+\f1d8;@;%@;o;	;@;o;;iÑ;i';o;;iÑ;i ;@;iÑo;;"$ionicon-var-ios7-rewind-outline;[ ;0;@;o;	;@;o;;iÖ;i/;o;;iÖ;i;@;iÖ; 0;!o;"	;o;#;	;$;"
+\f1d7;@;%@;o;	;@;o;;iÖ;i/;o;;iÖ;i(;@;iÖo;;"ionicon-var-ios7-search;[ ;0;@;o;	;@;o;;iÜ;i';o;;iÜ;i;@;iÜ; 0;!o;"	;o;#;	;$;"
+\f1da;@;%@;o;	;@;o;;iÜ;i';o;;iÜ;i ;@;iÜo;;"#ionicon-var-ios7-search-strong;[ ;0;@;o;	;@;o;;iá;i.;o;;iá;i;@;iá; 0;!o;"	;o;#;	;$;"
+\f1d9;@;%@;o;	;@;o;;iá;i.;o;;iá;i';@;iáo;;"ionicon-var-ios7-settings;[ ;0;@;o;	;@;o;;ià;i);o;;ià;i;@;ià; 0;!o;"	;o;#;	;$;"
+\f339;@;%@;o;	;@;o;;ià;i);o;;ià;i";@;iào;;"%ionicon-var-ios7-settings-strong;[ ;0;@;o;	;@;o;;iâ;i0;o;;iâ;i;@;iâ; 0;!o;"	;o;#;	;$;"
+\f338;@;%@;o;	;@;o;;iâ;i0;o;;iâ;i);@;iâo;;"ionicon-var-ios7-shrink;[ ;0;@;o;	;@;o;;iä;i';o;;iä;i;@;iä; 0;!o;"	;o;#;	;$;"
+\f30e;@;%@;o;	;@;o;;iä;i';o;;iä;i ;@;iäo;;""ionicon-var-ios7-skipbackward;[ ;0;@;o;	;@;o;;iã;i-;o;;iã;i;@;iã; 0;!o;"	;o;#;	;$;"
+\f1dc;@;%@;o;	;@;o;;iã;i-;o;;iã;i&;@;ião;;"*ionicon-var-ios7-skipbackward-outline;[ ;0;@;o;	;@;o;;iå;i5;o;;iå;i;@;iå; 0;!o;"	;o;#;	;$;"
+\f1db;@;%@;o;	;@;o;;iå;i5;o;;iå;i.;@;iåo;;"!ionicon-var-ios7-skipforward;[ ;0;@;o;	;@;o;;iç;i,;o;;iç;i;@;iç; 0;!o;"	;o;#;	;$;"
+\f1de;@;%@;o;	;@;o;;iç;i,;o;;iç;i%;@;iço;;")ionicon-var-ios7-skipforward-outline;[ ;0;@;o;	;@;o;;ié;i4;o;;ié;i;@;ié; 0;!o;"	;o;#;	;$;"
+\f1dd;@;%@;o;	;@;o;;ié;i4;o;;ié;i-;@;iéo;;"ionicon-var-ios7-snowy;[ ;0;@;o;	;@;o;;iè;i&;o;;iè;i;@;iè; 0;!o;"	;o;#;	;$;"
+\f309;@;%@;o;	;@;o;;iè;i&;o;;iè;i;@;ièo;;"!ionicon-var-ios7-speedometer;[ ;0;@;o;	;@;o;;iê;i,;o;;iê;i;@;iê; 0;!o;"	;o;#;	;$;"
+\f290;@;%@;o;	;@;o;;iê;i,;o;;iê;i%;@;iêo;;")ionicon-var-ios7-speedometer-outline;[ ;0;@;o;	;@;o;;ië;i4;o;;ië;i;@;ië; 0;!o;"	;o;#;	;$;"
+\f28f;@;%@;o;	;@;o;;ië;i4;o;;ië;i-;@;iëo;;"ionicon-var-ios7-star;[ ;0;@;o;	;@;o;;ií;i%;o;;ií;i;@;ií; 0;!o;"	;o;#;	;$;"
+\f1e0;@;%@;o;	;@;o;;ií;i%;o;;ií;i;@;iío;;"ionicon-var-ios7-star-half;[ ;0;@;o;	;@;o;;iì;i*;o;;iì;i;@;iì; 0;!o;"	;o;#;	;$;"
+\f33a;@;%@;o;	;@;o;;iì;i*;o;;iì;i#;@;iìo;;""ionicon-var-ios7-star-outline;[ ;0;@;o;	;@;o;;iî;i-;o;;iî;i;@;iî; 0;!o;"	;o;#;	;$;"
+\f1df;@;%@;o;	;@;o;;iî;i-;o;;iî;i&;@;iîo;;"ionicon-var-ios7-stopwatch;[ ;0;@;o;	;@;o;;iï;i*;o;;iï;i;@;iï; 0;!o;"	;o;#;	;$;"
+\f1e2;@;%@;o;	;@;o;;iï;i*;o;;iï;i#;@;iïo;;"'ionicon-var-ios7-stopwatch-outline;[ ;0;@;o;	;@;o;;iñ;i2;o;;iñ;i;@;iñ; 0;!o;"	;o;#;	;$;"
+\f1e1;@;%@;o;	;@;o;;iñ;i2;o;;iñ;i+;@;iño;;"ionicon-var-ios7-sunny;[ ;0;@;o;	;@;o;;ió;i&;o;;ió;i;@;ió; 0;!o;"	;o;#;	;$;"
+\f1e4;@;%@;o;	;@;o;;ió;i&;o;;ió;i;@;ióo;;"#ionicon-var-ios7-sunny-outline;[ ;0;@;o;	;@;o;;iò;i.;o;;iò;i;@;iò; 0;!o;"	;o;#;	;$;"
+\f1e3;@;%@;o;	;@;o;;iò;i.;o;;iò;i';@;iòo;;"ionicon-var-ios7-telephone;[ ;0;@;o;	;@;o;;iô;i*;o;;iô;i;@;iô; 0;!o;"	;o;#;	;$;"
+\f1e6;@;%@;o;	;@;o;;iô;i*;o;;iô;i#;@;iôo;;"'ionicon-var-ios7-telephone-outline;[ ;0;@;o;	;@;o;;iö;i2;o;;iö;i;@;iö; 0;!o;"	;o;#;	;$;"
+\f1e5;@;%@;o;	;@;o;;iö;i2;o;;iö;i+;@;iöo;;" ionicon-var-ios7-tennisball;[ ;0;@;o;	;@;o;;iõ;i+;o;;iõ;i;@;iõ; 0;!o;"	;o;#;	;$;"
+\f33c;@;%@;o;	;@;o;;iõ;i+;o;;iõ;i$;@;iõo;;"(ionicon-var-ios7-tennisball-outline;[ ;0;@;o;	;@;o;;iú;i3;o;;iú;i;@;iú; 0;!o;"	;o;#;	;$;"
+\f33b;@;%@;o;	;@;o;;iú;i3;o;;iú;i,;@;iúo;;""ionicon-var-ios7-thunderstorm;[ ;0;@;o;	;@;o;;iù;i-;o;;iù;i;@;iù; 0;!o;"	;o;#;	;$;"
+\f1e8;@;%@;o;	;@;o;;iù;i-;o;;iù;i&;@;iùo;;"*ionicon-var-ios7-thunderstorm-outline;[ ;0;@;o;	;@;o;;iû;i5;o;;iû;i;@;iû; 0;!o;"	;o;#;	;$;"
+\f1e7;@;%@;o;	;@;o;;iû;i5;o;;iû;i.;@;iûo;;"ionicon-var-ios7-time;[ ;0;@;o;	;@;o;;iü;i%;o;;iü;i;@;iü; 0;!o;"	;o;#;	;$;"
+\f292;@;%@;o;	;@;o;;iü;i%;o;;iü;i;@;iüo;;""ionicon-var-ios7-time-outline;[ ;0;@;o;	;@;o;;i†;i-;o;;i†;i;@;i†; 0;!o;"	;o;#;	;$;"
+\f291;@;%@;o;	;@;o;;i†;i-;o;;i†;i&;@;i†o;;"ionicon-var-ios7-timer;[ ;0;@;o;	;@;o;;i°;i&;o;;i°;i;@;i°; 0;!o;"	;o;#;	;$;"
+\f1ea;@;%@;o;	;@;o;;i°;i&;o;;i°;i;@;i°o;;"#ionicon-var-ios7-timer-outline;[ ;0;@;o;	;@;o;;i¢;i.;o;;i¢;i;@;i¢; 0;!o;"	;o;#;	;$;"
+\f1e9;@;%@;o;	;@;o;;i¢;i.;o;;i¢;i';@;i¢o;;"ionicon-var-ios7-toggle;[ ;0;@;o;	;@;o;;i£;i';o;;i£;i;@;i£; 0;!o;"	;o;#;	;$;"
+\f33e;@;%@;o;	;@;o;;i£;i';o;;i£;i ;@;i£o;;"$ionicon-var-ios7-toggle-outline;[ ;0;@;o;	;@;o;;i§;i/;o;;i§;i;@;i§; 0;!o;"	;o;#;	;$;"
+\f33d;@;%@;o;	;@;o;;i§;i/;o;;i§;i(;@;i§o;;"ionicon-var-ios7-trash;[ ;0;@;o;	;@;o;;i•;i&;o;;i•;i;@;i•; 0;!o;"	;o;#;	;$;"
+\f1ec;@;%@;o;	;@;o;;i•;i&;o;;i•;i;@;i•o;;"#ionicon-var-ios7-trash-outline;[ ;0;@;o;	;@;o;;i¶;i.;o;;i¶;i;@;i¶; 0;!o;"	;o;#;	;$;"
+\f1eb;@;%@;o;	;@;o;;i¶;i.;o;;i¶;i';@;i¶o;;"ionicon-var-ios7-undo;[ ;0;@;o;	;@;o;;iß;i%;o;;iß;i;@;iß; 0;!o;"	;o;#;	;$;"
+\f1ee;@;%@;o;	;@;o;;iß;i%;o;;iß;i;@;ißo;;""ionicon-var-ios7-undo-outline;[ ;0;@;o;	;@;o;;i®;i-;o;;i®;i;@;i®; 0;!o;"	;o;#;	;$;"
+\f1ed;@;%@;o;	;@;o;;i®;i-;o;;i®;i&;@;i®o;;"ionicon-var-ios7-unlocked;[ ;0;@;o;	;@;o;;i©;i);o;;i©;i;@;i©; 0;!o;"	;o;#;	;$;"
+\f1f0;@;%@;o;	;@;o;;i©;i);o;;i©;i";@;i©o;;"&ionicon-var-ios7-unlocked-outline;[ ;0;@;o;	;@;o;;i™;i1;o;;i™;i;@;i™; 0;!o;"	;o;#;	;$;"
+\f1ef;@;%@;o;	;@;o;;i™;i1;o;;i™;i*;@;i™o;;"ionicon-var-ios7-upload;[ ;0;@;o;	;@;o;;i´;i';o;;i´;i;@;i´; 0;!o;"	;o;#;	;$;"
+\f1f2;@;%@;o;	;@;o;;i´;i';o;;i´;i ;@;i´o;;"$ionicon-var-ios7-upload-outline;[ ;0;@;o;	;@;o;;i¨;i/;o;;i¨;i;@;i¨; 0;!o;"	;o;#;	;$;"
+\f1f1;@;%@;o;	;@;o;;i¨;i/;o;;i¨;i(;@;i¨o;;"ionicon-var-ios7-videocam;[ ;0;@;o;	;@;o;;i≠;i);o;;i≠;i;@;i≠; 0;!o;"	;o;#;	;$;"
+\f1f4;@;%@;o;	;@;o;;i≠;i);o;;i≠;i";@;i≠o;;"&ionicon-var-ios7-videocam-outline;[ ;0;@;o;	;@;o;;iÆ;i1;o;;iÆ;i;@;iÆ; 0;!o;"	;o;#;	;$;"
+\f1f3;@;%@;o;	;@;o;;iÆ;i1;o;;iÆ;i*;@;iÆo;;"!ionicon-var-ios7-volume-high;[ ;0;@;o;	;@;o;;iØ;i,;o;;iØ;i;@;iØ; 0;!o;"	;o;#;	;$;"
+\f1f5;@;%@;o;	;@;o;;iØ;i,;o;;iØ;i%;@;iØo;;" ionicon-var-ios7-volume-low;[ ;0;@;o;	;@;o;;i∞;i+;o;;i∞;i;@;i∞; 0;!o;"	;o;#;	;$;"
+\f1f6;@;%@;o;	;@;o;;i∞;i+;o;;i∞;i$;@;i∞o;;"ionicon-var-ios7-wineglass;[ ;0;@;o;	;@;o;;i±;i*;o;;i±;i;@;i±; 0;!o;"	;o;#;	;$;"
+\f294;@;%@;o;	;@;o;;i±;i*;o;;i±;i#;@;i±o;;"'ionicon-var-ios7-wineglass-outline;[ ;0;@;o;	;@;o;;i≤;i2;o;;i≤;i;@;i≤; 0;!o;"	;o;#;	;$;"
+\f293;@;%@;o;	;@;o;;i≤;i2;o;;i≤;i+;@;i≤o;;"ionicon-var-ios7-world;[ ;0;@;o;	;@;o;;i≥;i&;o;;i≥;i;@;i≥; 0;!o;"	;o;#;	;$;"
+\f1f8;@;%@;o;	;@;o;;i≥;i&;o;;i≥;i;@;i≥o;;"#ionicon-var-ios7-world-outline;[ ;0;@;o;	;@;o;;i¥;i.;o;;i¥;i;@;i¥; 0;!o;"	;o;#;	;$;"
+\f1f7;@;%@;o;	;@;o;;i¥;i.;o;;i¥;i';@;i¥o;;"ionicon-var-ipad;[ ;0;@;o;	;@;o;;iµ;i ;o;;iµ;i;@;iµ; 0;!o;"	;o;#;	;$;"
+\f1f9;@;%@;o;	;@;o;;iµ;i ;o;;iµ;i;@;iµo;;"ionicon-var-iphone;[ ;0;@;o;	;@;o;;i∂;i";o;;i∂;i;@;i∂; 0;!o;"	;o;#;	;$;"
+\f1fa;@;%@;o;	;@;o;;i∂;i";o;;i∂;i;@;i∂o;;"ionicon-var-ipod;[ ;0;@;o;	;@;o;;i∑;i ;o;;i∑;i;@;i∑; 0;!o;"	;o;#;	;$;"
+\f1fb;@;%@;o;	;@;o;;i∑;i ;o;;i∑;i;@;i∑o;;"ionicon-var-jet;[ ;0;@;o;	;@;o;;i∏;i;o;;i∏;i;@;i∏; 0;!o;"	;o;#;	;$;"
+\f295;@;%@;o;	;@;o;;i∏;i;o;;i∏;i;@;i∏o;;"ionicon-var-key;[ ;0;@;o;	;@;o;;iπ;i;o;;iπ;i;@;iπ; 0;!o;"	;o;#;	;$;"
+\f296;@;%@;o;	;@;o;;iπ;i;o;;iπ;i;@;iπo;;"ionicon-var-knife;[ ;0;@;o;	;@;o;;i∫;i!;o;;i∫;i;@;i∫; 0;!o;"	;o;#;	;$;"
+\f297;@;%@;o;	;@;o;;i∫;i!;o;;i∫;i;@;i∫o;;"ionicon-var-laptop;[ ;0;@;o;	;@;o;;iª;i";o;;iª;i;@;iª; 0;!o;"	;o;#;	;$;"
+\f1fc;@;%@;o;	;@;o;;iª;i";o;;iª;i;@;iªo;;"ionicon-var-leaf;[ ;0;@;o;	;@;o;;iº;i ;o;;iº;i;@;iº; 0;!o;"	;o;#;	;$;"
+\f1fd;@;%@;o;	;@;o;;iº;i ;o;;iº;i;@;iºo;;"ionicon-var-levels;[ ;0;@;o;	;@;o;;iΩ;i";o;;iΩ;i;@;iΩ; 0;!o;"	;o;#;	;$;"
+\f298;@;%@;o;	;@;o;;iΩ;i";o;;iΩ;i;@;iΩo;;"ionicon-var-lightbulb;[ ;0;@;o;	;@;o;;iæ;i%;o;;iæ;i;@;iæ; 0;!o;"	;o;#;	;$;"
+\f299;@;%@;o;	;@;o;;iæ;i%;o;;iæ;i;@;iæo;;"ionicon-var-link;[ ;0;@;o;	;@;o;;iø;i ;o;;iø;i;@;iø; 0;!o;"	;o;#;	;$;"
+\f1fe;@;%@;o;	;@;o;;iø;i ;o;;iø;i;@;iøo;;"ionicon-var-load-a;[ ;0;@;o;	;@;o;;i¿;i";o;;i¿;i;@;i¿; 0;!o;"	;o;#;	;$;"
+\f29a;@;%@;o;	;@;o;;i¿;i";o;;i¿;i;@;i¿o;;"ionicon-var-load-b;[ ;0;@;o;	;@;o;;i¡;i";o;;i¡;i;@;i¡; 0;!o;"	;o;#;	;$;"
+\f29b;@;%@;o;	;@;o;;i¡;i";o;;i¡;i;@;i¡o;;"ionicon-var-load-c;[ ;0;@;o;	;@;o;;i¬;i";o;;i¬;i;@;i¬; 0;!o;"	;o;#;	;$;"
+\f29c;@;%@;o;	;@;o;;i¬;i";o;;i¬;i;@;i¬o;;"ionicon-var-load-d;[ ;0;@;o;	;@;o;;i√;i";o;;i√;i;@;i√; 0;!o;"	;o;#;	;$;"
+\f29d;@;%@;o;	;@;o;;i√;i";o;;i√;i;@;i√o;;"ionicon-var-location;[ ;0;@;o;	;@;o;;iƒ;i$;o;;iƒ;i;@;iƒ; 0;!o;"	;o;#;	;$;"
+\f1ff;@;%@;o;	;@;o;;iƒ;i$;o;;iƒ;i;@;iƒo;;"ionicon-var-locked;[ ;0;@;o;	;@;o;;i≈;i";o;;i≈;i;@;i≈; 0;!o;"	;o;#;	;$;"
+\f200;@;%@;o;	;@;o;;i≈;i";o;;i≈;i;@;i≈o;;"ionicon-var-log-in;[ ;0;@;o;	;@;o;;i∆;i";o;;i∆;i;@;i∆; 0;!o;"	;o;#;	;$;"
+\f29e;@;%@;o;	;@;o;;i∆;i";o;;i∆;i;@;i∆o;;"ionicon-var-log-out;[ ;0;@;o;	;@;o;;i«;i#;o;;i«;i;@;i«; 0;!o;"	;o;#;	;$;"
+\f29f;@;%@;o;	;@;o;;i«;i#;o;;i«;i;@;i«o;;"ionicon-var-loop;[ ;0;@;o;	;@;o;;i»;i ;o;;i»;i;@;i»; 0;!o;"	;o;#;	;$;"
+\f201;@;%@;o;	;@;o;;i»;i ;o;;i»;i;@;i»o;;"ionicon-var-magnet;[ ;0;@;o;	;@;o;;i…;i";o;;i…;i;@;i…; 0;!o;"	;o;#;	;$;"
+\f2a0;@;%@;o;	;@;o;;i…;i";o;;i…;i;@;i…o;;"ionicon-var-male;[ ;0;@;o;	;@;o;;i ;i ;o;;i ;i;@;i ; 0;!o;"	;o;#;	;$;"
+\f2a1;@;%@;o;	;@;o;;i ;i ;o;;i ;i;@;i o;;"ionicon-var-man;[ ;0;@;o;	;@;o;;iÀ;i;o;;iÀ;i;@;iÀ; 0;!o;"	;o;#;	;$;"
+\f202;@;%@;o;	;@;o;;iÀ;i;o;;iÀ;i;@;iÀo;;"ionicon-var-map;[ ;0;@;o;	;@;o;;iÃ;i;o;;iÃ;i;@;iÃ; 0;!o;"	;o;#;	;$;"
+\f203;@;%@;o;	;@;o;;iÃ;i;o;;iÃ;i;@;iÃo;;"ionicon-var-medkit;[ ;0;@;o;	;@;o;;iÕ;i";o;;iÕ;i;@;iÕ; 0;!o;"	;o;#;	;$;"
+\f2a2;@;%@;o;	;@;o;;iÕ;i";o;;iÕ;i;@;iÕo;;"ionicon-var-merge;[ ;0;@;o;	;@;o;;iŒ;i!;o;;iŒ;i;@;iŒ; 0;!o;"	;o;#;	;$;"
+\f33f;@;%@;o;	;@;o;;iŒ;i!;o;;iŒ;i;@;iŒo;;"ionicon-var-mic-a;[ ;0;@;o;	;@;o;;iœ;i!;o;;iœ;i;@;iœ; 0;!o;"	;o;#;	;$;"
+\f204;@;%@;o;	;@;o;;iœ;i!;o;;iœ;i;@;iœo;;"ionicon-var-mic-b;[ ;0;@;o;	;@;o;;i–;i!;o;;i–;i;@;i–; 0;!o;"	;o;#;	;$;"
+\f205;@;%@;o;	;@;o;;i–;i!;o;;i–;i;@;i–o;;"ionicon-var-mic-c;[ ;0;@;o;	;@;o;;i—;i!;o;;i—;i;@;i—; 0;!o;"	;o;#;	;$;"
+\f206;@;%@;o;	;@;o;;i—;i!;o;;i—;i;@;i—o;;"ionicon-var-minus;[ ;0;@;o;	;@;o;;i“;i!;o;;i“;i;@;i“; 0;!o;"	;o;#;	;$;"
+\f209;@;%@;o;	;@;o;;i“;i!;o;;i“;i;@;i“o;;"ionicon-var-minus-circled;[ ;0;@;o;	;@;o;;i”;i);o;;i”;i;@;i”; 0;!o;"	;o;#;	;$;"
+\f207;@;%@;o;	;@;o;;i”;i);o;;i”;i";@;i”o;;"ionicon-var-minus-round;[ ;0;@;o;	;@;o;;i‘;i';o;;i‘;i;@;i‘; 0;!o;"	;o;#;	;$;"
+\f208;@;%@;o;	;@;o;;i‘;i';o;;i‘;i ;@;i‘o;;"ionicon-var-model-s;[ ;0;@;o;	;@;o;;i’;i#;o;;i’;i;@;i’; 0;!o;"	;o;#;	;$;"
+\f2c1;@;%@;o;	;@;o;;i’;i#;o;;i’;i;@;i’o;;"ionicon-var-monitor;[ ;0;@;o;	;@;o;;i÷;i#;o;;i÷;i;@;i÷; 0;!o;"	;o;#;	;$;"
+\f20a;@;%@;o;	;@;o;;i÷;i#;o;;i÷;i;@;i÷o;;"ionicon-var-more;[ ;0;@;o;	;@;o;;i◊;i ;o;;i◊;i;@;i◊; 0;!o;"	;o;#;	;$;"
+\f20b;@;%@;o;	;@;o;;i◊;i ;o;;i◊;i;@;i◊o;;"ionicon-var-mouse;[ ;0;@;o;	;@;o;;iÿ;i!;o;;iÿ;i;@;iÿ; 0;!o;"	;o;#;	;$;"
+\f340;@;%@;o;	;@;o;;iÿ;i!;o;;iÿ;i;@;iÿo;;"ionicon-var-music-note;[ ;0;@;o;	;@;o;;iŸ;i&;o;;iŸ;i;@;iŸ; 0;!o;"	;o;#;	;$;"
+\f20c;@;%@;o;	;@;o;;iŸ;i&;o;;iŸ;i;@;iŸo;;"ionicon-var-navicon;[ ;0;@;o;	;@;o;;i⁄;i#;o;;i⁄;i;@;i⁄; 0;!o;"	;o;#;	;$;"
+\f20e;@;%@;o;	;@;o;;i⁄;i#;o;;i⁄;i;@;i⁄o;;"ionicon-var-navicon-round;[ ;0;@;o;	;@;o;;i€;i);o;;i€;i;@;i€; 0;!o;"	;o;#;	;$;"
+\f20d;@;%@;o;	;@;o;;i€;i);o;;i€;i";@;i€o;;"ionicon-var-navigate;[ ;0;@;o;	;@;o;;i‹;i$;o;;i‹;i;@;i‹; 0;!o;"	;o;#;	;$;"
+\f2a3;@;%@;o;	;@;o;;i‹;i$;o;;i‹;i;@;i‹o;;"ionicon-var-network;[ ;0;@;o;	;@;o;;i›;i#;o;;i›;i;@;i›; 0;!o;"	;o;#;	;$;"
+\f341;@;%@;o;	;@;o;;i›;i#;o;;i›;i;@;i›o;;"ionicon-var-no-smoking;[ ;0;@;o;	;@;o;;iﬁ;i&;o;;iﬁ;i;@;iﬁ; 0;!o;"	;o;#;	;$;"
+\f2c2;@;%@;o;	;@;o;;iﬁ;i&;o;;iﬁ;i;@;iﬁo;;"ionicon-var-nuclear;[ ;0;@;o;	;@;o;;iﬂ;i#;o;;iﬂ;i;@;iﬂ; 0;!o;"	;o;#;	;$;"
+\f2a4;@;%@;o;	;@;o;;iﬂ;i#;o;;iﬂ;i;@;iﬂo;;"ionicon-var-outlet;[ ;0;@;o;	;@;o;;i‡;i";o;;i‡;i;@;i‡; 0;!o;"	;o;#;	;$;"
+\f342;@;%@;o;	;@;o;;i‡;i";o;;i‡;i;@;i‡o;;"ionicon-var-paper-airplane;[ ;0;@;o;	;@;o;;i·;i*;o;;i·;i;@;i·; 0;!o;"	;o;#;	;$;"
+\f2c3;@;%@;o;	;@;o;;i·;i*;o;;i·;i#;@;i·o;;"ionicon-var-paperclip;[ ;0;@;o;	;@;o;;i‚;i%;o;;i‚;i;@;i‚; 0;!o;"	;o;#;	;$;"
+\f20f;@;%@;o;	;@;o;;i‚;i%;o;;i‚;i;@;i‚o;;"ionicon-var-pause;[ ;0;@;o;	;@;o;;i„;i!;o;;i„;i;@;i„; 0;!o;"	;o;#;	;$;"
+\f210;@;%@;o;	;@;o;;i„;i!;o;;i„;i;@;i„o;;"ionicon-var-person;[ ;0;@;o;	;@;o;;i‰;i";o;;i‰;i;@;i‰; 0;!o;"	;o;#;	;$;"
+\f213;@;%@;o;	;@;o;;i‰;i";o;;i‰;i;@;i‰o;;"ionicon-var-person-add;[ ;0;@;o;	;@;o;;iÂ;i&;o;;iÂ;i;@;iÂ; 0;!o;"	;o;#;	;$;"
+\f211;@;%@;o;	;@;o;;iÂ;i&;o;;iÂ;i;@;iÂo;;"ionicon-var-person-stalker;[ ;0;@;o;	;@;o;;iÊ;i*;o;;iÊ;i;@;iÊ; 0;!o;"	;o;#;	;$;"
+\f212;@;%@;o;	;@;o;;iÊ;i*;o;;iÊ;i#;@;iÊo;;"ionicon-var-pie-graph;[ ;0;@;o;	;@;o;;iÁ;i%;o;;iÁ;i;@;iÁ; 0;!o;"	;o;#;	;$;"
+\f2a5;@;%@;o;	;@;o;;iÁ;i%;o;;iÁ;i;@;iÁo;;"ionicon-var-pin;[ ;0;@;o;	;@;o;;iË;i;o;;iË;i;@;iË; 0;!o;"	;o;#;	;$;"
+\f2a6;@;%@;o;	;@;o;;iË;i;o;;iË;i;@;iËo;;"ionicon-var-pinpoint;[ ;0;@;o;	;@;o;;iÈ;i$;o;;iÈ;i;@;iÈ; 0;!o;"	;o;#;	;$;"
+\f2a7;@;%@;o;	;@;o;;iÈ;i$;o;;iÈ;i;@;iÈo;;"ionicon-var-pizza;[ ;0;@;o;	;@;o;;iÍ;i!;o;;iÍ;i;@;iÍ; 0;!o;"	;o;#;	;$;"
+\f2a8;@;%@;o;	;@;o;;iÍ;i!;o;;iÍ;i;@;iÍo;;"ionicon-var-plane;[ ;0;@;o;	;@;o;;iÎ;i!;o;;iÎ;i;@;iÎ; 0;!o;"	;o;#;	;$;"
+\f214;@;%@;o;	;@;o;;iÎ;i!;o;;iÎ;i;@;iÎo;;"ionicon-var-planet;[ ;0;@;o;	;@;o;;iÏ;i";o;;iÏ;i;@;iÏ; 0;!o;"	;o;#;	;$;"
+\f343;@;%@;o;	;@;o;;iÏ;i";o;;iÏ;i;@;iÏo;;"ionicon-var-play;[ ;0;@;o;	;@;o;;iÌ;i ;o;;iÌ;i;@;iÌ; 0;!o;"	;o;#;	;$;"
+\f215;@;%@;o;	;@;o;;iÌ;i ;o;;iÌ;i;@;iÌo;;"ionicon-var-playstation;[ ;0;@;o;	;@;o;;iÓ;i';o;;iÓ;i;@;iÓ; 0;!o;"	;o;#;	;$;"
+\f30a;@;%@;o;	;@;o;;iÓ;i';o;;iÓ;i ;@;iÓo;;"ionicon-var-plus;[ ;0;@;o;	;@;o;;iÔ;i ;o;;iÔ;i;@;iÔ; 0;!o;"	;o;#;	;$;"
+\f218;@;%@;o;	;@;o;;iÔ;i ;o;;iÔ;i;@;iÔo;;"ionicon-var-plus-circled;[ ;0;@;o;	;@;o;;i;i(;o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f216;@;%@;o;	;@;o;;i;i(;o;;i;i!;@;io;;"ionicon-var-plus-round;[ ;0;@;o;	;@;o;;iÒ;i&;o;;iÒ;i;@;iÒ; 0;!o;"	;o;#;	;$;"
+\f217;@;%@;o;	;@;o;;iÒ;i&;o;;iÒ;i;@;iÒo;;"ionicon-var-podium;[ ;0;@;o;	;@;o;;iÚ;i";o;;iÚ;i;@;iÚ; 0;!o;"	;o;#;	;$;"
+\f344;@;%@;o;	;@;o;;iÚ;i";o;;iÚ;i;@;iÚo;;"ionicon-var-pound;[ ;0;@;o;	;@;o;;iÛ;i!;o;;iÛ;i;@;iÛ; 0;!o;"	;o;#;	;$;"
+\f219;@;%@;o;	;@;o;;iÛ;i!;o;;iÛ;i;@;iÛo;;"ionicon-var-power;[ ;0;@;o;	;@;o;;iÙ;i!;o;;iÙ;i;@;iÙ; 0;!o;"	;o;#;	;$;"
+\f2a9;@;%@;o;	;@;o;;iÙ;i!;o;;iÙ;i;@;iÙo;;"ionicon-var-pricetag;[ ;0;@;o;	;@;o;;iı;i$;o;;iı;i;@;iı; 0;!o;"	;o;#;	;$;"
+\f2aa;@;%@;o;	;@;o;;iı;i$;o;;iı;i;@;iıo;;"ionicon-var-pricetags;[ ;0;@;o;	;@;o;;iˆ;i%;o;;iˆ;i;@;iˆ; 0;!o;"	;o;#;	;$;"
+\f2ab;@;%@;o;	;@;o;;iˆ;i%;o;;iˆ;i;@;iˆo;;"ionicon-var-printer;[ ;0;@;o;	;@;o;;i˜;i#;o;;i˜;i;@;i˜; 0;!o;"	;o;#;	;$;"
+\f21a;@;%@;o;	;@;o;;i˜;i#;o;;i˜;i;@;i˜o;;"ionicon-var-pull-request;[ ;0;@;o;	;@;o;;i¯;i(;o;;i¯;i;@;i¯; 0;!o;"	;o;#;	;$;"
+\f345;@;%@;o;	;@;o;;i¯;i(;o;;i¯;i!;@;i¯o;;"ionicon-var-qr-scanner;[ ;0;@;o;	;@;o;;i˘;i&;o;;i˘;i;@;i˘; 0;!o;"	;o;#;	;$;"
+\f346;@;%@;o;	;@;o;;i˘;i&;o;;i˘;i;@;i˘o;;"ionicon-var-quote;[ ;0;@;o;	;@;o;;i˙;i!;o;;i˙;i;@;i˙; 0;!o;"	;o;#;	;$;"
+\f347;@;%@;o;	;@;o;;i˙;i!;o;;i˙;i;@;i˙o;;"ionicon-var-radio-waves;[ ;0;@;o;	;@;o;;i˚;i';o;;i˚;i;@;i˚; 0;!o;"	;o;#;	;$;"
+\f2ac;@;%@;o;	;@;o;;i˚;i';o;;i˚;i ;@;i˚o;;"ionicon-var-record;[ ;0;@;o;	;@;o;;i¸;i";o;;i¸;i;@;i¸; 0;!o;"	;o;#;	;$;"
+\f21b;@;%@;o;	;@;o;;i¸;i";o;;i¸;i;@;i¸o;;"ionicon-var-refresh;[ ;0;@;o;	;@;o;;i˝;i#;o;;i˝;i;@;i˝; 0;!o;"	;o;#;	;$;"
+\f21c;@;%@;o;	;@;o;;i˝;i#;o;;i˝;i;@;i˝o;;"ionicon-var-reply;[ ;0;@;o;	;@;o;;i˛;i!;o;;i˛;i;@;i˛; 0;!o;"	;o;#;	;$;"
+\f21e;@;%@;o;	;@;o;;i˛;i!;o;;i˛;i;@;i˛o;;"ionicon-var-reply-all;[ ;0;@;o;	;@;o;;iˇ;i%;o;;iˇ;i;@;iˇ; 0;!o;"	;o;#;	;$;"
+\f21d;@;%@;o;	;@;o;;iˇ;i%;o;;iˇ;i;@;iˇo;;"ionicon-var-ribbon-a;[ ;0;@;o;	;@;o;;i ;i$;o;;i ;i;@;i ; 0;!o;"	;o;#;	;$;"
+\f348;@;%@;o;	;@;o;;i ;i$;o;;i ;i;@;i o;;"ionicon-var-ribbon-b;[ ;0;@;o;	;@;o;;i;i$;o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f349;@;%@;o;	;@;o;;i;i$;o;;i;i;@;io;;"ionicon-var-sad;[ ;0;@;o;	;@;o;;i;i;o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f34a;@;%@;o;	;@;o;;i;i;o;;i;i;@;io;;"ionicon-var-scissors;[ ;0;@;o;	;@;o;;i;i$;o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f34b;@;%@;o;	;@;o;;i;i$;o;;i;i;@;io;;"ionicon-var-search;[ ;0;@;o;	;@;o;;i;i";o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f21f;@;%@;o;	;@;o;;i;i";o;;i;i;@;io;;"ionicon-var-settings;[ ;0;@;o;	;@;o;;i;i$;o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f2ad;@;%@;o;	;@;o;;i;i$;o;;i;i;@;io;;"ionicon-var-share;[ ;0;@;o;	;@;o;;i;i!;o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f220;@;%@;o;	;@;o;;i;i!;o;;i;i;@;io;;"ionicon-var-shuffle;[ ;0;@;o;	;@;o;;i;i#;o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f221;@;%@;o;	;@;o;;i;i#;o;;i;i;@;io;;"ionicon-var-skip-backward;[ ;0;@;o;	;@;o;;i;i);o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f222;@;%@;o;	;@;o;;i;i);o;;i;i";@;io;;"ionicon-var-skip-forward;[ ;0;@;o;	;@;o;;i	;i(;o;;i	;i;@;i	; 0;!o;"	;o;#;	;$;"
+\f223;@;%@;o;	;@;o;;i	;i(;o;;i	;i!;@;i	o;;"ionicon-var-social-android;[ ;0;@;o;	;@;o;;i
+;i*;o;;i
+;i;@;i
+; 0;!o;"	;o;#;	;$;"
+\f225;@;%@;o;	;@;o;;i
+;i*;o;;i
+;i#;@;i
+o;;"'ionicon-var-social-android-outline;[ ;0;@;o;	;@;o;;i;i2;o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f224;@;%@;o;	;@;o;;i;i2;o;;i;i+;@;io;;"ionicon-var-social-apple;[ ;0;@;o;	;@;o;;i;i(;o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f227;@;%@;o;	;@;o;;i;i(;o;;i;i!;@;io;;"%ionicon-var-social-apple-outline;[ ;0;@;o;	;@;o;;i;i0;o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f226;@;%@;o;	;@;o;;i;i0;o;;i;i);@;io;;"ionicon-var-social-bitcoin;[ ;0;@;o;	;@;o;;i;i*;o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f2af;@;%@;o;	;@;o;;i;i*;o;;i;i#;@;io;;"'ionicon-var-social-bitcoin-outline;[ ;0;@;o;	;@;o;;i;i2;o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f2ae;@;%@;o;	;@;o;;i;i2;o;;i;i+;@;io;;"ionicon-var-social-buffer;[ ;0;@;o;	;@;o;;i;i);o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f229;@;%@;o;	;@;o;;i;i);o;;i;i";@;io;;"&ionicon-var-social-buffer-outline;[ ;0;@;o;	;@;o;;i;i1;o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f228;@;%@;o;	;@;o;;i;i1;o;;i;i*;@;io;;"$ionicon-var-social-designernews;[ ;0;@;o;	;@;o;;i;i/;o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f22b;@;%@;o;	;@;o;;i;i/;o;;i;i(;@;io;;",ionicon-var-social-designernews-outline;[ ;0;@;o;	;@;o;;i;i7;o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f22a;@;%@;o;	;@;o;;i;i7;o;;i;i0;@;io;;" ionicon-var-social-dribbble;[ ;0;@;o;	;@;o;;i;i+;o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f22d;@;%@;o;	;@;o;;i;i+;o;;i;i$;@;io;;"(ionicon-var-social-dribbble-outline;[ ;0;@;o;	;@;o;;i;i3;o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f22c;@;%@;o;	;@;o;;i;i3;o;;i;i,;@;io;;"ionicon-var-social-dropbox;[ ;0;@;o;	;@;o;;i;i*;o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f22f;@;%@;o;	;@;o;;i;i*;o;;i;i#;@;io;;"'ionicon-var-social-dropbox-outline;[ ;0;@;o;	;@;o;;i;i2;o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f22e;@;%@;o;	;@;o;;i;i2;o;;i;i+;@;io;;" ionicon-var-social-facebook;[ ;0;@;o;	;@;o;;i;i+;o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f231;@;%@;o;	;@;o;;i;i+;o;;i;i$;@;io;;"(ionicon-var-social-facebook-outline;[ ;0;@;o;	;@;o;;i;i3;o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f230;@;%@;o;	;@;o;;i;i3;o;;i;i,;@;io;;""ionicon-var-social-foursquare;[ ;0;@;o;	;@;o;;i;i-;o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f34d;@;%@;o;	;@;o;;i;i-;o;;i;i&;@;io;;"*ionicon-var-social-foursquare-outline;[ ;0;@;o;	;@;o;;i;i5;o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f34c;@;%@;o;	;@;o;;i;i5;o;;i;i.;@;io;;"%ionicon-var-social-freebsd-devil;[ ;0;@;o;	;@;o;;i;i0;o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f2c4;@;%@;o;	;@;o;;i;i0;o;;i;i);@;io;;"ionicon-var-social-github;[ ;0;@;o;	;@;o;;i;i);o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f233;@;%@;o;	;@;o;;i;i);o;;i;i";@;io;;"&ionicon-var-social-github-outline;[ ;0;@;o;	;@;o;;i;i1;o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f232;@;%@;o;	;@;o;;i;i1;o;;i;i*;@;io;;"ionicon-var-social-google;[ ;0;@;o;	;@;o;;i;i);o;;i;i;@;i; 0;!o;"	;o;#;	;$;"
+\f34f;@;%@;o;	;@;o;;i;i);o;;i;i";@;io;;"&ionicon-var-social-google-outline;[ ;0;@;o;	;@;o;;i ;i1;o;;i ;i;@;i ; 0;!o;"	;o;#;	;$;"
+\f34e;@;%@;o;	;@;o;;i ;i1;o;;i ;i*;@;i o;;""ionicon-var-social-googleplus;[ ;0;@;o;	;@;o;;i!;i-;o;;i!;i;@;i!; 0;!o;"	;o;#;	;$;"
+\f235;@;%@;o;	;@;o;;i!;i-;o;;i!;i&;@;i!o;;"*ionicon-var-social-googleplus-outline;[ ;0;@;o;	;@;o;;i";i5;o;;i";i;@;i"; 0;!o;"	;o;#;	;$;"
+\f234;@;%@;o;	;@;o;;i";i5;o;;i";i.;@;i"o;;""ionicon-var-social-hackernews;[ ;0;@;o;	;@;o;;i#;i-;o;;i#;i;@;i#; 0;!o;"	;o;#;	;$;"
+\f237;@;%@;o;	;@;o;;i#;i-;o;;i#;i&;@;i#o;;"*ionicon-var-social-hackernews-outline;[ ;0;@;o;	;@;o;;i$;i5;o;;i$;i;@;i$; 0;!o;"	;o;#;	;$;"
+\f236;@;%@;o;	;@;o;;i$;i5;o;;i$;i.;@;i$o;;"!ionicon-var-social-instagram;[ ;0;@;o;	;@;o;;i%;i,;o;;i%;i;@;i%; 0;!o;"	;o;#;	;$;"
+\f351;@;%@;o;	;@;o;;i%;i,;o;;i%;i%;@;i%o;;")ionicon-var-social-instagram-outline;[ ;0;@;o;	;@;o;;i&;i4;o;;i&;i;@;i&; 0;!o;"	;o;#;	;$;"
+\f350;@;%@;o;	;@;o;;i&;i4;o;;i&;i-;@;i&o;;" ionicon-var-social-linkedin;[ ;0;@;o;	;@;o;;i';i+;o;;i';i;@;i'; 0;!o;"	;o;#;	;$;"
+\f239;@;%@;o;	;@;o;;i';i+;o;;i';i$;@;i'o;;"(ionicon-var-social-linkedin-outline;[ ;0;@;o;	;@;o;;i(;i3;o;;i(;i;@;i(; 0;!o;"	;o;#;	;$;"
+\f238;@;%@;o;	;@;o;;i(;i3;o;;i(;i,;@;i(o;;"!ionicon-var-social-pinterest;[ ;0;@;o;	;@;o;;i);i,;o;;i);i;@;i); 0;!o;"	;o;#;	;$;"
+\f2b1;@;%@;o;	;@;o;;i);i,;o;;i);i%;@;i)o;;")ionicon-var-social-pinterest-outline;[ ;0;@;o;	;@;o;;i*;i4;o;;i*;i;@;i*; 0;!o;"	;o;#;	;$;"
+\f2b0;@;%@;o;	;@;o;;i*;i4;o;;i*;i-;@;i*o;;"ionicon-var-social-reddit;[ ;0;@;o;	;@;o;;i+;i);o;;i+;i;@;i+; 0;!o;"	;o;#;	;$;"
+\f23b;@;%@;o;	;@;o;;i+;i);o;;i+;i";@;i+o;;"&ionicon-var-social-reddit-outline;[ ;0;@;o;	;@;o;;i,;i1;o;;i,;i;@;i,; 0;!o;"	;o;#;	;$;"
+\f23a;@;%@;o;	;@;o;;i,;i1;o;;i,;i*;@;i,o;;"ionicon-var-social-rss;[ ;0;@;o;	;@;o;;i-;i&;o;;i-;i;@;i-; 0;!o;"	;o;#;	;$;"
+\f23d;@;%@;o;	;@;o;;i-;i&;o;;i-;i;@;i-o;;"#ionicon-var-social-rss-outline;[ ;0;@;o;	;@;o;;i.;i.;o;;i.;i;@;i.; 0;!o;"	;o;#;	;$;"
+\f23c;@;%@;o;	;@;o;;i.;i.;o;;i.;i';@;i.o;;"ionicon-var-social-skype;[ ;0;@;o;	;@;o;;i/;i(;o;;i/;i;@;i/; 0;!o;"	;o;#;	;$;"
+\f23f;@;%@;o;	;@;o;;i/;i(;o;;i/;i!;@;i/o;;"%ionicon-var-social-skype-outline;[ ;0;@;o;	;@;o;;i0;i0;o;;i0;i;@;i0; 0;!o;"	;o;#;	;$;"
+\f23e;@;%@;o;	;@;o;;i0;i0;o;;i0;i);@;i0o;;"ionicon-var-social-tumblr;[ ;0;@;o;	;@;o;;i1;i);o;;i1;i;@;i1; 0;!o;"	;o;#;	;$;"
+\f241;@;%@;o;	;@;o;;i1;i);o;;i1;i";@;i1o;;"&ionicon-var-social-tumblr-outline;[ ;0;@;o;	;@;o;;i2;i1;o;;i2;i;@;i2; 0;!o;"	;o;#;	;$;"
+\f240;@;%@;o;	;@;o;;i2;i1;o;;i2;i*;@;i2o;;"ionicon-var-social-tux;[ ;0;@;o;	;@;o;;i3;i&;o;;i3;i;@;i3; 0;!o;"	;o;#;	;$;"
+\f2c5;@;%@;o;	;@;o;;i3;i&;o;;i3;i;@;i3o;;"ionicon-var-social-twitter;[ ;0;@;o;	;@;o;;i4;i*;o;;i4;i;@;i4; 0;!o;"	;o;#;	;$;"
+\f243;@;%@;o;	;@;o;;i4;i*;o;;i4;i#;@;i4o;;"'ionicon-var-social-twitter-outline;[ ;0;@;o;	;@;o;;i5;i2;o;;i5;i;@;i5; 0;!o;"	;o;#;	;$;"
+\f242;@;%@;o;	;@;o;;i5;i2;o;;i5;i+;@;i5o;;"ionicon-var-social-usd;[ ;0;@;o;	;@;o;;i6;i&;o;;i6;i;@;i6; 0;!o;"	;o;#;	;$;"
+\f353;@;%@;o;	;@;o;;i6;i&;o;;i6;i;@;i6o;;"#ionicon-var-social-usd-outline;[ ;0;@;o;	;@;o;;i7;i.;o;;i7;i;@;i7; 0;!o;"	;o;#;	;$;"
+\f352;@;%@;o;	;@;o;;i7;i.;o;;i7;i';@;i7o;;"ionicon-var-social-vimeo;[ ;0;@;o;	;@;o;;i8;i(;o;;i8;i;@;i8; 0;!o;"	;o;#;	;$;"
+\f245;@;%@;o;	;@;o;;i8;i(;o;;i8;i!;@;i8o;;"%ionicon-var-social-vimeo-outline;[ ;0;@;o;	;@;o;;i9;i0;o;;i9;i;@;i9; 0;!o;"	;o;#;	;$;"
+\f244;@;%@;o;	;@;o;;i9;i0;o;;i9;i);@;i9o;;"ionicon-var-social-windows;[ ;0;@;o;	;@;o;;i:;i*;o;;i:;i;@;i:; 0;!o;"	;o;#;	;$;"
+\f247;@;%@;o;	;@;o;;i:;i*;o;;i:;i#;@;i:o;;"'ionicon-var-social-windows-outline;[ ;0;@;o;	;@;o;;i;;i2;o;;i;;i;@;i;; 0;!o;"	;o;#;	;$;"
+\f246;@;%@;o;	;@;o;;i;;i2;o;;i;;i+;@;i;o;;"!ionicon-var-social-wordpress;[ ;0;@;o;	;@;o;;i<;i,;o;;i<;i;@;i<; 0;!o;"	;o;#;	;$;"
+\f249;@;%@;o;	;@;o;;i<;i,;o;;i<;i%;@;i<o;;")ionicon-var-social-wordpress-outline;[ ;0;@;o;	;@;o;;i=;i4;o;;i=;i;@;i=; 0;!o;"	;o;#;	;$;"
+\f248;@;%@;o;	;@;o;;i=;i4;o;;i=;i-;@;i=o;;"ionicon-var-social-yahoo;[ ;0;@;o;	;@;o;;i>;i(;o;;i>;i;@;i>; 0;!o;"	;o;#;	;$;"
+\f24b;@;%@;o;	;@;o;;i>;i(;o;;i>;i!;@;i>o;;"%ionicon-var-social-yahoo-outline;[ ;0;@;o;	;@;o;;i?;i0;o;;i?;i;@;i?; 0;!o;"	;o;#;	;$;"
+\f24a;@;%@;o;	;@;o;;i?;i0;o;;i?;i);@;i?o;;"ionicon-var-social-youtube;[ ;0;@;o;	;@;o;;i@;i*;o;;i@;i;@;i@; 0;!o;"	;o;#;	;$;"
+\f24d;@;%@;o;	;@;o;;i@;i*;o;;i@;i#;@;i@o;;"'ionicon-var-social-youtube-outline;[ ;0;@;o;	;@;o;;iA;i2;o;;iA;i;@;iA; 0;!o;"	;o;#;	;$;"
+\f24c;@;%@;o;	;@;o;;iA;i2;o;;iA;i+;@;iAo;;"ionicon-var-speakerphone;[ ;0;@;o;	;@;o;;iB;i(;o;;iB;i;@;iB; 0;!o;"	;o;#;	;$;"
+\f2b2;@;%@;o;	;@;o;;iB;i(;o;;iB;i!;@;iBo;;"ionicon-var-speedometer;[ ;0;@;o;	;@;o;;iC;i';o;;iC;i;@;iC; 0;!o;"	;o;#;	;$;"
+\f2b3;@;%@;o;	;@;o;;iC;i';o;;iC;i ;@;iCo;;"ionicon-var-spoon;[ ;0;@;o;	;@;o;;iD;i!;o;;iD;i;@;iD; 0;!o;"	;o;#;	;$;"
+\f2b4;@;%@;o;	;@;o;;iD;i!;o;;iD;i;@;iDo;;"ionicon-var-star;[ ;0;@;o;	;@;o;;iE;i ;o;;iE;i;@;iE; 0;!o;"	;o;#;	;$;"
+\f24e;@;%@;o;	;@;o;;iE;i ;o;;iE;i;@;iEo;;"ionicon-var-stats-bars;[ ;0;@;o;	;@;o;;iF;i&;o;;iF;i;@;iF; 0;!o;"	;o;#;	;$;"
+\f2b5;@;%@;o;	;@;o;;iF;i&;o;;iF;i;@;iFo;;"ionicon-var-steam;[ ;0;@;o;	;@;o;;iG;i!;o;;iG;i;@;iG; 0;!o;"	;o;#;	;$;"
+\f30b;@;%@;o;	;@;o;;iG;i!;o;;iG;i;@;iGo;;"ionicon-var-stop;[ ;0;@;o;	;@;o;;iH;i ;o;;iH;i;@;iH; 0;!o;"	;o;#;	;$;"
+\f24f;@;%@;o;	;@;o;;iH;i ;o;;iH;i;@;iHo;;"ionicon-var-thermometer;[ ;0;@;o;	;@;o;;iI;i';o;;iI;i;@;iI; 0;!o;"	;o;#;	;$;"
+\f2b6;@;%@;o;	;@;o;;iI;i';o;;iI;i ;@;iIo;;"ionicon-var-thumbsdown;[ ;0;@;o;	;@;o;;iJ;i&;o;;iJ;i;@;iJ; 0;!o;"	;o;#;	;$;"
+\f250;@;%@;o;	;@;o;;iJ;i&;o;;iJ;i;@;iJo;;"ionicon-var-thumbsup;[ ;0;@;o;	;@;o;;iK;i$;o;;iK;i;@;iK; 0;!o;"	;o;#;	;$;"
+\f251;@;%@;o;	;@;o;;iK;i$;o;;iK;i;@;iKo;;"ionicon-var-toggle;[ ;0;@;o;	;@;o;;iL;i";o;;iL;i;@;iL; 0;!o;"	;o;#;	;$;"
+\f355;@;%@;o;	;@;o;;iL;i";o;;iL;i;@;iLo;;"ionicon-var-toggle-filled;[ ;0;@;o;	;@;o;;iM;i);o;;iM;i;@;iM; 0;!o;"	;o;#;	;$;"
+\f354;@;%@;o;	;@;o;;iM;i);o;;iM;i";@;iMo;;"ionicon-var-trash-a;[ ;0;@;o;	;@;o;;iN;i#;o;;iN;i;@;iN; 0;!o;"	;o;#;	;$;"
+\f252;@;%@;o;	;@;o;;iN;i#;o;;iN;i;@;iNo;;"ionicon-var-trash-b;[ ;0;@;o;	;@;o;;iO;i#;o;;iO;i;@;iO; 0;!o;"	;o;#;	;$;"
+\f253;@;%@;o;	;@;o;;iO;i#;o;;iO;i;@;iOo;;"ionicon-var-trophy;[ ;0;@;o;	;@;o;;iP;i";o;;iP;i;@;iP; 0;!o;"	;o;#;	;$;"
+\f356;@;%@;o;	;@;o;;iP;i";o;;iP;i;@;iPo;;"ionicon-var-umbrella;[ ;0;@;o;	;@;o;;iQ;i$;o;;iQ;i;@;iQ; 0;!o;"	;o;#;	;$;"
+\f2b7;@;%@;o;	;@;o;;iQ;i$;o;;iQ;i;@;iQo;;"ionicon-var-university;[ ;0;@;o;	;@;o;;iR;i&;o;;iR;i;@;iR; 0;!o;"	;o;#;	;$;"
+\f357;@;%@;o;	;@;o;;iR;i&;o;;iR;i;@;iRo;;"ionicon-var-unlocked;[ ;0;@;o;	;@;o;;iS;i$;o;;iS;i;@;iS; 0;!o;"	;o;#;	;$;"
+\f254;@;%@;o;	;@;o;;iS;i$;o;;iS;i;@;iSo;;"ionicon-var-upload;[ ;0;@;o;	;@;o;;iT;i";o;;iT;i;@;iT; 0;!o;"	;o;#;	;$;"
+\f255;@;%@;o;	;@;o;;iT;i";o;;iT;i;@;iTo;;"ionicon-var-usb;[ ;0;@;o;	;@;o;;iU;i;o;;iU;i;@;iU; 0;!o;"	;o;#;	;$;"
+\f2b8;@;%@;o;	;@;o;;iU;i;o;;iU;i;@;iUo;;"ionicon-var-videocamera;[ ;0;@;o;	;@;o;;iV;i';o;;iV;i;@;iV; 0;!o;"	;o;#;	;$;"
+\f256;@;%@;o;	;@;o;;iV;i';o;;iV;i ;@;iVo;;"ionicon-var-volume-high;[ ;0;@;o;	;@;o;;iW;i';o;;iW;i;@;iW; 0;!o;"	;o;#;	;$;"
+\f257;@;%@;o;	;@;o;;iW;i';o;;iW;i ;@;iWo;;"ionicon-var-volume-low;[ ;0;@;o;	;@;o;;iX;i&;o;;iX;i;@;iX; 0;!o;"	;o;#;	;$;"
+\f258;@;%@;o;	;@;o;;iX;i&;o;;iX;i;@;iXo;;"ionicon-var-volume-medium;[ ;0;@;o;	;@;o;;iY;i);o;;iY;i;@;iY; 0;!o;"	;o;#;	;$;"
+\f259;@;%@;o;	;@;o;;iY;i);o;;iY;i";@;iYo;;"ionicon-var-volume-mute;[ ;0;@;o;	;@;o;;iZ;i';o;;iZ;i;@;iZ; 0;!o;"	;o;#;	;$;"
+\f25a;@;%@;o;	;@;o;;iZ;i';o;;iZ;i ;@;iZo;;"ionicon-var-wand;[ ;0;@;o;	;@;o;;i[;i ;o;;i[;i;@;i[; 0;!o;"	;o;#;	;$;"
+\f358;@;%@;o;	;@;o;;i[;i ;o;;i[;i;@;i[o;;"ionicon-var-waterdrop;[ ;0;@;o;	;@;o;;i\;i%;o;;i\;i;@;i\; 0;!o;"	;o;#;	;$;"
+\f25b;@;%@;o;	;@;o;;i\;i%;o;;i\;i;@;i\o;;"ionicon-var-wifi;[ ;0;@;o;	;@;o;;i];i ;o;;i];i;@;i]; 0;!o;"	;o;#;	;$;"
+\f25c;@;%@;o;	;@;o;;i];i ;o;;i];i;@;i]o;;"ionicon-var-wineglass;[ ;0;@;o;	;@;o;;i^;i%;o;;i^;i;@;i^; 0;!o;"	;o;#;	;$;"
+\f2b9;@;%@;o;	;@;o;;i^;i%;o;;i^;i;@;i^o;;"ionicon-var-woman;[ ;0;@;o;	;@;o;;i_;i!;o;;i_;i;@;i_; 0;!o;"	;o;#;	;$;"
+\f25d;@;%@;o;	;@;o;;i_;i!;o;;i_;i;@;i_o;;"ionicon-var-wrench;[ ;0;@;o;	;@;o;;i`;i";o;;i`;i;@;i`; 0;!o;"	;o;#;	;$;"
+\f2ba;@;%@;o;	;@;o;;i`;i";o;;i`;i;@;i`o;;"ionicon-var-xbox;[ ;0;@;o;	;@;o;;ia;i ;o;;ia;i;@;ia; 0;!o;"	;o;#;	;$;"
+\f30c;@;%@;o;	;@;o;;ia;i ;o;;ia;i;@;ia;@;o;	;@;o;;i;i;o;;i;i;@;i:@has_childrenT

@@ -1,0 +1,112 @@
+2014-08-07 09:41:26.067 Fill Up[1012:90b] Multi-tasking -> Device: YES, App: YES
+2014-08-07 09:41:26.102 Fill Up[1012:90b] Unlimited access to network resources
+2014-08-07 09:41:26.112 Fill Up[1012:90b] Fix applied for database locations?: YES
+2014-08-07 09:41:26.596 Fill Up[1012:90b] [CDVTimer][keyboard] 0.050008ms
+2014-08-07 09:41:26.722 Fill Up[1012:90b] [CDVTimer][splashscreen] 125.060022ms
+2014-08-07 09:41:26.734 Fill Up[1012:90b] [CDVTimer][statusbar] 11.321008ms
+2014-08-07 09:41:26.734 Fill Up[1012:90b] [CDVTimer][TotalPluginStartup] 137.843013ms
+2014-08-07 09:41:26.809 Fill Up[1012:90b] Resetting plugins due to page load.
+2014-08-07 09:41:27.374 Fill Up[1012:90b] Finished load of: file:///Users/lukasmenges/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0851671F-A5FB-4918-AF1F-2518F0B966B5/Fill%20Up.app/www/index.html#/tab/dash
+2014-08-07 09:42:03.210 Fill Up[1409:90b] Multi-tasking -> Device: YES, App: YES
+2014-08-07 09:42:03.216 Fill Up[1409:90b] Unlimited access to network resources
+2014-08-07 09:42:03.228 Fill Up[1409:90b] [CDVTimer][keyboard] 0.055969ms
+2014-08-07 09:42:03.235 Fill Up[1409:90b] [CDVTimer][splashscreen] 6.190002ms
+2014-08-07 09:42:03.237 Fill Up[1409:90b] [CDVTimer][statusbar] 1.918018ms
+2014-08-07 09:42:03.237 Fill Up[1409:90b] [CDVTimer][TotalPluginStartup] 9.420037ms
+2014-08-07 09:42:03.276 Fill Up[1409:90b] Resetting plugins due to page load.
+2014-08-07 09:42:03.635 Fill Up[1409:90b] Finished load of: file:///Users/lukasmenges/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0851671F-A5FB-4918-AF1F-2518F0B966B5/Fill%20Up.app/www/index.html#/tab/dash
+2014-08-11 10:27:16.962 Fill Up[1034:90b] Multi-tasking -> Device: YES, App: YES
+2014-08-11 10:27:17.066 Fill Up[1034:90b] Unlimited access to network resources
+2014-08-11 10:27:17.788 Fill Up[1034:90b] [CDVTimer][keyboard] 0.052989ms
+2014-08-11 10:27:17.915 Fill Up[1034:90b] [CDVTimer][splashscreen] 125.954986ms
+2014-08-11 10:27:17.922 Fill Up[1034:90b] [CDVTimer][statusbar] 7.051051ms
+2014-08-11 10:27:17.923 Fill Up[1034:90b] [CDVTimer][TotalPluginStartup] 134.669006ms
+2014-08-11 10:27:18.002 Fill Up[1034:90b] Resetting plugins due to page load.
+2014-08-11 10:27:18.600 Fill Up[1034:90b] Finished load of: file:///Users/lukasmenges/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0851671F-A5FB-4918-AF1F-2518F0B966B5/Fill%20Up.app/www/index.html#/intro
+2014-08-11 10:27:18.718 Fill Up[1034:90b] introctrl
+2014-08-11 10:27:36.183 Fill Up[1034:90b] [{"0":"1","1":"Test Gutschein 1","2":"Konstanz","3":"Destille Konstanz","4":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo","5":"1","6":"3","7":"111","8":"47.6898543","9":"9.135227","id":"1","name":"Test Gutschein 1","city":"Konstanz","location":"Destille Konstanz","text":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo","active":"1","count":"3","code":"111","lat":"47.6898543","long":"9.135227"}]
+2014-08-11 10:28:06.492 Fill Up[1034:90b] [{"0":"1","1":"Test Gutschein 1","2":"Konstanz","3":"Destille Konstanz","4":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo","5":"1","6":"3","7":"111","8":"47.6898543","9":"9.135227","id":"1","name":"Test Gutschein 1","city":"Konstanz","location":"Destille Konstanz","text":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo","active":"1","count":"3","code":"111","lat":"47.6898543","long":"9.135227"}]
+2014-08-11 10:28:07.668 Fill Up[1034:90b] [{"0":"5","1":"Abgelaufener Gutschein","2":"Konstanz","3":"Die coolste Bar","4":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et e","5":"1","6":"0","7":"111","8":"111","9":"111","id":"5","name":"Abgelaufener Gutschein","city":"Konstanz","location":"Die coolste Bar","text":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et e","active":"1","count":"0","code":"111","lat":"111","long":"111"}]
+2014-12-04 11:51:22.766 Fill Up[1862:1080799] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lukasmenges/Library/Developer/CoreSimulator/Devices/E5000B21-9947-428D-88FA-98A1773CE63D/data/Containers/Data/Application/4AF686F2-3010-4468-8F20-CC8376EC97CB/Library/Cookies/Cookies.binarycookies
+2014-12-04 11:51:23.101 Fill Up[1862:1080799] Multi-tasking -> Device: YES, App: YES
+2014-12-04 11:51:23.596 Fill Up[1862:1080799] Unlimited access to network resources
+2014-12-04 11:51:27.617 Fill Up[1862:1080799] [CDVTimer][keyboard] 0.056028ms
+2014-12-04 11:51:28.113 Fill Up[1862:1080799] [CDVTimer][splashscreen] 496.154010ms
+2014-12-04 11:51:28.136 Fill Up[1862:1080799] [CDVTimer][statusbar] 22.628009ms
+2014-12-04 11:51:28.136 Fill Up[1862:1080799] [CDVTimer][TotalPluginStartup] 519.268990ms
+2014-12-04 11:51:28.856 Fill Up[1862:1080799] Resetting plugins due to page load.
+2014-12-04 11:51:29.894 Fill Up[1862:1080799] Finished load of: file:///Users/lukasmenges/Library/Developer/CoreSimulator/Devices/E5000B21-9947-428D-88FA-98A1773CE63D/data/Containers/Bundle/Application/2F5C7F4A-672B-442B-83BF-AAD9F3C7902F/Fill%20Up.app/www/index.html#/intro
+2014-12-04 11:51:29.978 Fill Up[1862:1080799] THREAD WARNING: ['Device'] took '36.044189' ms. Plugin should use a background thread.
+2014-12-04 11:51:30.344 Fill Up[1862:1080799] introctrl
+2014-12-04 11:53:55.676 Fill Up[1862:1080799] [{"0":"11","1":"Kostenloses 0,33l Bier","2":"Konstanz","3":"Club ABC","4":"Du bekommst eine kostenloses 0,33l Bier deiner Wahl. Nur ein Bier pro Person. Die heutige Musikrichtung: House / Electro","5":"1","6":"11","7":"111","8":"47.686979868633756","9":"9.159002125903271","10":"admin","id":"11","name":"Kostenloses 0,33l Bier","city":"Konstanz","location":"Club ABC","text":"Du bekommst eine kostenloses 0,33l Bier deiner Wahl. Nur ein Bier pro Person. Die heutige Musikrichtung: House / Electro","active":"1","count":"11","code":"111","lat":"47.686979868633756","lng":"9.159002125903271","user":"admin"}]
+2014-12-04 11:54:00.115 Fill Up[1862:1080799] Can't find keyplane that supports type 5 for keyboard iPhone-Portrait-PhonePad; using 2870935746_Portrait_iPhone-Complex-Pad_Default
+2014-12-04 11:54:05.398 Fill Up[1862:1080799] ERROR: Error: Can't find variable: check
+file:///Users/lukasmenges/Library/Developer/CoreSimulator/Devices/E5000B21-9947-428D-88FA-98A1773CE63D/data/Containers/Bundle/Application/2F5C7F4A-672B-442B-83BF-AAD9F3C7902F/Fill%20Up.app/www/js/controllers.js:207:24
+wrappedCallback@file:///Users/lukasmenges/Library/Developer/CoreSimulator/Devices/E5000B21-9947-428D-88FA-98A1773CE63D/data/Containers/Bundle/Application/2F5C7F4A-672B-442B-83BF-AAD9F3C7902F/Fill%20Up.app/www/lib/ionic/js/ionic.bundle.js:19197:81
+wrappedCallback@file:///Users/lukasmenges/Library/Developer/CoreSimulator/Devices/E5000B21-9947-428D-88FA-98A1773CE63D/data/Containers/Bundle/Application/2F5C7F4A-672B-442B-83BF-AAD9F3C7902F/Fill%20Up.app/www/lib/ionic/js/ionic.bundle.js:19197:81
+file:///Users/lukasmenges/Library/Developer/CoreSimulator/Devices/E5000B21-9947-428D-88FA-98A1773CE63D/data/Containers/Bundle/Application/2F5C7F4A-672B-442B-83BF-AAD9F3C7902F/Fill%20Up.app/www/lib/ionic/js/ionic.bundle.js:19283:34
+$eval@file:///Users/lukasmenges/Library/Developer/CoreSimulator/Devices/E5000B21-9947-428D-88FA-98A1773CE63D/data/Containers/Bundle/Application/2F5C7F4A-672B-442B-83BF-AAD9F3C7902F/Fill%20Up.app/www/lib/ionic/js/ionic.bundle.js:20326:28
+$digest@file:///Users/lukasmenges/Library/Developer/CoreSimulator/Devices/E5000B21-9947-428D-88FA-98A1773CE63D/data/Containers/Bundle/Application/2F5C7F4A-672B-442B-83BF-AAD9F3C7902F/Fill%20Up.app/www/lib/ionic/js/ionic.bundle.js:20138:36
+$apply@file:///Users/lukasmenges/Library/Developer/CoreSimulator/Devices/E5000B21-9947-428D-88FA-98A1773CE63D/data/Containers/Bundle/Application/2F5C7F4A-672B-442B-83BF-AAD9F3C7902F/Fill%20Up.app/www/lib/ionic/js/ionic.bundle.js:20430:31
+file:///Users/lukasmenges/Library/Developer/CoreSimulator/Devices/E5000B21-9947-428D-88FA-98A1773CE63D/data/Containers/Bundle/Application/2F5C7F4A-672B-442B-83BF-AAD9F3C7902F/Fill%20Up.app/www/lib/ionic/js/ionic.bundle.js:43025:19
+file:///Users/lukasmenges/Library/Developer/CoreSimulator/Devices/E5000B21-9947-428D-88FA-98A1773CE63D/data/Containers/Bundle/Application/2F5C7F4A-672B-442B-83BF-AAD9F3C7902F/Fill%20Up.app/www/lib/ionic/js/ionic.bundle.js:10478:14
+forEach@file:///Users/lukasmenges/Library/Developer/CoreSimulator/Devices/E5000B21-9947-428D-88FA-98A1773CE63D/data/Containers/Bundle/Application/2F5C7F4A-672B-442B-83BF-AAD9F3C7902F/Fill%20Up.app/www/lib/ionic/js/ionic.bundle.js:7950:22
+eventHandler@file:///Users/lukasmenges/Library/Developer/CoreSimulator/Devices/E5000B21-9947-428D-88FA-98A1773CE63D/data/Containers/Bundle/Application/2F5C7F4A-672B-442B-83BF-AAD9F3C7902F/Fill%20Up.app/www/lib/ionic/js/ionic.bundle.js:10477:12
+dispatchEvent@[native code]
+triggerMouseEvent@file:///Users/lukasmenges/Library/Developer/CoreSimulator/Devices/E5000B21-9947-428D-88FA-98A1773CE63D/data/Containers/Bundle/Application/2F5C7F4A-672B-442B-83BF-AAD9F3C7902F/Fill%20Up.app/www/lib/ionic/js/ionic.bundle.js:2648:20
+tapClick@file:///Users/lukasmenges/Library/Developer/CoreSimulator/Devices/E5000B21-9947-428D-88FA-98A1773CE63D/data/Containers/Bundle/Application/2F5C7F4A-672B-442B-83BF-AAD9F3C7902F/Fill%20Up.app/www/lib/ionic/js/ionic.bundle.js:2637:20
+tapTouchEnd@file:///Users/lukasmenges/Library/Developer/CoreSimulator/Devices/E5000B21-9947-428D-88FA-98A1773CE63D/data/Containers/Bundle/Application/2F5C7F4A-672B-442B-83BF-AAD9F3C7902F/Fill%20Up.app/www/lib/ionic/js/ionic.bundle.js:2755:13
+2014-12-04 11:54:11.842 Fill Up[1862:1080799] ERROR: Error: Can't find variable: check
+file:///Users/lukasmenges/Library/Developer/CoreSimulator/Devices/E5000B21-9947-428D-88FA-98A1773CE63D/data/Containers/Bundle/Application/2F5C7F4A-672B-442B-83BF-AAD9F3C7902F/Fill%20Up.app/www/js/controllers.js:207:24
+wrappedCallback@file:///Users/lukasmenges/Library/Developer/CoreSimulator/Devices/E5000B21-9947-428D-88FA-98A1773CE63D/data/Containers/Bundle/Application/2F5C7F4A-672B-442B-83BF-AAD9F3C7902F/Fill%20Up.app/www/lib/ionic/js/ionic.bundle.js:19197:81
+wrappedCallback@file:///Users/lukasmenges/Library/Developer/CoreSimulator/Devices/E5000B21-9947-428D-88FA-98A1773CE63D/data/Containers/Bundle/Application/2F5C7F4A-672B-442B-83BF-AAD9F3C7902F/Fill%20Up.app/www/lib/ionic/js/ionic.bundle.js:19197:81
+file:///Users/lukasmenges/Library/Developer/CoreSimulator/Devices/E5000B21-9947-428D-88FA-98A1773CE63D/data/Containers/Bundle/Application/2F5C7F4A-672B-442B-83BF-AAD9F3C7902F/Fill%20Up.app/www/lib/ionic/js/ionic.bundle.js:19283:34
+$eval@file:///Users/lukasmenges/Library/Developer/CoreSimulator/Devices/E5000B21-9947-428D-88FA-98A1773CE63D/data/Containers/Bundle/Application/2F5C7F4A-672B-442B-83BF-AAD9F3C7902F/Fill%20Up.app/www/lib/ionic/js/ionic.bundle.js:20326:28
+$digest@file:///Users/lukasmenges/Library/Developer/CoreSimulator/Devices/E5000B21-9947-428D-88FA-98A1773CE63D/data/Containers/Bundle/Application/2F5C7F4A-672B-442B-83BF-AAD9F3C7902F/Fill%20Up.app/www/lib/ionic/js/ionic.bundle.js:20138:36
+$apply@file:///Users/lukasmenges/Library/Developer/CoreSimulator/Devices/E5000B21-9947-428D-88FA-98A1773CE63D/data/Containers/Bundle/Application/2F5C7F4A-672B-442B-83BF-AAD9F3C7902F/Fill%20Up.app/www/lib/ionic/js/ionic.bundle.js:20430:31
+file:///Users/lukasmenges/Library/Developer/CoreSimulator/Devices/E5000B21-9947-428D-88FA-98A1773CE63D/data/Containers/Bundle/Application/2F5C7F4A-672B-442B-83BF-AAD9F3C7902F/Fill%20Up.app/www/lib/ionic/js/ionic.bundle.js:43025:19
+file:///Users/lukasmenges/Library/Developer/CoreSimulator/Devices/E5000B21-9947-428D-88FA-98A1773CE63D/data/Containers/Bundle/Application/2F5C7F4A-672B-442B-83BF-AAD9F3C7902F/Fill%20Up.app/www/lib/ionic/js/ionic.bundle.js:10478:14
+forEach@file:///Users/lukasmenges/Library/Developer/CoreSimulator/Devices/E5000B21-9947-428D-88FA-98A1773CE63D/data/Containers/Bundle/Application/2F5C7F4A-672B-442B-83BF-AAD9F3C7902F/Fill%20Up.app/www/lib/ionic/js/ionic.bundle.js:7950:22
+eventHandler@file:///Users/lukasmenges/Library/Developer/CoreSimulator/Devices/E5000B21-9947-428D-88FA-98A1773CE63D/data/Containers/Bundle/Application/2F5C7F4A-672B-442B-83BF-AAD9F3C7902F/Fill%20Up.app/www/lib/ionic/js/ionic.bundle.js:10477:12
+dispatchEvent@[native code]
+triggerMouseEvent@file:///Users/lukasmenges/Library/Developer/CoreSimulator/Devices/E5000B21-9947-428D-88FA-98A1773CE63D/data/Containers/Bundle/Application/2F5C7F4A-672B-442B-83BF-AAD9F3C7902F/Fill%20Up.app/www/lib/ionic/js/ionic.bundle.js:2648:20
+tapClick@file:///Users/lukasmenges/Library/Developer/CoreSimulator/Devices/E5000B21-9947-428D-88FA-98A1773CE63D/data/Containers/Bundle/Application/2F5C7F4A-672B-442B-83BF-AAD9F3C7902F/Fill%20Up.app/www/lib/ionic/js/ionic.bundle.js:2637:20
+tapTouchEnd@file:///Users/lukasmenges/Library/Developer/CoreSimulator/Devices/E5000B21-9947-428D-88FA-98A1773CE63D/data/Containers/Bundle/Application/2F5C7F4A-672B-442B-83BF-AAD9F3C7902F/Fill%20Up.app/www/lib/ionic/js/ionic.bundle.js:2755:13
+2014-12-04 11:54:13.255 Fill Up[1862:1080799] Can't find keyplane that supports type 5 for keyboard iPhone-Portrait-PhonePad; using 2870935746_Portrait_iPhone-Complex-Pad_Default
+2014-12-04 11:54:19.546 Fill Up[1862:1080799] ERROR: Error: Can't find variable: check
+file:///Users/lukasmenges/Library/Developer/CoreSimulator/Devices/E5000B21-9947-428D-88FA-98A1773CE63D/data/Containers/Bundle/Application/2F5C7F4A-672B-442B-83BF-AAD9F3C7902F/Fill%20Up.app/www/js/controllers.js:207:24
+wrappedCallback@file:///Users/lukasmenges/Library/Developer/CoreSimulator/Devices/E5000B21-9947-428D-88FA-98A1773CE63D/data/Containers/Bundle/Application/2F5C7F4A-672B-442B-83BF-AAD9F3C7902F/Fill%20Up.app/www/lib/ionic/js/ionic.bundle.js:19197:81
+wrappedCallback@file:///Users/lukasmenges/Library/Developer/CoreSimulator/Devices/E5000B21-9947-428D-88FA-98A1773CE63D/data/Containers/Bundle/Application/2F5C7F4A-672B-442B-83BF-AAD9F3C7902F/Fill%20Up.app/www/lib/ionic/js/ionic.bundle.js:19197:81
+file:///Users/lukasmenges/Library/Developer/CoreSimulator/Devices/E5000B21-9947-428D-88FA-98A1773CE63D/data/Containers/Bundle/Application/2F5C7F4A-672B-442B-83BF-AAD9F3C7902F/Fill%20Up.app/www/lib/ionic/js/ionic.bundle.js:19283:34
+$eval@file:///Users/lukasmenges/Library/Developer/CoreSimulator/Devices/E5000B21-9947-428D-88FA-98A1773CE63D/data/Containers/Bundle/Application/2F5C7F4A-672B-442B-83BF-AAD9F3C7902F/Fill%20Up.app/www/lib/ionic/js/ionic.bundle.js:20326:28
+$digest@file:///Users/lukasmenges/Library/Developer/CoreSimulator/Devices/E5000B21-9947-428D-88FA-98A1773CE63D/data/Containers/Bundle/Application/2F5C7F4A-672B-442B-83BF-AAD9F3C7902F/Fill%20Up.app/www/lib/ionic/js/ionic.bundle.js:20138:36
+$apply@file:///Users/lukasmenges/Library/Developer/CoreSimulator/Devices/E5000B21-9947-428D-88FA-98A1773CE63D/data/Containers/Bundle/Application/2F5C7F4A-672B-442B-83BF-AAD9F3C7902F/Fill%20Up.app/www/lib/ionic/js/ionic.bundle.js:20430:31
+file:///Users/lukasmenges/Library/Developer/CoreSimulator/Devices/E5000B21-9947-428D-88FA-98A1773CE63D/data/Containers/Bundle/Application/2F5C7F4A-672B-442B-83BF-AAD9F3C7902F/Fill%20Up.app/www/lib/ionic/js/ionic.bundle.js:43025:19
+file:///Users/lukasmenges/Library/Developer/CoreSimulator/Devices/E5000B21-9947-428D-88FA-98A1773CE63D/data/Containers/Bundle/Application/2F5C7F4A-672B-442B-83BF-AAD9F3C7902F/Fill%20Up.app/www/lib/ionic/js/ionic.bundle.js:10478:14
+forEach@file:///Users/lukasmenges/Library/Developer/CoreSimulator/Devices/E5000B21-9947-428D-88FA-98A1773CE63D/data/Containers/Bundle/Application/2F5C7F4A-672B-442B-83BF-AAD9F3C7902F/Fill%20Up.app/www/lib/ionic/js/ionic.bundle.js:7950:22
+eventHandler@file:///Users/lukasmenges/Library/Developer/CoreSimulator/Devices/E5000B21-9947-428D-88FA-98A1773CE63D/data/Containers/Bundle/Application/2F5C7F4A-672B-442B-83BF-AAD9F3C7902F/Fill%20Up.app/www/lib/ionic/js/ionic.bundle.js:10477:12
+dispatchEvent@[native code]
+triggerMouseEvent@file:///Users/lukasmenges/Library/Developer/CoreSimulator/Devices/E5000B21-9947-428D-88FA-98A1773CE63D/data/Containers/Bundle/Application/2F5C7F4A-672B-442B-83BF-AAD9F3C7902F/Fill%20Up.app/www/lib/ionic/js/ionic.bundle.js:2648:20
+tapClick@file:///Users/lukasmenges/Library/Developer/CoreSimulator/Devices/E5000B21-9947-428D-88FA-98A1773CE63D/data/Containers/Bundle/Application/2F5C7F4A-672B-442B-83BF-AAD9F3C7902F/Fill%20Up.app/www/lib/ionic/js/ionic.bundle.js:2637:20
+tapTouchEnd@file:///Users/lukasmenges/Library/Developer/CoreSimulator/Devices/E5000B21-9947-428D-88FA-98A1773CE63D/data/Containers/Bundle/Application/2F5C7F4A-672B-442B-83BF-AAD9F3C7902F/Fill%20Up.app/www/lib/ionic/js/ionic.bundle.js:2755:13
+2014-12-04 11:58:06.661 Fill Up[1862:1080799] [{"0":"14","1":"Free Shot!","2":"Konstanz","3":"Bar P.","4":"Free Shot","5":"1","6":"35","7":"111","8":"47.6873121","9":"9.16200619999995","10":"testaccount","id":"14","name":"Free Shot!","city":"Konstanz","location":"Bar P.","text":"Free Shot","active":"1","count":"35","code":"111","lat":"47.6873121","lng":"9.16200619999995","user":"testaccount"}]
+2014-12-04 11:58:32.919 Fill Up[1862:1080799] [{"0":"14","1":"Free Shot!","2":"Konstanz","3":"Bar P.","4":"Free Shot","5":"1","6":"35","7":"111","8":"47.6873121","9":"9.16200619999995","10":"testaccount","id":"14","name":"Free Shot!","city":"Konstanz","location":"Bar P.","text":"Free Shot","active":"1","count":"35","code":"111","lat":"47.6873121","lng":"9.16200619999995","user":"testaccount"}]
+2014-12-04 11:58:37.226 Fill Up[1862:1080799] Can't find keyplane that supports type 5 for keyboard iPhone-Portrait-PhonePad; using 2870935746_Portrait_iPhone-Complex-Pad_Default
+2014-12-04 11:58:37.983 Fill Up[1862:1080799] Can't find keyplane that supports type 5 for keyboard iPhone-Portrait-PhonePad; using 2870935746_Portrait_iPhone-Complex-Pad_Default
+2014-12-04 11:58:38.792 Fill Up[1862:1080799] checkGutschein
+2014-12-04 11:58:38.933 Fill Up[1862:1080799] [{"0":"14","id":"14"}]
+2014-12-04 11:58:38.933 Fill Up[1862:1080799] Code richtig, Decrement
+2014-12-04 11:58:39.046 Fill Up[1862:1080799] Gutschein eingelöst
+2014-12-04 11:58:39.046 Fill Up[1862:1080799] Gutschein komplett engelöst
+2014-12-04 11:58:40.386 Fill Up[1862:1080799] null
+2014-12-04 12:00:51.942 Fill Up[1862:1080799] [{"0":"14","1":"Free Shot!","2":"Konstanz","3":"Bar P.","4":"Free Shot","5":"1","6":"34","7":"111","8":"47.6873121","9":"9.16200619999995","10":"testaccount","id":"14","name":"Free Shot!","city":"Konstanz","location":"Bar P.","text":"Free Shot","active":"1","count":"34","code":"111","lat":"47.6873121","lng":"9.16200619999995","user":"testaccount"}]
+2014-12-04 12:00:53.534 Fill Up[1862:1080799] [{"0":"14","1":"Free Shot!","2":"Konstanz","3":"Bar P.","4":"Free Shot","5":"1","6":"34","7":"111","8":"47.6873121","9":"9.16200619999995","10":"testaccount","id":"14","name":"Free Shot!","city":"Konstanz","location":"Bar P.","text":"Free Shot","active":"1","count":"34","code":"111","lat":"47.6873121","lng":"9.16200619999995","user":"testaccount"}]
+2014-12-08 12:58:15.662 Fill Up[2185:1218849] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lukasmenges/Library/Developer/CoreSimulator/Devices/E5000B21-9947-428D-88FA-98A1773CE63D/data/Containers/Data/Application/32A0768F-11F3-4033-92CF-9D4055636357/Library/Cookies/Cookies.binarycookies
+2014-12-08 12:58:15.740 Fill Up[2185:1218849] Multi-tasking -> Device: YES, App: YES
+2014-12-08 12:58:15.795 Fill Up[2185:1218849] Unlimited access to network resources
+2014-12-08 12:58:17.595 Fill Up[2185:1218849] [CDVTimer][keyboard] 0.054002ms
+2014-12-08 12:58:17.915 Fill Up[2185:1218849] [CDVTimer][splashscreen] 320.288002ms
+2014-12-08 12:58:17.922 Fill Up[2185:1218849] [CDVTimer][statusbar] 6.743014ms
+2014-12-08 12:58:17.922 Fill Up[2185:1218849] [CDVTimer][TotalPluginStartup] 327.494979ms
+2014-12-08 12:58:18.221 Fill Up[2185:1218849] Resetting plugins due to page load.
+2014-12-08 12:58:18.751 Fill Up[2185:1218849] Finished load of: file:///Users/lukasmenges/Library/Developer/CoreSimulator/Devices/E5000B21-9947-428D-88FA-98A1773CE63D/data/Containers/Bundle/Application/76BD04F8-3BA6-433B-82F5-2F38EBEDD560/Fill%20Up.app/www/index.html#/stadt

@@ -1,0 +1,24 @@
+<ion-view title="Gutscheine in {{city}}">
+  <ion-nav-buttons side="right" nav-transition="none">
+    <button class="button button-icon icon ion-ios7-refresh-empty" ng-click="doRefreshLoading()"></button>
+  </ion-nav-buttons>
+  <ion-content class="has-header">
+
+  <ion-refresher on-refresh="doRefresh()"></ion-refresher>
+
+  <div ng-show="empty" class="card">
+    <div class="item item-text-wrap">
+      {{empty}}
+    </div>
+  </div>
+
+  <ion-list>
+    <ion-item ng-repeat="friend in friends" type="item-text-wrap" href="#/tab/gutscheinDetail/{{city}}/{{friend.id}}/{{friend.name}}">
+      <span class="badge badge-calm">{{friend.count}}</span>
+      <h2>{{friend.name}}</h2>
+      <p>{{friend.location}}</p>
+    </ion-item>
+  </ion-list>
+
+  </ion-content>
+</ion-view>

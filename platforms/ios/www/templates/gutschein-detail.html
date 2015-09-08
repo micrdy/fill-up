@@ -1,0 +1,36 @@
+<ion-view title="{{currentTitle}}">
+  <ion-nav-buttons side="right" nav-transition="none">
+    <button class="button button-icon icon ion-ios7-refresh-empty" ng-click="doRefreshDetailLoading()"></button>
+  </ion-nav-buttons>
+
+  <ion-content class="has-header" padding="false">
+
+  <div  data-tap-disabled="true" id="map" style="height:180px; background-color:#efefef"></div>
+
+  <div id="wrapper_details" style="padding:0px 0px 0px 0px">
+    <div class="list">
+
+      <div class="item">
+        {{detail[0].name}}
+        <p style="margin-bottom:0;">{{detail[0].location}}</p>
+      </div>
+
+      <div style="padding:15px 15px 15px 15px;">
+        <span style="color: rgb(68, 68, 68);font-size: 16px;">Beschreibung</span>
+        <p style="color: #666;font-size: 14px;">{{detail[0].text}}</p>
+        <p ng-if="detail[0].url" style="color: #666;font-size: 14px; margin-bottom:0;"><a style="color:#43cee6; text-decoration:none;" href="{{detail[0].url}}" onclick="window.open(this.href, '_blank', 'closebuttoncaption=Fertig'); return false;">Mehr Infos</a></p>
+      </div>
+
+      <div class="item">
+        <p>Verfügbare Gutscheine: <strong style="color:#43cee6">{{detail[0].count}}</strong></p>
+      </div>
+
+    </div>
+  </div>
+
+  <div style="padding:0px 10px 10px 10px;">
+    <button ng-click="drink(detail[0].id)" class="button button-block button-calm">Gutschein jetzt einlösen</button>
+	</div>
+
+  </ion-content>
+</ion-view>

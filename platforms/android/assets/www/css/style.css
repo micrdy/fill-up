@@ -1,0 +1,46 @@
+/* Intro */
+.slider {
+  height: 100%;
+}
+.slider-slide {
+  padding-top: 80px;
+  color: #fff;
+  background-color:#43cee6;
+  text-align: center;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-weight: 300;
+  font-size:24px;
+  line-height:1.3em;
+}
+.slider-pager-page{
+  color:white !important;
+}
+.logo {
+  margin: 15px 0px;
+}
+.bar-calm{
+  border:none !important;
+}
+
+/* tab styling */
+.tab-item.tab-item-active .icon, .tab-item.active .icon, .tab-item.activated .icon{
+  color:#43cee6 !important;
+}
+.tab-item.tab-item-active .tab-title, .tab-item-active .tab-title, .tab-item.activated .tab-title{
+  color:#43cee6 !important;
+}
+.tab-item .icon{
+  color:#9d9d9c !important;
+}
+.tabs-striped .tab-item.tab-item-active, .tabs-striped .tab-item.active, .tabs-striped .tab-item.activated{
+  border-color:#43cee6 !important;
+}
+
+.inhalt{
+  color: rgb(68, 68, 68);
+  font-size: 14px;
+  padding:15px;
+}
+.item .badge{
+  right:15px;
+}
